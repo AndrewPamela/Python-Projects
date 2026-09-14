@@ -1,51 +1,51 @@
-Financial Data Automation & Analysis
-Project Overview
+# Financial Data Automation & Analysis
+
+## Project Overview
+
 This project demonstrates how Python can transform raw financial transactions into actionable insights and automated monthly reports. The workflow integrates data cleaning, analysis, visualization, and reporting, bridging into Power BI for interactive dashboards.
 
-Tools Used
-Python (automation & scripting)
+## Tools Used
 
-Pandas, NumPy (data wrangling & calculations)
+* Python (automation & scripting)
+* Pandas, NumPy (data wrangling & calculations)
+* Matplotlib, Plotly (visualizations)
+* Jupyter Notebook (analysis environment)
+* Power BI (business intelligence dashboards)
 
-Matplotlib, Plotly (visualizations)
+## What I Did
 
-Jupyter Notebook (analysis environment)
+* **Data Cleaning:** Prepared raw transaction data for analysis.
+* **Income & Expense Analysis:** Categorized and summarized monthly financial flows.
+* **Net Cash Flow:** Automated calculations to track financial performance.
+* **Monthly Reports:** Generated reusable CSV outputs.
+* **Visualizations:** Built charts to highlight trends and patterns.
+* **Power BI Integration:** Prepared outputs for interactive reporting.
 
-Power BI (business intelligence dashboards)
+## Key Analysis
 
-What I Did
-Data Cleaning: Prepared raw transaction data for analysis.
+* Monthly income and expenses
+* Net cash flow trends
+* Income vs. expenses comparison
+* Expense category patterns
+* Financial performance over time
 
-Income & Expense Analysis: Categorized and summarized monthly flows.
+## Project Screenshots
 
-Net Cash Flow: Automated calculations to track financial health.
+### Financial Data Analysis
 
-Monthly Reports: Generated reusable CSV outputs.
+![Financial Data Analysis](screenshots/01_Financial_Data_Analysis.png)
 
-Visualizations: Built charts to highlight trends and patterns.
+### Automated Reporting Workflow
 
-Power BI Integration: Enabled interactive drill-down reporting.
+![Financial Automation](screenshots/02_Financial_Automation.png)
 
-Key Analysis
-Monthly income & expenses
+### Monthly Financial Report
 
-Net cash flow trends
+![Financial Report](screenshots/03_Financial_Report.png)
 
-Income vs. expenses comparison
+## Project Structure
 
-Expense category patterns
-
-Financial performance over time
-
-Project Screenshots
-Financial Data Analysis
-
-Automated Reporting Workflow
-
-Monthly Financial Report
-
-Project Structure
-text
+```text
 Financial-Data-Automation-Analysis/
 │
 ├── screenshots/
@@ -56,13 +56,13 @@ Financial-Data-Automation-Analysis/
 ├── Clean_Financial_Data.csv
 ├── Monthly_Financial_Report.csv
 └── Financial_Data_Automation.ipynb
-Outcome
+```
+
+## Outcome
+
 This project delivers a reusable financial reporting pipeline that:
 
-Automates repetitive reporting tasks
-
-Provides clear insights into financial performance
-
-Produces structured outputs for business decision-making
-
-Enables interactive dashboards for deeper analysis
+* Automates repetitive reporting tasks
+* Provides clear insights into financial performance
+* Produces structured outputs for business decision-making
+* Enables interactive dashboards for deeper analysis
