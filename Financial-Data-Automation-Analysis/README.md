@@ -53,7 +53,7 @@ The workflow covers data cleaning, financial analysis, automation, visualization
 
 ### Forecast & Recommendations
 
-![Forecast & Recommendations](screenshots/04_Forecast_Recommendations.png)
+![Forecast & Recommendations](04_Forecast_Recommendations.png.png)
 
 ## Project Outcome
 
