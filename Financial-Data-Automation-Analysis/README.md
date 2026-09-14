@@ -42,15 +42,14 @@ The workflow covers data cleaning, financial analysis, automation, visualization
 
 ### Executive Financial Overview
 
-![Executive Financial Overview](screenshots/01_Executive_Financial_Overview.png)
-
+![Executive Financial Overview](01_Executive_Financial_Overview.png.png)
 ### Monthly Financial Analysis
 
-![Monthly Financial Analysis](screenshots/02_Monthly_Financial_Analysis.png)
+![Monthly Financial Analysis](02_Monthly_Financial_Analysis.png.png)
 
 ### Department & Transaction Analysis
 
-![Department & Transaction Analysis](screenshots/03_Department_Transaction_Analysis.png)
+![Department & Transaction Analysis](03_Department_Transaction_Analysis.png.png)
 
 ### Forecast & Recommendations
 
