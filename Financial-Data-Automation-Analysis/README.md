@@ -2,67 +2,62 @@
 
 ## Project Overview
 
-This project demonstrates how Python can transform raw financial transactions into actionable insights and automated monthly reports. The workflow integrates data cleaning, analysis, visualization, and reporting, bridging into Power BI for interactive dashboards.
+This project demonstrates how Python can transform raw financial transactions into useful business insights and automated financial reports.
+
+The workflow covers data cleaning, financial analysis, automation, visualization, and Power BI reporting.
 
 ## Tools Used
 
-* Python (automation & scripting)
-* Pandas, NumPy (data wrangling & calculations)
-* Matplotlib, Plotly (visualizations)
-* Jupyter Notebook (analysis environment)
-* Power BI (business intelligence dashboards)
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Plotly
+* Jupyter Notebook
+* Power BI
+* Excel
 
 ## What I Did
 
-* **Data Cleaning:** Prepared raw transaction data for analysis.
-* **Income & Expense Analysis:** Categorized and summarized monthly financial flows.
-* **Net Cash Flow:** Automated calculations to track financial performance.
-* **Monthly Reports:** Generated reusable CSV outputs.
-* **Visualizations:** Built charts to highlight trends and patterns.
-* **Power BI Integration:** Prepared outputs for interactive reporting.
+* Cleaned and prepared financial transaction data
+* Analysed income and expenses
+* Calculated net cash flow
+* Created monthly financial reports
+* Automated financial calculations and reporting
+* Built visualizations to identify trends and patterns
+* Prepared analysis outputs for Power BI
+* Built an interactive financial dashboard
 
 ## Key Analysis
 
 * Monthly income and expenses
+* Income vs. expenses
 * Net cash flow trends
-* Income vs. expenses comparison
-* Expense category patterns
-* Financial performance over time
+* Expense category analysis
+* Department and transaction analysis
+* Financial performance trends
+* Forecast and recommendations
 
-## Project Screenshots
+## Power BI Dashboard
 
-### Financial Data Analysis
+### Executive Financial Overview
 
-![Financial Data Analysis](screenshots/01_Financial_Data_Analysis.png)
+![Executive Financial Overview](screenshots/01_Executive_Financial_Overview.png)
 
-### Automated Reporting Workflow
+### Monthly Financial Analysis
 
-![Financial Automation](screenshots/02_Financial_Automation.png)
+![Monthly Financial Analysis](screenshots/02_Monthly_Financial_Analysis.png)
 
-### Monthly Financial Report
+### Department & Transaction Analysis
 
-![Financial Report](screenshots/03_Financial_Report.png)
+![Department & Transaction Analysis](screenshots/03_Department_Transaction_Analysis.png)
 
-## Project Structure
+### Forecast & Recommendations
 
-```text
-Financial-Data-Automation-Analysis/
-│
-├── screenshots/
-│   ├── 01_Financial_Data_Analysis.png
-│   ├── 02_Financial_Automation.png
-│   └── 03_Financial_Report.png
-│
-├── Clean_Financial_Data.csv
-├── Monthly_Financial_Report.csv
-└── Financial_Data_Automation.ipynb
-```
+![Forecast & Recommendations](screenshots/04_Forecast_Recommendations.png)
 
-## Outcome
+## Project Outcome
 
-This project delivers a reusable financial reporting pipeline that:
+The project demonstrates how Python can be used to automate financial analysis and transform raw transaction data into structured reports and business insights.
 
-* Automates repetitive reporting tasks
-* Provides clear insights into financial performance
-* Produces structured outputs for business decision-making
-* Enables interactive dashboards for deeper analysis
+The outputs were then used to create an interactive Power BI dashboard for financial monitoring and decision-making.
