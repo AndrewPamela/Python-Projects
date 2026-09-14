@@ -1,0 +1,1801 @@
+Transaction_ID,Date,Department,Region,Transaction_Type,Payment_Method,Account_Type,Description,Amount,Annual_Budget,Month
+FIN20556,2025-11-15,Sales,Port Harcourt,Income,Cash,Current Account,Client Payment,1184002.0,9000000,2025-11
+FIN21745,2025-05-03,Operations,Kano,Income,Bank Transfer,Current Account,Advertising,833494.0,8500000,2025-05
+FIN20298,2025-08-04,IT,Ibadan,Income,Mobile Money,Business Account,Client Payment,1786032.0,7200000,2025-08
+FIN20734,2025-05-17,IT,Lagos,Expense,Cash,Savings Account,Advertising,428376.0,7200000,2025-05
+FIN20911,2025-09-24,Human Resources,Ibadan,Expense,Direct Debit,Savings Account,Service Fee,201871.0,5000000,2025-09
+FIN20630,2025-04-07,Operations,Ibadan,Income,Card,Business Account,Client Payment,625735.0,8500000,2025-04
+FIN21035,2025-10-18,Finance,Lagos,Income,Mobile Money,Current Account,Utilities,1063825.0,5800000,2025-10
+FIN20610,2025-01-16,Operations,Lagos,Expense,Mobile Money,Savings Account,Software Subscription,463842.0,8500000,2025-01
+FIN20679,2025-04-13,Finance,Lagos,Expense,Direct Debit,Business Account,Travel,475061.0,5800000,2025-04
+FIN20603,2025-11-23,Finance,Ibadan,Income,Direct Debit,Current Account,Client Payment,1233976.0,5800000,2025-11
+FIN20786,2025-06-26,Finance,Abuja,Expense,Cash,Savings Account,Salary,154445.0,5800000,2025-06
+FIN20975,2025-06-16,Operations,Abuja,Income,Card,Savings Account,Advertising,148803.0,8500000,2025-06
+FIN20562,2025-01-22,IT,Lagos,Income,Direct Debit,Savings Account,Software Subscription,1283865.0,7200000,2025-01
+FIN21662,2025-08-19,IT,Kano,Income,Card,Savings Account,Advertising,880554.0,7200000,2025-08
+FIN20240,2025-01-08,Finance,Port Harcourt,Income,Cash,Business Account,Software Subscription,1666292.0,5800000,2025-01
+FIN21711,2025-06-08,Sales,Lagos,Income,Mobile Money,Business Account,Utilities,1541494.0,9000000,2025-06
+FIN21107,2025-06-27,Human Resources,Lagos,Income,Bank Transfer,Business Account,Software Subscription,286846.0,5000000,2025-06
+FIN21302,2025-01-30,Human Resources,Lagos,Expense,Bank Transfer,Savings Account,Equipment,331385.0,5000000,2025-01
+FIN21306,2025-05-25,IT,Abuja,Expense,Mobile Money,Savings Account,Travel,114837.0,7200000,2025-05
+FIN20213,2025-07-10,Operations,Port Harcourt,Expense,Direct Debit,Current Account,Office Supplies,642006.0,8500000,2025-07
+FIN21182,2025-03-24,Marketing,Ibadan,Income,Bank Transfer,Business Account,Client Payment,394063.0,6500000,2025-03
+FIN21671,2025-01-07,IT,Lagos,Income,Card,Savings Account,Office Supplies,378335.0,7200000,2025-01
+FIN21176,2025-03-15,Operations,Kano,Expense,Direct Debit,Savings Account,Equipment,116143.0,8500000,2025-03
+FIN20705,2025-07-06,Marketing,Port Harcourt,Income,Mobile Money,Business Account,Software Subscription,1553447.0,6500000,2025-07
+FIN20299,2025-12-27,Marketing,Kano,Expense,Bank Transfer,Savings Account,Software Subscription,297068.0,6500000,2025-12
+FIN20174,2025-02-04,Human Resources,Ibadan,Income,Cash,Savings Account,Software Subscription,596409.0,5000000,2025-02
+FIN20711,2025-01-13,Marketing,Kano,Expense,Mobile Money,Current Account,Consulting,371193.0,6500000,2025-01
+FIN20325,2025-06-04,Sales,Lagos,Expense,Cash,Current Account,Utilities,198267.0,9000000,2025-06
+FIN20414,2025-03-20,Human Resources,Kano,Expense,Bank Transfer,Current Account,Advertising,599223.0,5000000,2025-03
+FIN21027,2025-10-16,Human Resources,Lagos,Expense,Card,Savings Account,Utilities,361678.0,5000000,2025-10
+FIN21562,2025-03-07,Sales,Abuja,Income,Bank Transfer,Business Account,Consulting,1554585.0,9000000,2025-03
+FIN20332,2025-10-12,Operations,Ibadan,Expense,Bank Transfer,Savings Account,Client Payment,205194.0,8500000,2025-10
+FIN20030,2025-02-25,Marketing,Lagos,Income,Mobile Money,Current Account,Office Supplies,1382887.0,6500000,2025-02
+FIN21570,2025-08-04,Human Resources,Abuja,Income,Direct Debit,Business Account,Utilities,992743.0,5000000,2025-08
+FIN21331,2025-08-07,Sales,Abuja,Expense,Cash,Current Account,Office Supplies,190948.0,9000000,2025-08
+FIN21539,2025-12-23,Finance,Lagos,Income,Mobile Money,Savings Account,Utilities,707835.0,5800000,2025-12
+FIN21759,2025-06-15,Human Resources,Lagos,Income,Cash,Business Account,Software Subscription,1060547.0,5000000,2025-06
+FIN20440,2025-12-23,Finance,Lagos,Income,Bank Transfer,Current Account,Consulting,1159227.0,5800000,2025-12
+FIN20323,2025-06-22,Human Resources,Ibadan,Expense,Bank Transfer,Current Account,Service Fee,25668.0,5000000,2025-06
+FIN21160,2025-04-16,Finance,Ibadan,Income,Bank Transfer,Current Account,Salary,1279151.0,5800000,2025-04
+FIN21434,2025-02-16,Sales,Port Harcourt,Expense,Bank Transfer,Current Account,Salary,223814.0,9000000,2025-02
+FIN20977,2025-08-04,Finance,Abuja,Expense,Bank Transfer,Current Account,Client Payment,404370.0,5800000,2025-08
+FIN20638,2025-02-05,IT,Port Harcourt,Income,Mobile Money,Savings Account,Software Subscription,1119550.0,7200000,2025-02
+FIN21126,2025-08-09,Marketing,Kano,Expense,Bank Transfer,Savings Account,Service Fee,261084.0,6500000,2025-08
+FIN21059,2025-12-16,Finance,Port Harcourt,Income,Bank Transfer,Current Account,Service Fee,811478.0,5800000,2025-12
+FIN21324,2025-10-19,Finance,Unknown,Income,Cash,Business Account,Unknown,552779.0,5800000,2025-10
+FIN20252,2025-02-06,Sales,Ibadan,Income,Bank Transfer,Savings Account,Service Fee,261360.0,9000000,2025-02
+FIN21663,2025-10-28,Operations,Port Harcourt,Expense,Mobile Money,Current Account,Travel,393192.0,8500000,2025-10
+FIN21085,2025-04-18,Human Resources,Port Harcourt,Expense,Direct Debit,Current Account,Advertising,132669.0,5000000,2025-04
+FIN20367,2025-02-04,Human Resources,Abuja,Expense,Direct Debit,Business Account,Utilities,144116.0,5000000,2025-02
+FIN20678,2025-01-06,IT,Kano,Income,Bank Transfer,Business Account,Advertising,1163094.0,7200000,2025-01
+FIN20495,2025-02-28,Operations,Lagos,Income,Cash,Current Account,Client Payment,202775.0,8500000,2025-02
+FIN21698,2025-02-08,Sales,Port Harcourt,Income,Mobile Money,Savings Account,Consulting,1737153.0,9000000,2025-02
+FIN21341,2025-01-05,IT,Lagos,Income,Mobile Money,Current Account,Advertising,160811.0,7200000,2025-01
+FIN20271,2025-08-11,Finance,Lagos,Expense,Direct Debit,Current Account,Consulting,358089.0,5800000,2025-08
+FIN21303,2025-08-01,Operations,Port Harcourt,Income,Mobile Money,Current Account,Utilities,1291569.0,8500000,2025-08
+FIN20533,2025-03-11,Operations,Kano,Expense,Direct Debit,Current Account,Consulting,267572.0,8500000,2025-03
+FIN20890,2025-06-04,Sales,Lagos,Income,Bank Transfer,Savings Account,Travel,860926.0,9000000,2025-06
+FIN20066,2025-02-14,Finance,Abuja,Expense,Card,Savings Account,Advertising,271514.0,5800000,2025-02
+FIN21541,2025-06-25,Human Resources,Port Harcourt,Expense,Cash,Business Account,Travel,549882.0,5000000,2025-06
+FIN21115,2025-09-12,Human Resources,Port Harcourt,Expense,Card,Business Account,Software Subscription,254000.0,5000000,2025-09
+FIN21512,2025-02-20,Finance,Ibadan,Expense,Cash,Savings Account,Service Fee,433461.0,5800000,2025-02
+FIN20651,2025-10-21,IT,Ibadan,Income,Mobile Money,Current Account,Service Fee,1703154.0,7200000,2025-10
+FIN20368,2025-09-03,Finance,Abuja,Expense,Mobile Money,Current Account,Consulting,37413.0,5800000,2025-09
+FIN20568,2025-06-07,Operations,Lagos,Income,Bank Transfer,Business Account,Salary,1226332.0,8500000,2025-06
+FIN21231,2025-11-20,Finance,Abuja,Expense,Cash,Savings Account,Consulting,266732.0,5800000,2025-11
+FIN20882,2025-09-03,Sales,Abuja,Expense,Cash,Business Account,Equipment,643502.0,9000000,2025-09
+FIN21437,2025-04-13,Finance,Port Harcourt,Income,Bank Transfer,Business Account,Office Supplies,928923.0,5800000,2025-04
+FIN21291,2025-10-24,IT,Ibadan,Income,Card,Current Account,Salary,1552542.0,7200000,2025-10
+FIN21761,2025-07-05,IT,Abuja,Income,Mobile Money,Business Account,Salary,469770.0,7200000,2025-07
+FIN20840,2025-02-13,IT,Kano,Expense,Bank Transfer,Business Account,Software Subscription,108059.0,7200000,2025-02
+FIN21748,2025-05-24,Human Resources,Abuja,Income,Cash,Savings Account,Service Fee,1399976.0,5000000,2025-05
+FIN20395,2025-09-10,Marketing,Port Harcourt,Income,Mobile Money,Current Account,Consulting,1288948.0,6500000,2025-09
+FIN20465,2025-01-16,Human Resources,Kano,Expense,Cash,Current Account,Equipment,293820.0,5000000,2025-01
+FIN21119,2025-12-07,IT,Ibadan,Income,Direct Debit,Current Account,Utilities,1219664.0,7200000,2025-12
+FIN20737,2025-09-30,Finance,Kano,Income,Mobile Money,Savings Account,Salary,1163868.0,5800000,2025-09
+FIN20800,2025-02-15,Human Resources,Port Harcourt,Expense,Bank Transfer,Savings Account,Client Payment,192257.0,5000000,2025-02
+FIN21357,2025-06-02,IT,Port Harcourt,Expense,Direct Debit,Savings Account,Software Subscription,570841.0,7200000,2025-06
+FIN21069,2025-11-05,Finance,Ibadan,Income,Cash,Savings Account,Equipment,779309.0,5800000,2025-11
+FIN20375,2025-08-18,Human Resources,Lagos,Income,Mobile Money,Savings Account,Utilities,1540537.0,5000000,2025-08
+FIN21354,2025-08-21,Operations,Unknown,Expense,Card,Savings Account,Consulting,307635.0,8500000,2025-08
+FIN21318,2025-06-10,Human Resources,Port Harcourt,Expense,Direct Debit,Savings Account,Salary,416308.0,5000000,2025-06
+FIN20290,2025-03-16,Operations,Port Harcourt,Expense,Direct Debit,Savings Account,Client Payment,349231.0,8500000,2025-03
+FIN21498,2025-07-17,Marketing,Abuja,Income,Direct Debit,Savings Account,Software Subscription,194397.0,6500000,2025-07
+FIN21367,2025-07-20,Finance,Port Harcourt,Expense,Mobile Money,Business Account,Software Subscription,590706.0,5800000,2025-07
+FIN20110,2025-05-31,Finance,Ibadan,Income,Mobile Money,Current Account,Salary,103387.0,5800000,2025-05
+FIN20340,2025-10-11,IT,Abuja,Income,Direct Debit,Business Account,Advertising,599349.0,7200000,2025-10
+FIN20536,2025-11-01,IT,Abuja,Expense,Cash,Current Account,Consulting,217097.0,7200000,2025-11
+FIN20112,2025-03-05,Human Resources,Kano,Income,Card,Savings Account,Utilities,1214033.0,5000000,2025-03
+FIN20894,2025-10-31,Finance,Ibadan,Income,Mobile Money,Business Account,Utilities,1227815.0,5800000,2025-10
+FIN20071,2025-08-02,Marketing,Port Harcourt,Expense,Bank Transfer,Current Account,Equipment,292872.0,6500000,2025-08
+FIN21424,2025-10-10,Operations,Ibadan,Income,Direct Debit,Current Account,Salary,1549539.0,8500000,2025-10
+FIN21310,2025-03-03,Marketing,Ibadan,Expense,Bank Transfer,Current Account,Consulting,135657.0,6500000,2025-03
+FIN20362,2025-06-06,Human Resources,Lagos,Expense,Mobile Money,Savings Account,Office Supplies,101257.0,5000000,2025-06
+FIN21473,2025-08-05,IT,Lagos,Expense,Direct Debit,Current Account,Service Fee,551985.0,7200000,2025-08
+FIN21511,2025-03-15,Human Resources,Kano,Expense,Direct Debit,Business Account,Consulting,60542.0,5000000,2025-03
+FIN20985,2025-03-27,Marketing,Kano,Expense,Direct Debit,Current Account,Software Subscription,601177.0,6500000,2025-03
+FIN20862,2025-02-15,Finance,Kano,Income,Cash,Current Account,Utilities,1697227.0,5800000,2025-02
+FIN21339,2025-01-25,IT,Kano,Income,Mobile Money,Business Account,Service Fee,246277.0,7200000,2025-01
+FIN20507,2025-12-28,Marketing,Abuja,Expense,Bank Transfer,Business Account,Service Fee,347069.0,6500000,2025-12
+FIN20528,2025-09-05,Human Resources,Kano,Income,Cash,Business Account,Service Fee,996383.0,5000000,2025-09
+FIN20255,2025-11-04,Human Resources,Abuja,Income,Cash,Current Account,Consulting,1418106.0,5000000,2025-11
+FIN20308,2025-01-07,Marketing,Ibadan,Income,Bank Transfer,Savings Account,Service Fee,529830.0,6500000,2025-01
+FIN21504,2025-03-19,Marketing,Ibadan,Income,Mobile Money,Business Account,Consulting,109336.0,6500000,2025-03
+FIN20535,2025-03-09,Operations,Port Harcourt,Expense,Card,Current Account,Office Supplies,590201.0,8500000,2025-03
+FIN20189,2025-12-02,Human Resources,Kano,Expense,Bank Transfer,Savings Account,Salary,648380.0,5000000,2025-12
+FIN20866,2025-11-18,IT,Ibadan,Expense,Card,Savings Account,Advertising,339165.0,7200000,2025-11
+FIN20618,2025-05-20,Finance,Port Harcourt,Income,Bank Transfer,Savings Account,Utilities,1740833.0,5800000,2025-05
+FIN20024,2025-10-11,Marketing,Ibadan,Income,Direct Debit,Business Account,Software Subscription,683103.0,6500000,2025-10
+FIN21230,2025-02-28,Operations,Lagos,Income,Direct Debit,Current Account,Salary,829078.0,8500000,2025-02
+FIN20571,2025-05-02,Finance,Abuja,Income,Cash,Current Account,Service Fee,1107557.0,5800000,2025-05
+FIN21274,2025-07-25,Finance,Ibadan,Income,Bank Transfer,Business Account,Service Fee,203853.0,5800000,2025-07
+FIN21750,2025-02-16,IT,Lagos,Income,Bank Transfer,Savings Account,Consulting,847876.0,7200000,2025-02
+FIN21538,2025-11-20,Human Resources,Port Harcourt,Expense,Cash,Savings Account,Utilities,336527.0,5000000,2025-11
+FIN21138,2025-12-02,Sales,Unknown,Income,Card,Savings Account,Travel,970083.0,9000000,2025-12
+FIN20415,2025-07-09,Operations,Port Harcourt,Expense,Direct Debit,Savings Account,Utilities,404583.0,8500000,2025-07
+FIN21180,2025-09-18,Operations,Kano,Expense,Direct Debit,Current Account,Client Payment,310951.0,8500000,2025-09
+FIN21024,2025-10-14,Human Resources,Kano,Expense,Bank Transfer,Savings Account,Software Subscription,200494.0,5000000,2025-10
+FIN20702,2025-10-11,Marketing,Lagos,Income,Bank Transfer,Current Account,Client Payment,392229.0,6500000,2025-10
+FIN20463,2025-03-10,Marketing,Lagos,Expense,Direct Debit,Savings Account,Office Supplies,377574.0,6500000,2025-03
+FIN20423,2025-08-29,Human Resources,Abuja,Income,Bank Transfer,Business Account,Utilities,618645.0,5000000,2025-08
+FIN20608,2025-07-25,Human Resources,Ibadan,Income,Direct Debit,Current Account,Office Supplies,676804.0,5000000,2025-07
+FIN20906,2025-04-03,Finance,Abuja,Expense,Cash,Business Account,Client Payment,509709.0,5800000,2025-04
+FIN20136,2025-09-02,Finance,Ibadan,Income,Card,Savings Account,Utilities,1265574.0,5800000,2025-09
+FIN21122,2025-01-11,IT,Port Harcourt,Expense,Cash,Current Account,Utilities,504528.0,7200000,2025-01
+FIN20428,2025-08-24,IT,Ibadan,Expense,Mobile Money,Business Account,Salary,216846.0,7200000,2025-08
+FIN21475,2025-05-15,Human Resources,Ibadan,Income,Card,Savings Account,Advertising,759447.0,5000000,2025-05
+FIN20343,2025-07-08,IT,Kano,Income,Card,Savings Account,Consulting,350040.0,7200000,2025-07
+FIN21767,2025-04-07,IT,Kano,Expense,Direct Debit,Current Account,Travel,615330.0,7200000,2025-04
+FIN21314,2025-06-20,Finance,Abuja,Expense,Cash,Savings Account,Utilities,250780.0,5800000,2025-06
+FIN20916,2025-01-14,Marketing,Abuja,Income,Mobile Money,Business Account,Advertising,186022.0,6500000,2025-01
+FIN20545,2025-07-03,Human Resources,Abuja,Expense,Cash,Current Account,Service Fee,475738.0,5000000,2025-07
+FIN20817,2025-12-02,Marketing,Lagos,Expense,Direct Debit,Current Account,Service Fee,256500.0,6500000,2025-12
+FIN21499,2025-02-14,Operations,Ibadan,Income,Card,Business Account,Office Supplies,328552.0,8500000,2025-02
+FIN20629,2025-02-14,Operations,Port Harcourt,Income,Direct Debit,Savings Account,Equipment,266368.0,8500000,2025-02
+FIN21418,2025-10-15,Marketing,Ibadan,Income,Direct Debit,Current Account,Office Supplies,625096.0,6500000,2025-10
+FIN20708,2025-10-19,Marketing,Abuja,Expense,Direct Debit,Business Account,Advertising,34995.0,6500000,2025-10
+FIN20116,2025-06-07,Sales,Ibadan,Expense,Cash,Current Account,Advertising,633079.0,9000000,2025-06
+FIN20555,2025-03-24,Marketing,Kano,Expense,Mobile Money,Business Account,Salary,69522.0,6500000,2025-03
+FIN20433,2025-07-11,Sales,Ibadan,Expense,Direct Debit,Current Account,Service Fee,227772.0,9000000,2025-07
+FIN20552,2025-07-01,Operations,Lagos,Expense,Mobile Money,Business Account,Advertising,309360.0,8500000,2025-07
+FIN20366,2025-07-15,Sales,Port Harcourt,Income,Bank Transfer,Business Account,Service Fee,1364294.0,9000000,2025-07
+FIN20926,2025-01-10,Finance,Abuja,Income,Mobile Money,Current Account,Salary,283047.0,5800000,2025-01
+FIN21464,2025-07-25,Sales,Port Harcourt,Expense,Cash,Savings Account,Client Payment,362221.0,9000000,2025-07
+FIN21465,2025-05-30,Operations,Abuja,Expense,Bank Transfer,Current Account,Travel,456862.0,8500000,2025-05
+FIN21627,2025-06-14,Human Resources,Abuja,Income,Bank Transfer,Current Account,Service Fee,1700017.0,5000000,2025-06
+FIN20819,2025-08-21,Sales,Port Harcourt,Income,Cash,Current Account,Utilities,282416.0,9000000,2025-08
+FIN20765,2025-09-22,Finance,Lagos,Income,Cash,Business Account,Service Fee,1109127.0,5800000,2025-09
+FIN21518,2025-01-07,Marketing,Port Harcourt,Expense,Mobile Money,Current Account,Service Fee,50791.0,6500000,2025-01
+FIN21701,2025-02-15,Human Resources,Port Harcourt,Expense,Cash,Business Account,Equipment,175666.0,5000000,2025-02
+FIN20773,2025-01-26,Marketing,Abuja,Income,Mobile Money,Business Account,Advertising,413997.0,6500000,2025-01
+FIN20933,2025-01-04,IT,Lagos,Expense,Mobile Money,Savings Account,Travel,476843.0,7200000,2025-01
+FIN20234,2025-09-17,Finance,Lagos,Income,Mobile Money,Business Account,Advertising,523031.0,5800000,2025-09
+FIN20818,2025-03-12,Sales,Kano,Income,Card,Savings Account,Service Fee,798675.0,9000000,2025-03
+FIN20964,2025-01-08,Marketing,Ibadan,Income,Direct Debit,Savings Account,Consulting,799407.0,6500000,2025-01
+FIN20211,2025-01-15,Marketing,Lagos,Expense,Cash,Business Account,Equipment,634553.0,6500000,2025-01
+FIN20125,2025-03-29,IT,Abuja,Income,Cash,Business Account,Software Subscription,1499541.0,7200000,2025-03
+FIN20416,2025-02-16,Marketing,Ibadan,Income,Direct Debit,Current Account,Software Subscription,392813.0,6500000,2025-02
+FIN21393,2025-07-16,Human Resources,Kano,Income,Cash,Savings Account,Service Fee,536331.0,5000000,2025-07
+FIN20050,2025-12-04,Finance,Lagos,Income,Mobile Money,Savings Account,Service Fee,883585.0,5800000,2025-12
+FIN21537,2025-09-16,Marketing,Kano,Income,Card,Savings Account,Utilities,1181004.0,6500000,2025-09
+FIN21723,2025-07-07,Finance,Lagos,Income,Card,Savings Account,Consulting,1620724.0,5800000,2025-07
+FIN21720,2025-03-10,Human Resources,Kano,Income,Cash,Business Account,Service Fee,894914.0,5000000,2025-03
+FIN20204,2025-01-10,Sales,Port Harcourt,Expense,Card,Current Account,Office Supplies,576376.0,9000000,2025-01
+FIN20558,2025-11-12,Operations,Lagos,Income,Bank Transfer,Current Account,Salary,368963.0,8500000,2025-11
+FIN21385,2025-01-19,Operations,Lagos,Expense,Mobile Money,Savings Account,Office Supplies,110417.0,8500000,2025-01
+FIN21392,2025-02-05,Finance,Kano,Income,Direct Debit,Current Account,Advertising,347986.0,5800000,2025-02
+FIN21390,2025-03-22,Finance,Ibadan,Income,Direct Debit,Current Account,Utilities,1406931.0,5800000,2025-03
+FIN21433,2025-01-10,Operations,Kano,Income,Bank Transfer,Current Account,Utilities,1250694.0,8500000,2025-01
+FIN21165,2025-02-11,Operations,Ibadan,Income,Cash,Current Account,Travel,874448.0,8500000,2025-02
+FIN20486,2025-04-07,Human Resources,Abuja,Expense,Mobile Money,Current Account,Salary,96848.0,5000000,2025-04
+FIN21791,2025-02-06,Sales,Port Harcourt,Income,Card,Current Account,Software Subscription,1615480.0,9000000,2025-02
+FIN20963,2025-04-22,Marketing,Lagos,Income,Direct Debit,Savings Account,Utilities,95434.0,6500000,2025-04
+FIN20079,2025-10-16,Operations,Ibadan,Income,Cash,Current Account,Equipment,164080.0,8500000,2025-10
+FIN20825,2025-07-18,Human Resources,Ibadan,Expense,Card,Savings Account,Advertising,504528.0,5000000,2025-07
+FIN20632,2025-01-23,Operations,Port Harcourt,Expense,Cash,Business Account,Salary,465872.0,8500000,2025-01
+FIN20306,2025-12-24,Marketing,Abuja,Expense,Direct Debit,Business Account,Service Fee,43248.0,6500000,2025-12
+FIN20074,2025-12-04,Finance,Kano,Expense,Bank Transfer,Savings Account,Travel,404193.0,5800000,2025-12
+FIN20409,2025-09-28,Sales,Kano,Expense,Cash,Current Account,Office Supplies,117406.0,9000000,2025-09
+FIN20070,2025-02-20,Operations,Lagos,Expense,Card,Business Account,Consulting,53872.0,8500000,2025-02
+FIN20163,2025-11-18,Operations,Port Harcourt,Expense,Cash,Business Account,Client Payment,629312.0,8500000,2025-11
+FIN20988,2025-05-25,Marketing,Port Harcourt,Income,Mobile Money,Savings Account,Unknown,648302.0,6500000,2025-05
+FIN21174,2025-09-13,Sales,Kano,Income,Direct Debit,Business Account,Service Fee,410170.0,9000000,2025-09
+FIN20238,2025-04-05,Finance,Kano,Income,Cash,Current Account,Travel,232889.0,5800000,2025-04
+FIN21566,2025-01-22,IT,Ibadan,Income,Direct Debit,Savings Account,Equipment,824748.0,7200000,2025-01
+FIN21659,2025-11-21,IT,Ibadan,Income,Card,Savings Account,Advertising,1549793.0,7200000,2025-11
+FIN20746,2025-06-01,IT,Lagos,Expense,Mobile Money,Business Account,Service Fee,55903.0,7200000,2025-06
+FIN20974,2025-11-02,IT,Port Harcourt,Income,Card,Savings Account,Salary,1079430.0,7200000,2025-11
+FIN21197,2025-05-26,IT,Port Harcourt,Expense,Mobile Money,Current Account,Service Fee,191389.0,7200000,2025-05
+FIN20599,2025-09-30,Operations,Kano,Income,Cash,Business Account,Advertising,748590.0,8500000,2025-09
+FIN21704,2025-06-13,Human Resources,Ibadan,Income,Direct Debit,Business Account,Consulting,1631224.0,5000000,2025-06
+FIN21173,2025-04-11,Marketing,Abuja,Expense,Direct Debit,Savings Account,Software Subscription,613731.0,6500000,2025-04
+FIN20077,2025-12-14,IT,Kano,Expense,Bank Transfer,Current Account,Service Fee,218522.0,7200000,2025-12
+FIN21628,2025-02-18,IT,Lagos,Expense,Card,Savings Account,Service Fee,579603.0,7200000,2025-02
+FIN20472,2025-11-18,Marketing,Lagos,Expense,Direct Debit,Business Account,Software Subscription,581693.0,6500000,2025-11
+FIN20382,2025-06-27,Operations,Ibadan,Expense,Card,Business Account,Software Subscription,283844.0,8500000,2025-06
+FIN21348,2025-01-19,Operations,Kano,Income,Direct Debit,Business Account,Equipment,1671872.0,8500000,2025-01
+FIN21008,2025-10-25,Human Resources,Ibadan,Expense,Direct Debit,Current Account,Software Subscription,227596.0,5000000,2025-10
+FIN20931,2025-09-25,Finance,Ibadan,Income,Direct Debit,Savings Account,Office Supplies,590370.0,5800000,2025-09
+FIN20317,2025-08-08,Human Resources,Abuja,Income,Cash,Business Account,Consulting,621357.0,5000000,2025-08
+FIN20221,2025-05-23,Sales,Lagos,Expense,Direct Debit,Current Account,Travel,309134.0,9000000,2025-05
+FIN21308,2025-02-27,Sales,Ibadan,Expense,Card,Current Account,Software Subscription,376427.0,9000000,2025-02
+FIN21513,2025-03-08,Finance,Kano,Expense,Mobile Money,Current Account,Client Payment,54753.0,5800000,2025-03
+FIN21376,2025-11-11,Sales,Kano,Expense,Cash,Current Account,Office Supplies,502605.0,9000000,2025-11
+FIN20695,2025-02-25,Operations,Port Harcourt,Income,Bank Transfer,Business Account,Utilities,1338870.0,8500000,2025-02
+FIN20031,2025-06-04,Marketing,Kano,Expense,Card,Savings Account,Salary,65475.0,6500000,2025-06
+FIN21207,2025-06-19,Marketing,Ibadan,Expense,Direct Debit,Current Account,Office Supplies,484761.0,6500000,2025-06
+FIN21587,2025-06-22,Marketing,Abuja,Expense,Cash,Current Account,Utilities,525200.0,6500000,2025-06
+FIN20680,2025-01-10,Operations,Lagos,Expense,Card,Savings Account,Client Payment,423157.0,8500000,2025-01
+FIN21212,2025-12-20,IT,Lagos,Income,Cash,Savings Account,Travel,482980.0,7200000,2025-12
+FIN21594,2025-04-27,Marketing,Ibadan,Income,Direct Debit,Business Account,Service Fee,573216.0,6500000,2025-04
+FIN20212,2025-01-04,Marketing,Kano,Expense,Cash,Savings Account,Office Supplies,542154.0,6500000,2025-01
+FIN21419,2025-09-09,Sales,Port Harcourt,Income,Cash,Savings Account,Equipment,656677.0,9000000,2025-09
+FIN21436,2025-04-06,Sales,Kano,Income,Bank Transfer,Savings Account,Salary,1283202.0,9000000,2025-04
+FIN20100,2025-02-15,Operations,Kano,Income,Bank Transfer,Current Account,Office Supplies,424710.0,8500000,2025-02
+FIN21557,2025-12-03,Human Resources,Ibadan,Expense,Cash,Business Account,Advertising,474485.0,5000000,2025-12
+FIN20924,2025-02-03,Finance,Kano,Expense,Direct Debit,Savings Account,Equipment,316629.0,5800000,2025-02
+FIN20530,2025-04-16,Finance,Port Harcourt,Expense,Cash,Savings Account,Service Fee,143099.0,5800000,2025-04
+FIN20352,2025-11-11,IT,Lagos,Expense,Cash,Savings Account,Salary,345203.0,7200000,2025-11
+FIN20304,2025-07-02,IT,Lagos,Expense,Direct Debit,Current Account,Utilities,446674.0,7200000,2025-07
+FIN20809,2025-09-23,Human Resources,Kano,Income,Bank Transfer,Current Account,Unknown,454226.0,5000000,2025-09
+FIN20169,2025-01-19,Marketing,Lagos,Income,Cash,Savings Account,Client Payment,197235.0,6500000,2025-01
+FIN21488,2025-04-18,Finance,Port Harcourt,Expense,Cash,Savings Account,Consulting,255295.0,5800000,2025-04
+FIN21536,2025-06-01,IT,Lagos,Income,Bank Transfer,Savings Account,Software Subscription,897563.0,7200000,2025-06
+FIN20811,2025-05-24,Marketing,Lagos,Expense,Direct Debit,Business Account,Service Fee,106694.0,6500000,2025-05
+FIN21238,2025-06-17,Finance,Abuja,Income,Mobile Money,Business Account,Travel,442462.0,5800000,2025-06
+FIN21753,2025-07-27,IT,Abuja,Income,Mobile Money,Business Account,Consulting,1062293.0,7200000,2025-07
+FIN20544,2025-10-25,Human Resources,Abuja,Expense,Card,Current Account,Consulting,561287.0,5000000,2025-10
+FIN20577,2025-02-25,Operations,Port Harcourt,Income,Direct Debit,Business Account,Office Supplies,1250808.0,8500000,2025-02
+FIN21413,2025-04-09,Operations,Ibadan,Income,Bank Transfer,Savings Account,Consulting,1418084.0,8500000,2025-04
+FIN21466,2025-06-08,Sales,Abuja,Income,Mobile Money,Business Account,Salary,576013.0,9000000,2025-06
+FIN21743,2025-09-11,Human Resources,Abuja,Expense,Card,Savings Account,Advertising,386330.0,5000000,2025-09
+FIN20033,2025-04-21,Operations,Lagos,Income,Bank Transfer,Business Account,Service Fee,1618510.0,8500000,2025-04
+FIN21014,2025-08-22,Operations,Port Harcourt,Income,Card,Savings Account,Travel,913525.0,8500000,2025-08
+FIN21179,2025-06-15,Marketing,Ibadan,Expense,Direct Debit,Current Account,Client Payment,131362.0,6500000,2025-06
+FIN20454,2025-04-23,Human Resources,Ibadan,Expense,Card,Current Account,Equipment,256187.0,5000000,2025-04
+FIN20276,2025-07-02,Sales,Lagos,Income,Cash,Savings Account,Client Payment,1773176.0,9000000,2025-07
+FIN20248,2025-10-25,Marketing,Ibadan,Expense,Card,Savings Account,Software Subscription,126121.0,6500000,2025-10
+FIN21198,2025-03-04,Human Resources,Kano,Expense,Cash,Business Account,Salary,432310.0,5000000,2025-03
+FIN20907,2025-01-17,IT,Kano,Expense,Bank Transfer,Savings Account,Service Fee,457585.0,7200000,2025-01
+FIN20186,2025-11-25,Marketing,Abuja,Expense,Cash,Current Account,Office Supplies,639064.0,6500000,2025-11
+FIN21417,2025-12-01,Marketing,Abuja,Income,Bank Transfer,Business Account,Utilities,371464.0,6500000,2025-12
+FIN21007,2025-10-31,Sales,Abuja,Expense,Mobile Money,Business Account,Salary,272557.0,9000000,2025-10
+FIN20611,2025-11-23,Marketing,Ibadan,Income,Card,Savings Account,Office Supplies,513934.0,6500000,2025-11
+FIN21592,2025-01-11,Marketing,Lagos,Expense,Mobile Money,Savings Account,Utilities,545754.0,6500000,2025-01
+FIN20045,2025-07-16,Marketing,Abuja,Income,Card,Current Account,Salary,1055217.0,6500000,2025-07
+FIN21636,2025-06-15,Human Resources,Abuja,Income,Card,Current Account,Travel,892283.0,5000000,2025-06
+FIN20600,2025-07-06,Marketing,Abuja,Income,Card,Current Account,Consulting,1550801.0,6500000,2025-07
+FIN21260,2025-02-13,Finance,Abuja,Expense,Card,Current Account,Utilities,439149.0,5800000,2025-02
+FIN21133,2025-05-24,Sales,Kano,Income,Cash,Current Account,Software Subscription,1223647.0,9000000,2025-05
+FIN20197,2025-05-02,Marketing,Abuja,Expense,Mobile Money,Savings Account,Travel,540616.0,6500000,2025-05
+FIN20980,2025-05-09,Human Resources,Abuja,Expense,Card,Business Account,Client Payment,539385.0,5000000,2025-05
+FIN21325,2025-04-18,IT,Ibadan,Expense,Direct Debit,Savings Account,Salary,483685.0,7200000,2025-04
+FIN21577,2025-11-09,IT,Abuja,Income,Bank Transfer,Current Account,Office Supplies,636718.0,7200000,2025-11
+FIN20060,2025-05-27,Sales,Lagos,Income,Direct Debit,Current Account,Client Payment,1748321.0,9000000,2025-05
+FIN21245,2025-03-21,IT,Port Harcourt,Expense,Cash,Current Account,Client Payment,105166.0,7200000,2025-03
+FIN21010,2025-03-15,Finance,Lagos,Income,Mobile Money,Business Account,Advertising,725194.0,5800000,2025-03
+FIN20742,2025-07-22,Finance,Ibadan,Income,Direct Debit,Business Account,Travel,1313954.0,5800000,2025-07
+FIN20353,2025-11-24,Human Resources,Abuja,Expense,Bank Transfer,Business Account,Salary,364866.0,5000000,2025-11
+FIN21476,2025-07-04,Sales,Lagos,Expense,Card,Current Account,Consulting,553903.0,9000000,2025-07
+FIN20124,2025-10-28,Human Resources,Kano,Income,Mobile Money,Business Account,Office Supplies,1710668.0,5000000,2025-10
+FIN21042,2025-06-21,IT,Port Harcourt,Expense,Card,Current Account,Equipment,442739.0,7200000,2025-06
+FIN20671,2025-02-12,Marketing,Kano,Income,Bank Transfer,Business Account,Service Fee,364154.0,6500000,2025-02
+FIN21408,2025-07-29,Human Resources,Ibadan,Expense,Card,Savings Account,Salary,134456.0,5000000,2025-07
+FIN21263,2025-09-03,IT,Port Harcourt,Income,Cash,Business Account,Travel,840129.0,7200000,2025-09
+FIN20484,2025-01-18,Operations,Ibadan,Expense,Cash,Savings Account,Salary,138094.0,8500000,2025-01
+FIN20355,2025-10-03,Operations,Ibadan,Income,Bank Transfer,Savings Account,Software Subscription,913731.0,8500000,2025-10
+FIN20421,2025-09-13,Marketing,Abuja,Expense,Bank Transfer,Savings Account,Utilities,290784.0,6500000,2025-09
+FIN21787,2025-03-21,Sales,Port Harcourt,Expense,Bank Transfer,Savings Account,Utilities,147572.0,9000000,2025-03
+FIN21763,2025-12-24,Human Resources,Abuja,Income,Mobile Money,Savings Account,Travel,126002.0,5000000,2025-12
+FIN20279,2025-06-02,Finance,Lagos,Expense,Bank Transfer,Savings Account,Office Supplies,80128.0,5800000,2025-06
+FIN21573,2025-04-13,Sales,Abuja,Expense,Direct Debit,Current Account,Travel,83014.0,9000000,2025-04
+FIN21199,2025-05-01,Sales,Port Harcourt,Expense,Cash,Business Account,Software Subscription,30589.0,9000000,2025-05
+FIN20479,2025-10-05,Marketing,Ibadan,Expense,Card,Business Account,Client Payment,71717.0,6500000,2025-10
+FIN21166,2025-11-20,Marketing,Lagos,Expense,Mobile Money,Current Account,Utilities,463441.0,6500000,2025-11
+FIN20068,2025-08-21,Marketing,Ibadan,Expense,Mobile Money,Current Account,Service Fee,455928.0,6500000,2025-08
+FIN20670,2025-03-23,IT,Port Harcourt,Income,Bank Transfer,Current Account,Utilities,1664973.0,7200000,2025-03
+FIN20783,2025-10-02,IT,Kano,Income,Mobile Money,Current Account,Unknown,633091.0,7200000,2025-10
+FIN20351,2025-08-10,Operations,Ibadan,Income,Mobile Money,Savings Account,Advertising,382929.0,8500000,2025-08
+FIN20644,2025-03-10,Operations,Kano,Income,Cash,Business Account,Travel,1314915.0,8500000,2025-03
+FIN21288,2025-02-24,Sales,Port Harcourt,Income,Card,Current Account,Client Payment,1611192.0,9000000,2025-02
+FIN20333,2025-05-06,Operations,Kano,Income,Mobile Money,Current Account,Consulting,1784098.0,8500000,2025-05
+FIN20417,2025-12-27,Human Resources,Port Harcourt,Income,Card,Business Account,Consulting,1337669.0,5000000,2025-12
+FIN20753,2025-02-14,Finance,Port Harcourt,Expense,Card,Business Account,Service Fee,448395.0,5800000,2025-02
+FIN20384,2025-06-14,Marketing,Lagos,Expense,Cash,Business Account,Salary,43199.0,6500000,2025-06
+FIN21038,2025-09-11,Marketing,Abuja,Expense,Mobile Money,Business Account,Salary,171426.0,6500000,2025-09
+FIN21340,2025-06-05,Human Resources,Lagos,Income,Bank Transfer,Current Account,Salary,1118660.0,5000000,2025-06
+FIN20594,2025-03-06,Marketing,Lagos,Income,Direct Debit,Current Account,Utilities,629844.0,6500000,2025-03
+FIN21402,2025-01-14,Finance,Lagos,Income,Bank Transfer,Current Account,Equipment,1719778.0,5800000,2025-01
+FIN21448,2025-06-11,Operations,Kano,Expense,Mobile Money,Business Account,Software Subscription,576371.0,8500000,2025-06
+FIN21522,2025-05-18,Operations,Lagos,Expense,Card,Business Account,Software Subscription,591302.0,8500000,2025-05
+FIN21293,2025-01-10,Finance,Abuja,Expense,Mobile Money,Current Account,Advertising,499806.0,5800000,2025-01
+FIN20383,2025-03-04,Sales,Abuja,Expense,Direct Debit,Savings Account,Consulting,252076.0,9000000,2025-03
+FIN20498,2025-10-11,Marketing,Abuja,Income,Mobile Money,Current Account,Client Payment,757160.0,6500000,2025-10
+FIN20583,2025-07-17,Human Resources,Ibadan,Income,Bank Transfer,Savings Account,Travel,388449.0,5000000,2025-07
+FIN20549,2025-01-20,Sales,Kano,Expense,Bank Transfer,Current Account,Advertising,218237.0,9000000,2025-01
+FIN20775,2025-06-03,Sales,Lagos,Expense,Direct Debit,Business Account,Service Fee,523323.0,9000000,2025-06
+FIN20262,2025-04-13,Marketing,Lagos,Expense,Mobile Money,Business Account,Advertising,508067.0,6500000,2025-04
+FIN21461,2025-07-23,Operations,Lagos,Income,Cash,Savings Account,Software Subscription,886564.0,8500000,2025-07
+FIN20241,2025-03-08,Marketing,Ibadan,Expense,Direct Debit,Savings Account,Travel,381719.0,6500000,2025-03
+FIN20814,2025-12-14,Operations,Ibadan,Expense,Mobile Money,Business Account,Advertising,513960.0,8500000,2025-12
+FIN21384,2025-04-10,Human Resources,Port Harcourt,Income,Card,Savings Account,Salary,462736.0,5000000,2025-04
+FIN21773,2025-12-07,Finance,Unknown,Expense,Mobile Money,Business Account,Salary,556069.0,5800000,2025-12
+FIN21330,2025-03-12,Operations,Port Harcourt,Income,Card,Savings Account,Utilities,1741945.0,8500000,2025-03
+FIN21241,2025-10-26,Finance,Port Harcourt,Expense,Mobile Money,Current Account,Travel,248584.0,5800000,2025-10
+FIN21084,2025-03-17,Marketing,Port Harcourt,Expense,Bank Transfer,Current Account,Service Fee,22866.0,6500000,2025-03
+FIN20072,2025-05-31,IT,Abuja,Income,Mobile Money,Business Account,Software Subscription,550641.0,7200000,2025-05
+FIN20260,2025-03-01,Sales,Ibadan,Income,Cash,Savings Account,Consulting,682272.0,9000000,2025-03
+FIN20052,2025-10-28,Operations,Kano,Expense,Card,Current Account,Consulting,339759.0,8500000,2025-10
+FIN21237,2025-08-27,IT,Ibadan,Expense,Direct Debit,Business Account,Client Payment,265984.0,7200000,2025-08
+FIN20621,2025-10-15,Marketing,Port Harcourt,Income,Card,Current Account,Advertising,1794423.0,6500000,2025-10
+FIN20969,2025-08-28,Operations,Lagos,Expense,Card,Business Account,Salary,516283.0,8500000,2025-08
+FIN21240,2025-02-20,Human Resources,Port Harcourt,Income,Direct Debit,Savings Account,Utilities,504528.0,5000000,2025-02
+FIN20612,2025-04-06,Marketing,Kano,Expense,Direct Debit,Current Account,Software Subscription,43386.0,6500000,2025-04
+FIN20345,2025-03-31,IT,Abuja,Income,Bank Transfer,Business Account,Software Subscription,391877.0,7200000,2025-03
+FIN21540,2025-06-17,Human Resources,Ibadan,Expense,Mobile Money,Business Account,Consulting,506084.0,5000000,2025-06
+FIN21290,2025-02-11,Marketing,Kano,Income,Mobile Money,Savings Account,Salary,1635157.0,6500000,2025-02
+FIN20585,2025-06-28,Operations,Kano,Expense,Bank Transfer,Current Account,Salary,176255.0,8500000,2025-06
+FIN20821,2025-10-26,IT,Abuja,Expense,Mobile Money,Business Account,Software Subscription,56683.0,7200000,2025-10
+FIN20917,2025-01-14,Operations,Ibadan,Income,Bank Transfer,Current Account,Advertising,781979.0,8500000,2025-01
+FIN21262,2025-12-09,IT,Kano,Expense,Cash,Savings Account,Travel,132138.0,7200000,2025-12
+FIN20426,2025-02-03,Marketing,Abuja,Expense,Bank Transfer,Business Account,Utilities,326081.0,6500000,2025-02
+FIN21079,2025-03-31,Marketing,Ibadan,Income,Card,Current Account,Utilities,1752795.0,6500000,2025-03
+FIN20487,2025-01-01,IT,Ibadan,Income,Bank Transfer,Business Account,Software Subscription,1030162.0,7200000,2025-01
+FIN20515,2025-06-20,Sales,Ibadan,Income,Card,Savings Account,Equipment,904143.0,9000000,2025-06
+FIN21289,2025-09-23,Operations,Abuja,Income,Mobile Money,Savings Account,Client Payment,1514904.0,8500000,2025-09
+FIN20723,2025-02-10,Sales,Ibadan,Income,Direct Debit,Current Account,Utilities,243834.0,9000000,2025-02
+FIN20681,2025-03-12,Operations,Port Harcourt,Expense,Direct Debit,Savings Account,Utilities,605457.0,8500000,2025-03
+FIN21645,2025-10-27,Operations,Abuja,Income,Mobile Money,Business Account,Equipment,1365138.0,8500000,2025-10
+FIN20142,2025-10-23,Sales,Lagos,Income,Mobile Money,Business Account,Consulting,954631.0,9000000,2025-10
+FIN20939,2025-05-12,Marketing,Lagos,Income,Card,Savings Account,Advertising,1365016.0,6500000,2025-05
+FIN20721,2025-04-27,Finance,Ibadan,Expense,Direct Debit,Current Account,Salary,496111.0,5800000,2025-04
+FIN21707,2025-05-03,Sales,Port Harcourt,Expense,Mobile Money,Current Account,Utilities,216521.0,9000000,2025-05
+FIN20399,2025-01-24,Marketing,Kano,Expense,Mobile Money,Business Account,Client Payment,323602.0,6500000,2025-01
+FIN21685,2025-07-01,Finance,Port Harcourt,Income,Cash,Savings Account,Service Fee,1730824.0,5800000,2025-07
+FIN21323,2025-02-12,Finance,Kano,Expense,Mobile Money,Savings Account,Travel,361651.0,5800000,2025-02
+FIN20272,2025-03-30,IT,Lagos,Expense,Card,Current Account,Utilities,376007.0,7200000,2025-03
+FIN20185,2025-07-01,Marketing,Lagos,Income,Cash,Current Account,Advertising,1245898.0,6500000,2025-07
+FIN20793,2025-06-03,Sales,Lagos,Income,Card,Business Account,Office Supplies,1663957.0,9000000,2025-06
+FIN20245,2025-04-27,Human Resources,Port Harcourt,Income,Bank Transfer,Business Account,Software Subscription,1396189.0,5000000,2025-04
+FIN21050,2025-06-13,IT,Kano,Income,Card,Savings Account,Office Supplies,1525028.0,7200000,2025-06
+FIN20481,2025-06-06,IT,Lagos,Expense,Bank Transfer,Savings Account,Software Subscription,375054.0,7200000,2025-06
+FIN20693,2025-11-03,Finance,Port Harcourt,Income,Card,Current Account,Service Fee,353146.0,5800000,2025-11
+FIN21001,2025-10-16,IT,Ibadan,Income,Cash,Current Account,Salary,1747904.0,7200000,2025-10
+FIN20519,2025-05-26,IT,Port Harcourt,Expense,Card,Business Account,Client Payment,351119.0,7200000,2025-05
+FIN20576,2025-10-05,Human Resources,Ibadan,Expense,Cash,Current Account,Service Fee,488758.0,5000000,2025-10
+FIN20932,2025-12-25,IT,Port Harcourt,Expense,Card,Current Account,Salary,251182.0,7200000,2025-12
+FIN20620,2025-05-30,Marketing,Lagos,Expense,Direct Debit,Current Account,Client Payment,268724.0,6500000,2025-05
+FIN21358,2025-05-07,Sales,Kano,Income,Bank Transfer,Business Account,Consulting,1040652.0,9000000,2025-05
+FIN21329,2025-11-09,Marketing,Abuja,Expense,Mobile Money,Current Account,Advertising,351999.0,6500000,2025-11
+FIN20251,2025-09-25,IT,Kano,Income,Bank Transfer,Savings Account,Client Payment,1785587.0,7200000,2025-09
+FIN20722,2025-06-15,Marketing,Kano,Income,Mobile Money,Current Account,Consulting,1331011.0,6500000,2025-06
+FIN21194,2025-01-09,Human Resources,Abuja,Expense,Card,Business Account,Advertising,239707.0,5000000,2025-01
+FIN21170,2025-02-25,IT,Lagos,Income,Bank Transfer,Savings Account,Advertising,715719.0,7200000,2025-02
+FIN20758,2025-06-06,Sales,Lagos,Expense,Mobile Money,Business Account,Travel,52101.0,9000000,2025-06
+FIN20706,2025-05-10,Sales,Lagos,Expense,Cash,Savings Account,Client Payment,306663.0,9000000,2025-05
+FIN21209,2025-03-17,IT,Kano,Income,Mobile Money,Current Account,Advertising,1010370.0,7200000,2025-03
+FIN21356,2025-11-19,Operations,Port Harcourt,Expense,Cash,Current Account,Salary,548036.0,8500000,2025-11
+FIN21768,2025-04-27,Finance,Abuja,Income,Card,Current Account,Utilities,1237522.0,5800000,2025-04
+FIN20788,2025-11-15,Operations,Port Harcourt,Income,Cash,Current Account,Advertising,1358723.0,8500000,2025-11
+FIN20527,2025-03-12,Sales,Kano,Income,Card,Current Account,Travel,693375.0,9000000,2025-03
+FIN21766,2025-09-21,Operations,Abuja,Income,Mobile Money,Business Account,Consulting,795339.0,8500000,2025-09
+FIN21320,2025-11-30,Human Resources,Port Harcourt,Income,Cash,Savings Account,Utilities,780769.0,5000000,2025-11
+FIN20860,2025-10-03,Marketing,Lagos,Income,Cash,Current Account,Consulting,1041703.0,6500000,2025-10
+FIN21023,2025-12-09,Human Resources,Kano,Expense,Bank Transfer,Business Account,Client Payment,133776.0,5000000,2025-12
+FIN20171,2025-08-29,Operations,Ibadan,Expense,Card,Business Account,Client Payment,504528.0,8500000,2025-08
+FIN20293,2025-11-21,Sales,Port Harcourt,Expense,Bank Transfer,Savings Account,Office Supplies,340815.0,9000000,2025-11
+FIN21147,2025-08-08,Marketing,Abuja,Expense,Direct Debit,Current Account,Consulting,357283.0,6500000,2025-08
+FIN20496,2025-02-01,Human Resources,Kano,Income,Card,Savings Account,Consulting,1049211.0,5000000,2025-02
+FIN20301,2025-01-15,Sales,Kano,Income,Mobile Money,Current Account,Service Fee,1547071.0,9000000,2025-01
+FIN21713,2025-10-08,Human Resources,Port Harcourt,Expense,Cash,Business Account,Salary,421562.0,5000000,2025-10
+FIN20434,2025-09-10,Operations,Kano,Income,Mobile Money,Current Account,Service Fee,173269.0,8500000,2025-09
+FIN20998,2025-12-07,Marketing,Lagos,Income,Card,Current Account,Service Fee,695863.0,6500000,2025-12
+FIN21284,2025-03-09,Operations,Port Harcourt,Income,Direct Debit,Savings Account,Travel,233245.0,8500000,2025-03
+FIN21760,2025-03-31,Human Resources,Ibadan,Expense,Cash,Business Account,Utilities,146202.0,5000000,2025-03
+FIN21254,2025-11-01,Sales,Lagos,Income,Cash,Savings Account,Service Fee,543937.0,9000000,2025-11
+FIN21055,2025-11-20,Marketing,Kano,Expense,Bank Transfer,Savings Account,Service Fee,487927.0,6500000,2025-11
+FIN20372,2025-10-10,IT,Lagos,Income,Direct Debit,Current Account,Travel,1764351.0,7200000,2025-10
+FIN20856,2025-09-11,Human Resources,Lagos,Income,Direct Debit,Savings Account,Office Supplies,1057022.0,5000000,2025-09
+FIN21637,2025-10-20,Human Resources,Kano,Income,Bank Transfer,Savings Account,Office Supplies,897711.0,5000000,2025-10
+FIN20412,2025-09-04,Operations,Abuja,Expense,Direct Debit,Current Account,Office Supplies,547741.0,8500000,2025-09
+FIN21630,2025-10-16,Human Resources,Port Harcourt,Income,Direct Debit,Savings Account,Equipment,1273627.0,5000000,2025-10
+FIN20584,2025-11-17,Sales,Ibadan,Income,Card,Business Account,Travel,613634.0,9000000,2025-11
+FIN20176,2025-01-01,Finance,Kano,Income,Bank Transfer,Current Account,Salary,771211.0,5800000,2025-01
+FIN20483,2025-04-07,Sales,Port Harcourt,Income,Card,Business Account,Travel,237462.0,9000000,2025-04
+FIN21203,2025-12-15,Finance,Abuja,Income,Mobile Money,Business Account,Utilities,352647.0,5800000,2025-12
+FIN21756,2025-05-29,Operations,Kano,Expense,Bank Transfer,Savings Account,Office Supplies,497910.0,8500000,2025-05
+FIN21503,2025-09-28,Finance,Port Harcourt,Income,Cash,Savings Account,Salary,1539700.0,5800000,2025-09
+FIN20335,2025-06-23,Finance,Abuja,Income,Cash,Current Account,Software Subscription,99675.0,5800000,2025-06
+FIN20781,2025-05-11,Finance,Kano,Expense,Direct Debit,Savings Account,Equipment,517599.0,5800000,2025-05
+FIN20589,2025-03-02,Marketing,Ibadan,Income,Mobile Money,Savings Account,Software Subscription,725275.0,6500000,2025-03
+FIN21607,2025-10-24,Human Resources,Ibadan,Income,Card,Savings Account,Software Subscription,561725.0,5000000,2025-10
+FIN20918,2025-09-23,IT,Lagos,Expense,Cash,Business Account,Client Payment,399593.0,7200000,2025-09
+FIN20482,2025-09-08,Marketing,Kano,Expense,Direct Debit,Business Account,Client Payment,75480.0,6500000,2025-09
+FIN20199,2025-12-18,Sales,Abuja,Expense,Card,Current Account,Utilities,400634.0,9000000,2025-12
+FIN20016,2025-06-20,Human Resources,Abuja,Income,Mobile Money,Savings Account,Travel,172601.0,5000000,2025-06
+FIN20266,2025-05-31,Sales,Lagos,Expense,Mobile Money,Savings Account,Service Fee,110009.0,9000000,2025-05
+FIN20967,2025-09-10,Sales,Port Harcourt,Expense,Cash,Current Account,Salary,447858.0,9000000,2025-09
+FIN21709,2025-04-09,Finance,Lagos,Expense,Card,Savings Account,Equipment,469764.0,5800000,2025-04
+FIN20839,2025-08-06,Sales,Abuja,Expense,Bank Transfer,Business Account,Utilities,408227.0,9000000,2025-08
+FIN21615,2025-04-01,Sales,Ibadan,Income,Card,Business Account,Office Supplies,904837.0,9000000,2025-04
+FIN21132,2025-05-03,Operations,Lagos,Income,Card,Savings Account,Utilities,1053619.0,8500000,2025-05
+FIN20755,2025-01-17,Finance,Abuja,Income,Bank Transfer,Business Account,Salary,882720.0,5800000,2025-01
+FIN20845,2025-08-24,IT,Kano,Income,Direct Debit,Current Account,Equipment,1580948.0,7200000,2025-08
+FIN20766,2025-07-24,Marketing,Ibadan,Expense,Direct Debit,Business Account,Service Fee,205639.0,6500000,2025-07
+FIN20439,2025-07-28,Finance,Abuja,Expense,Mobile Money,Current Account,Advertising,181081.0,5800000,2025-07
+FIN20200,2025-12-27,Operations,Port Harcourt,Expense,Mobile Money,Savings Account,Consulting,310374.0,8500000,2025-12
+FIN20747,2025-03-15,Human Resources,Ibadan,Income,Bank Transfer,Business Account,Advertising,540244.0,5000000,2025-03
+FIN21019,2025-08-14,Operations,Port Harcourt,Expense,Cash,Savings Account,Office Supplies,351927.0,8500000,2025-08
+FIN20619,2025-11-22,IT,Ibadan,Expense,Bank Transfer,Current Account,Travel,343258.0,7200000,2025-11
+FIN21294,2025-12-24,IT,Lagos,Expense,Bank Transfer,Business Account,Office Supplies,174599.0,7200000,2025-12
+FIN20480,2025-06-11,Human Resources,Port Harcourt,Expense,Mobile Money,Current Account,Advertising,22763.0,5000000,2025-06
+FIN21058,2025-08-17,Sales,Lagos,Income,Mobile Money,Current Account,Travel,740858.0,9000000,2025-08
+FIN21188,2025-12-02,Finance,Lagos,Income,Card,Current Account,Utilities,297770.0,5800000,2025-12
+FIN21080,2025-04-14,Sales,Port Harcourt,Expense,Cash,Savings Account,Office Supplies,430184.0,9000000,2025-04
+FIN21152,2025-07-01,Sales,Kano,Expense,Cash,Current Account,Salary,573515.0,9000000,2025-07
+FIN21264,2025-03-25,Marketing,Ibadan,Income,Mobile Money,Current Account,Software Subscription,715329.0,6500000,2025-03
+FIN20430,2025-12-15,IT,Kano,Income,Cash,Business Account,Advertising,700399.0,7200000,2025-12
+FIN21751,2025-12-17,Finance,Lagos,Expense,Bank Transfer,Savings Account,Service Fee,339752.0,5800000,2025-12
+FIN20311,2025-05-24,Finance,Abuja,Income,Cash,Business Account,Equipment,1485568.0,5800000,2025-05
+FIN20057,2025-04-21,Human Resources,Abuja,Income,Direct Debit,Savings Account,Client Payment,1138079.0,5000000,2025-04
+FIN21657,2025-06-18,Operations,Kano,Expense,Card,Business Account,Service Fee,430243.0,8500000,2025-06
+FIN21315,2025-03-04,IT,Ibadan,Income,Bank Transfer,Business Account,Advertising,567030.0,7200000,2025-03
+FIN20614,2025-01-02,Marketing,Port Harcourt,Income,Direct Debit,Current Account,Client Payment,1599904.0,6500000,2025-01
+FIN20044,2025-09-26,Marketing,Abuja,Expense,Cash,Current Account,Salary,158286.0,6500000,2025-09
+FIN20101,2025-11-24,Marketing,Port Harcourt,Income,Bank Transfer,Current Account,Service Fee,1798507.0,6500000,2025-11
+FIN20275,2025-08-24,Human Resources,Kano,Income,Mobile Money,Business Account,Utilities,1366980.0,5000000,2025-08
+FIN21471,2025-03-09,Human Resources,Port Harcourt,Expense,Direct Debit,Business Account,Office Supplies,413120.0,5000000,2025-03
+FIN20354,2025-06-28,IT,Kano,Income,Cash,Current Account,Utilities,1013396.0,7200000,2025-06
+FIN20102,2025-08-24,Operations,Ibadan,Expense,Mobile Money,Savings Account,Utilities,367235.0,8500000,2025-08
+FIN20810,2025-04-28,Marketing,Kano,Income,Mobile Money,Current Account,Office Supplies,1545792.0,6500000,2025-04
+FIN20108,2025-03-06,Marketing,Port Harcourt,Expense,Direct Debit,Current Account,Service Fee,221554.0,6500000,2025-03
+FIN21528,2025-07-30,Sales,Ibadan,Income,Mobile Money,Savings Account,Unknown,858883.0,9000000,2025-07
+FIN21622,2025-03-30,IT,Abuja,Income,Direct Debit,Current Account,Office Supplies,1746208.0,7200000,2025-03
+FIN20778,2025-04-02,Operations,Lagos,Expense,Card,Business Account,Travel,155203.0,8500000,2025-04
+FIN21458,2025-06-07,IT,Port Harcourt,Expense,Mobile Money,Business Account,Client Payment,434027.0,7200000,2025-06
+FIN21481,2025-04-18,Finance,Lagos,Expense,Cash,Current Account,Equipment,98533.0,5800000,2025-04
+FIN21532,2025-07-30,IT,Abuja,Expense,Mobile Money,Current Account,Equipment,517488.0,7200000,2025-07
+FIN20768,2025-06-04,Human Resources,Kano,Expense,Cash,Current Account,Advertising,251318.0,5000000,2025-06
+FIN20427,2025-03-20,Marketing,Ibadan,Income,Bank Transfer,Savings Account,Salary,1774537.0,6500000,2025-03
+FIN21371,2025-07-30,Marketing,Lagos,Expense,Cash,Savings Account,Salary,267667.0,6500000,2025-07
+FIN21432,2025-05-09,IT,Abuja,Income,Direct Debit,Current Account,Client Payment,695175.0,7200000,2025-05
+FIN20129,2025-05-15,Finance,Abuja,Income,Direct Debit,Business Account,Client Payment,1195488.0,5800000,2025-05
+FIN21542,2025-11-06,Finance,Lagos,Income,Card,Business Account,Equipment,1056089.0,5800000,2025-11
+FIN21227,2025-10-21,Sales,Ibadan,Income,Cash,Business Account,Salary,1466689.0,9000000,2025-10
+FIN20451,2025-11-02,Human Resources,Lagos,Expense,Cash,Savings Account,Equipment,198969.0,5000000,2025-11
+FIN20979,2025-05-15,Sales,Port Harcourt,Income,Direct Debit,Savings Account,Equipment,1606318.0,9000000,2025-05
+FIN21074,2025-07-01,Marketing,Kano,Income,Bank Transfer,Current Account,Equipment,604426.0,6500000,2025-07
+FIN20531,2025-09-20,Finance,Port Harcourt,Expense,Cash,Business Account,Salary,578981.0,5800000,2025-09
+FIN21005,2025-09-01,Sales,Lagos,Expense,Card,Business Account,Software Subscription,370679.0,9000000,2025-09
+FIN21629,2025-02-21,Sales,Ibadan,Income,Card,Current Account,Client Payment,1182686.0,9000000,2025-02
+FIN20966,2025-12-28,Human Resources,Kano,Income,Card,Current Account,Utilities,417913.0,5000000,2025-12
+FIN20652,2025-04-29,IT,Port Harcourt,Expense,Bank Transfer,Current Account,Utilities,530491.0,7200000,2025-04
+FIN20553,2025-08-29,Marketing,Lagos,Expense,Direct Debit,Savings Account,Salary,497697.0,6500000,2025-08
+FIN21781,2025-04-03,Finance,Ibadan,Income,Card,Current Account,Utilities,1623276.0,5800000,2025-04
+FIN20875,2025-07-11,Finance,Abuja,Income,Card,Current Account,Salary,455960.0,5800000,2025-07
+FIN21404,2025-05-26,Human Resources,Lagos,Expense,Card,Savings Account,Office Supplies,559317.0,5000000,2025-05
+FIN21457,2025-08-08,Finance,Kano,Expense,Card,Current Account,Service Fee,156319.0,5800000,2025-08
+FIN21273,2025-02-14,Operations,Abuja,Expense,Direct Debit,Business Account,Software Subscription,342554.0,8500000,2025-02
+FIN20942,2025-01-19,Sales,Port Harcourt,Expense,Bank Transfer,Business Account,Consulting,179882.0,9000000,2025-01
+FIN20701,2025-06-04,Human Resources,Port Harcourt,Expense,Card,Current Account,Office Supplies,563692.0,5000000,2025-06
+FIN20406,2025-03-20,Finance,Port Harcourt,Expense,Cash,Savings Account,Equipment,392251.0,5800000,2025-03
+FIN21739,2025-08-24,Operations,Port Harcourt,Income,Mobile Money,Current Account,Software Subscription,786673.0,8500000,2025-08
+FIN21515,2025-04-03,Sales,Port Harcourt,Income,Bank Transfer,Savings Account,Office Supplies,395014.0,9000000,2025-04
+FIN20901,2025-01-23,Human Resources,Abuja,Income,Direct Debit,Business Account,Office Supplies,1452070.0,5000000,2025-01
+FIN20592,2025-01-26,Human Resources,Port Harcourt,Expense,Mobile Money,Business Account,Utilities,195607.0,5000000,2025-01
+FIN21700,2025-04-12,Finance,Kano,Expense,Cash,Current Account,Service Fee,29927.0,5800000,2025-04
+FIN21546,2025-10-23,Marketing,Ibadan,Income,Card,Business Account,Consulting,1751798.0,6500000,2025-10
+FIN20227,2025-10-03,Marketing,Kano,Expense,Cash,Business Account,Office Supplies,639055.0,6500000,2025-10
+FIN20232,2025-04-03,Sales,Lagos,Income,Mobile Money,Business Account,Service Fee,1789933.0,9000000,2025-04
+FIN21064,2025-07-27,Human Resources,Kano,Income,Direct Debit,Business Account,Consulting,327199.0,5000000,2025-07
+FIN21559,2025-09-06,Marketing,Kano,Expense,Card,Current Account,Consulting,284179.0,6500000,2025-09
+FIN21297,2025-07-12,Finance,Port Harcourt,Income,Cash,Business Account,Consulting,693859.0,5800000,2025-07
+FIN20164,2025-06-17,IT,Lagos,Expense,Card,Current Account,Utilities,508765.0,7200000,2025-06
+FIN20943,2025-05-10,IT,Ibadan,Expense,Direct Debit,Savings Account,Service Fee,473222.0,7200000,2025-05
+FIN21006,2025-12-18,Sales,Lagos,Expense,Cash,Current Account,Software Subscription,521110.0,9000000,2025-12
+FIN20267,2025-06-06,Finance,Port Harcourt,Expense,Mobile Money,Business Account,Travel,443159.0,5800000,2025-06
+FIN20149,2025-04-11,Marketing,Port Harcourt,Income,Mobile Money,Business Account,Equipment,522882.0,6500000,2025-04
+FIN21691,2025-03-05,Sales,Kano,Income,Card,Savings Account,Client Payment,772137.0,9000000,2025-03
+FIN20888,2025-09-19,Sales,Kano,Income,Bank Transfer,Current Account,Consulting,293981.0,9000000,2025-09
+FIN21269,2025-06-14,Marketing,Lagos,Expense,Mobile Money,Current Account,Salary,25695.0,6500000,2025-06
+FIN21735,2025-07-08,Sales,Abuja,Income,Card,Current Account,Salary,853210.0,9000000,2025-07
+FIN21442,2025-01-18,Operations,Lagos,Income,Cash,Savings Account,Service Fee,1715125.0,8500000,2025-01
+FIN20307,2025-04-10,Operations,Lagos,Income,Mobile Money,Savings Account,Service Fee,1799014.0,8500000,2025-04
+FIN20193,2025-12-11,Operations,Kano,Expense,Mobile Money,Business Account,Office Supplies,176989.0,8500000,2025-12
+FIN20889,2025-03-25,Finance,Port Harcourt,Income,Mobile Money,Business Account,Travel,345888.0,5800000,2025-03
+FIN20310,2025-11-01,Operations,Ibadan,Income,Bank Transfer,Savings Account,Consulting,984098.0,8500000,2025-11
+FIN20707,2025-05-07,Sales,Lagos,Income,Direct Debit,Business Account,Client Payment,915869.0,9000000,2025-05
+FIN20064,2025-08-26,IT,Ibadan,Income,Direct Debit,Savings Account,Travel,1580071.0,7200000,2025-08
+FIN20986,2025-02-13,Operations,Lagos,Income,Card,Current Account,Software Subscription,1637922.0,8500000,2025-02
+FIN21164,2025-03-16,Finance,Lagos,Expense,Bank Transfer,Savings Account,Advertising,82780.0,5800000,2025-03
+FIN20591,2025-06-17,Finance,Abuja,Income,Cash,Current Account,Software Subscription,1219929.0,5800000,2025-06
+FIN21400,2025-11-03,Operations,Abuja,Expense,Cash,Business Account,Salary,35216.0,8500000,2025-11
+FIN20772,2025-12-12,Sales,Lagos,Expense,Cash,Savings Account,Office Supplies,75863.0,9000000,2025-12
+FIN21246,2025-07-04,Operations,Ibadan,Expense,Direct Debit,Business Account,Travel,395854.0,8500000,2025-07
+FIN20837,2025-02-18,Sales,Kano,Expense,Cash,Business Account,Client Payment,451058.0,9000000,2025-02
+FIN20908,2025-06-03,Finance,Unknown,Income,Bank Transfer,Savings Account,Software Subscription,335948.0,5800000,2025-06
+FIN21229,2025-05-12,Marketing,Kano,Expense,Cash,Business Account,Utilities,427407.0,6500000,2025-05
+FIN20175,2025-07-09,Marketing,Port Harcourt,Expense,Direct Debit,Savings Account,Salary,399270.0,6500000,2025-07
+FIN20994,2025-04-30,IT,Ibadan,Expense,Card,Current Account,Salary,372103.0,7200000,2025-04
+FIN21068,2025-02-03,Finance,Abuja,Income,Direct Debit,Savings Account,Advertising,604628.0,5800000,2025-02
+FIN21051,2025-06-10,Sales,Kano,Expense,Direct Debit,Savings Account,Client Payment,563597.0,9000000,2025-06
+FIN20808,2025-01-25,Human Resources,Lagos,Expense,Bank Transfer,Current Account,Utilities,136841.0,5000000,2025-01
+FIN20219,2025-07-28,IT,Lagos,Expense,Cash,Savings Account,Advertising,508019.0,7200000,2025-07
+FIN20716,2025-07-22,Human Resources,Port Harcourt,Expense,Cash,Current Account,Equipment,459439.0,5000000,2025-07
+FIN20287,2025-07-05,Finance,Abuja,Income,Direct Debit,Business Account,Software Subscription,602220.0,5800000,2025-07
+FIN20586,2025-08-07,Marketing,Lagos,Income,Bank Transfer,Business Account,Unknown,270237.0,6500000,2025-08
+FIN21470,2025-11-07,Operations,Port Harcourt,Expense,Card,Savings Account,Client Payment,127615.0,8500000,2025-11
+FIN21583,2025-02-26,Sales,Port Harcourt,Expense,Mobile Money,Savings Account,Office Supplies,376778.0,9000000,2025-02
+FIN21423,2025-08-02,Human Resources,Ibadan,Income,Cash,Current Account,Travel,1163349.0,5000000,2025-08
+FIN21135,2025-09-12,Marketing,Port Harcourt,Expense,Direct Debit,Current Account,Salary,142672.0,6500000,2025-09
+FIN21736,2025-12-12,Finance,Lagos,Expense,Mobile Money,Savings Account,Office Supplies,574081.0,5800000,2025-12
+FIN21456,2025-03-23,Finance,Kano,Expense,Direct Debit,Savings Account,Equipment,613805.0,5800000,2025-03
+FIN20899,2025-07-11,Sales,Lagos,Income,Bank Transfer,Business Account,Equipment,1278734.0,9000000,2025-07
+FIN21129,2025-08-25,Operations,Abuja,Income,Mobile Money,Savings Account,Utilities,969497.0,8500000,2025-08
+FIN21729,2025-06-13,Finance,Abuja,Expense,Mobile Money,Savings Account,Unknown,123844.0,5800000,2025-06
+FIN21447,2025-09-11,IT,Abuja,Expense,Bank Transfer,Savings Account,Office Supplies,34859.0,7200000,2025-09
+FIN20539,2025-10-12,Human Resources,Kano,Income,Cash,Savings Account,Software Subscription,1496207.0,5000000,2025-10
+FIN20904,2025-01-09,Marketing,Abuja,Expense,Direct Debit,Savings Account,Software Subscription,507436.0,6500000,2025-01
+FIN21611,2025-02-08,Human Resources,Ibadan,Expense,Mobile Money,Savings Account,Utilities,389430.0,5000000,2025-02
+FIN20905,2025-09-28,Marketing,Lagos,Income,Mobile Money,Business Account,Salary,524865.0,6500000,2025-09
+FIN21683,2025-03-05,Marketing,Port Harcourt,Expense,Mobile Money,Current Account,Client Payment,395325.0,6500000,2025-03
+FIN21764,2025-06-23,Sales,Ibadan,Income,Cash,Current Account,Software Subscription,1178388.0,9000000,2025-06
+FIN20850,2025-08-22,Finance,Lagos,Expense,Card,Business Account,Software Subscription,201890.0,5800000,2025-08
+FIN20494,2025-06-20,Operations,Port Harcourt,Income,Cash,Business Account,Office Supplies,1308807.0,8500000,2025-06
+FIN21468,2025-10-31,Sales,Abuja,Income,Direct Debit,Current Account,Salary,817954.0,9000000,2025-10
+FIN20278,2025-05-10,Finance,Port Harcourt,Expense,Card,Current Account,Equipment,386142.0,5800000,2025-05
+FIN21687,2025-06-28,Operations,Abuja,Expense,Bank Transfer,Current Account,Utilities,91947.0,8500000,2025-06
+FIN20359,2025-02-28,Marketing,Port Harcourt,Expense,Direct Debit,Savings Account,Software Subscription,351607.0,6500000,2025-02
+FIN21316,2025-05-27,Human Resources,Lagos,Expense,Bank Transfer,Current Account,Utilities,196355.0,5000000,2025-05
+FIN20237,2025-07-08,Finance,Lagos,Income,Mobile Money,Savings Account,Equipment,1063581.0,5800000,2025-07
+FIN21783,2025-09-28,Marketing,Lagos,Income,Card,Savings Account,Client Payment,512680.0,6500000,2025-09
+FIN21395,2025-07-23,Sales,Lagos,Income,Cash,Current Account,Consulting,1436688.0,9000000,2025-07
+FIN20209,2025-09-01,Human Resources,Kano,Income,Cash,Current Account,Client Payment,1012883.0,5000000,2025-09
+FIN21654,2025-06-05,Human Resources,Kano,Income,Cash,Business Account,Salary,1325803.0,5000000,2025-06
+FIN21429,2025-11-17,Operations,Kano,Expense,Mobile Money,Current Account,Service Fee,65256.0,8500000,2025-11
+FIN20059,2025-07-22,Human Resources,Kano,Income,Direct Debit,Savings Account,Office Supplies,1061883.0,5000000,2025-07
+FIN21453,2025-09-12,IT,Port Harcourt,Expense,Mobile Money,Savings Account,Software Subscription,162157.0,7200000,2025-09
+FIN21769,2025-07-18,Operations,Kano,Income,Direct Debit,Business Account,Travel,1195244.0,8500000,2025-07
+FIN20364,2025-07-19,Marketing,Lagos,Expense,Card,Business Account,Salary,424303.0,6500000,2025-07
+FIN21215,2025-06-16,Marketing,Kano,Expense,Cash,Savings Account,Service Fee,531081.0,6500000,2025-06
+FIN21030,2025-01-18,Sales,Abuja,Expense,Card,Current Account,Advertising,360401.0,9000000,2025-01
+FIN21469,2025-06-15,Operations,Abuja,Expense,Direct Debit,Savings Account,Advertising,73687.0,8500000,2025-06
+FIN21117,2025-08-28,IT,Kano,Income,Direct Debit,Savings Account,Service Fee,1407579.0,7200000,2025-08
+FIN20712,2025-09-28,Operations,Port Harcourt,Expense,Bank Transfer,Business Account,Service Fee,418237.0,8500000,2025-09
+FIN21406,2025-07-30,Sales,Ibadan,Income,Cash,Savings Account,Salary,710527.0,9000000,2025-07
+FIN20760,2025-05-12,Sales,Port Harcourt,Expense,Mobile Money,Business Account,Utilities,510399.0,9000000,2025-05
+FIN20119,2025-12-09,Operations,Kano,Expense,Mobile Money,Business Account,Salary,614821.0,8500000,2025-12
+FIN21146,2025-12-19,Human Resources,Kano,Expense,Mobile Money,Business Account,Office Supplies,442641.0,5000000,2025-12
+FIN20713,2025-03-30,Sales,Ibadan,Income,Card,Business Account,Consulting,1437453.0,9000000,2025-03
+FIN20523,2025-12-20,Operations,Port Harcourt,Expense,Direct Debit,Current Account,Office Supplies,83972.0,8500000,2025-12
+FIN20514,2025-08-17,Sales,Lagos,Expense,Cash,Business Account,Office Supplies,468828.0,9000000,2025-08
+FIN20082,2025-09-10,Operations,Abuja,Expense,Cash,Business Account,Software Subscription,577564.0,8500000,2025-09
+FIN20615,2025-01-10,Finance,Abuja,Expense,Direct Debit,Savings Account,Advertising,310446.0,5800000,2025-01
+FIN21788,2025-10-19,Sales,Kano,Expense,Cash,Current Account,Office Supplies,495692.0,9000000,2025-10
+FIN20381,2025-10-25,Operations,Kano,Income,Direct Debit,Savings Account,Office Supplies,1251364.0,8500000,2025-10
+FIN21549,2025-11-30,Sales,Lagos,Income,Mobile Money,Business Account,Consulting,416851.0,9000000,2025-11
+FIN20085,2025-02-06,Finance,Abuja,Income,Card,Business Account,Equipment,200029.0,5800000,2025-02
+FIN20330,2025-08-03,Sales,Abuja,Income,Direct Debit,Business Account,Software Subscription,772841.0,9000000,2025-08
+FIN20940,2025-12-04,IT,Abuja,Expense,Bank Transfer,Business Account,Software Subscription,36061.0,7200000,2025-12
+FIN21121,2025-03-06,Sales,Kano,Expense,Direct Debit,Business Account,Consulting,399653.0,9000000,2025-03
+FIN20807,2025-02-18,IT,Lagos,Expense,Bank Transfer,Savings Account,Office Supplies,631726.0,7200000,2025-02
+FIN21336,2025-11-08,Operations,Port Harcourt,Expense,Bank Transfer,Current Account,Travel,630774.0,8500000,2025-11
+FIN21415,2025-07-28,Sales,Abuja,Expense,Bank Transfer,Business Account,Consulting,464718.0,9000000,2025-07
+FIN20452,2025-05-02,Marketing,Kano,Expense,Bank Transfer,Current Account,Client Payment,443291.0,6500000,2025-05
+FIN20491,2025-05-05,Operations,Ibadan,Income,Cash,Savings Account,Salary,737911.0,8500000,2025-05
+FIN21353,2025-08-15,Operations,Port Harcourt,Income,Cash,Current Account,Salary,1624619.0,8500000,2025-08
+FIN20288,2025-04-09,Marketing,Ibadan,Expense,Mobile Money,Business Account,Salary,201561.0,6500000,2025-04
+FIN21248,2025-07-14,Marketing,Lagos,Income,Direct Debit,Current Account,Utilities,1065132.0,6500000,2025-07
+FIN20835,2025-04-18,Operations,Ibadan,Income,Direct Debit,Savings Account,Salary,1422057.0,8500000,2025-04
+FIN20868,2025-03-19,Sales,Ibadan,Income,Bank Transfer,Current Account,Service Fee,1328495.0,9000000,2025-03
+FIN20675,2025-09-27,Operations,Ibadan,Income,Mobile Money,Savings Account,Office Supplies,758743.0,8500000,2025-09
+FIN20745,2025-07-02,Finance,Ibadan,Income,Direct Debit,Business Account,Client Payment,502381.0,5800000,2025-07
+FIN21617,2025-03-11,Finance,Port Harcourt,Expense,Card,Savings Account,Client Payment,127573.0,5800000,2025-03
+FIN21693,2025-01-11,Marketing,Abuja,Income,Direct Debit,Savings Account,Salary,450858.0,6500000,2025-01
+FIN20328,2025-02-05,Human Resources,Kano,Expense,Card,Current Account,Service Fee,328362.0,5000000,2025-02
+FIN21224,2025-09-03,Human Resources,Port Harcourt,Expense,Direct Debit,Savings Account,Software Subscription,510999.0,5000000,2025-09
+FIN20655,2025-06-03,Human Resources,Kano,Income,Card,Business Account,Software Subscription,1720854.0,5000000,2025-06
+FIN21420,2025-09-22,Sales,Abuja,Expense,Card,Savings Account,Office Supplies,368627.0,9000000,2025-09
+FIN20782,2025-10-25,Finance,Port Harcourt,Expense,Card,Business Account,Advertising,294597.0,5800000,2025-10
+FIN20744,2025-05-29,IT,Kano,Income,Card,Business Account,Client Payment,1455807.0,7200000,2025-05
+FIN20178,2025-05-06,Human Resources,Ibadan,Income,Direct Debit,Business Account,Software Subscription,1323085.0,5000000,2025-05
+FIN21674,2025-07-06,Operations,Port Harcourt,Expense,Mobile Money,Current Account,Utilities,356430.0,8500000,2025-07
+FIN20597,2025-07-11,Sales,Lagos,Expense,Card,Savings Account,Service Fee,294535.0,9000000,2025-07
+FIN20087,2025-04-08,Human Resources,Kano,Expense,Mobile Money,Business Account,Equipment,610504.0,5000000,2025-04
+FIN21285,2025-02-03,Marketing,Port Harcourt,Income,Direct Debit,Savings Account,Client Payment,1250834.0,6500000,2025-02
+FIN21731,2025-02-18,Operations,Lagos,Income,Mobile Money,Business Account,Office Supplies,186611.0,8500000,2025-02
+FIN20458,2025-05-12,Human Resources,Abuja,Income,Mobile Money,Savings Account,Advertising,1270631.0,5000000,2025-05
+FIN20055,2025-03-17,IT,Lagos,Expense,Mobile Money,Current Account,Consulting,416489.0,7200000,2025-03
+FIN21445,2025-03-13,Operations,Kano,Expense,Mobile Money,Savings Account,Consulting,551740.0,8500000,2025-03
+FIN20222,2025-04-09,Marketing,Abuja,Expense,Direct Debit,Savings Account,Consulting,312253.0,6500000,2025-04
+FIN20114,2025-12-29,Finance,Ibadan,Expense,Mobile Money,Current Account,Software Subscription,459030.0,5800000,2025-12
+FIN21101,2025-01-05,Finance,Kano,Income,Card,Savings Account,Advertising,230023.0,5800000,2025-01
+FIN21369,2025-11-18,Finance,Lagos,Income,Bank Transfer,Business Account,Office Supplies,774489.0,5800000,2025-11
+FIN20842,2025-03-19,Human Resources,Kano,Expense,Bank Transfer,Savings Account,Equipment,218303.0,5000000,2025-03
+FIN20661,2025-04-07,Marketing,Ibadan,Income,Bank Transfer,Current Account,Client Payment,1786533.0,6500000,2025-04
+FIN20590,2025-02-23,Finance,Ibadan,Income,Cash,Current Account,Service Fee,1345399.0,5800000,2025-02
+FIN21428,2025-05-28,IT,Kano,Expense,Bank Transfer,Business Account,Consulting,71033.0,7200000,2025-05
+FIN20019,2025-01-18,Finance,Port Harcourt,Income,Direct Debit,Business Account,Software Subscription,709085.0,5800000,2025-01
+FIN20424,2025-09-26,Marketing,Kano,Income,Bank Transfer,Savings Account,Office Supplies,1651951.0,6500000,2025-09
+FIN21561,2025-06-29,Sales,Lagos,Income,Card,Business Account,Salary,419384.0,9000000,2025-06
+FIN20286,2025-07-14,Marketing,Lagos,Income,Bank Transfer,Business Account,Office Supplies,308981.0,6500000,2025-07
+FIN21749,2025-09-16,Sales,Lagos,Expense,Cash,Business Account,Travel,143099.0,9000000,2025-09
+FIN20429,2025-11-30,Sales,Abuja,Income,Cash,Savings Account,Office Supplies,812303.0,9000000,2025-11
+FIN21381,2025-09-15,Human Resources,Port Harcourt,Income,Direct Debit,Business Account,Service Fee,591511.0,5000000,2025-09
+FIN21377,2025-10-03,Human Resources,Ibadan,Income,Cash,Business Account,Advertising,178538.0,5000000,2025-10
+FIN20032,2025-06-09,Finance,Port Harcourt,Income,Mobile Money,Business Account,Office Supplies,525377.0,5800000,2025-06
+FIN21250,2025-12-08,Sales,Kano,Expense,Cash,Current Account,Advertising,579073.0,9000000,2025-12
+FIN21365,2025-07-17,Human Resources,Port Harcourt,Expense,Card,Current Account,Travel,30068.0,5000000,2025-07
+FIN20215,2025-01-09,Finance,Ibadan,Expense,Direct Debit,Savings Account,Advertising,639164.0,5800000,2025-01
+FIN21337,2025-08-26,IT,Port Harcourt,Income,Cash,Savings Account,Equipment,1191127.0,7200000,2025-08
+FIN20327,2025-02-03,IT,Abuja,Expense,Cash,Business Account,Service Fee,364126.0,7200000,2025-02
+FIN20561,2025-10-13,Operations,Lagos,Expense,Cash,Savings Account,Service Fee,132701.0,8500000,2025-10
+FIN21699,2025-08-11,Finance,Port Harcourt,Expense,Cash,Business Account,Service Fee,289355.0,5800000,2025-08
+FIN21619,2025-05-10,IT,Abuja,Expense,Card,Savings Account,Service Fee,330435.0,7200000,2025-05
+FIN21092,2025-03-29,Human Resources,Lagos,Expense,Cash,Savings Account,Consulting,508029.0,5000000,2025-03
+FIN20342,2025-06-15,Marketing,Ibadan,Income,Mobile Money,Business Account,Client Payment,220905.0,6500000,2025-06
+FIN20148,2025-05-28,Sales,Kano,Income,Direct Debit,Business Account,Utilities,1744260.0,9000000,2025-05
+FIN20361,2025-04-19,Human Resources,Abuja,Income,Direct Debit,Current Account,Travel,1005431.0,5000000,2025-04
+FIN20084,2025-06-26,IT,Abuja,Income,Cash,Business Account,Travel,204447.0,7200000,2025-06
+FIN20049,2025-12-04,Human Resources,Port Harcourt,Expense,Direct Debit,Current Account,Salary,573172.0,5000000,2025-12
+FIN20469,2025-07-20,Marketing,Abuja,Income,Bank Transfer,Current Account,Software Subscription,1641456.0,6500000,2025-07
+FIN20156,2025-10-24,Operations,Ibadan,Income,Bank Transfer,Savings Account,Salary,1513441.0,8500000,2025-10
+FIN21102,2025-11-26,Human Resources,Unknown,Expense,Mobile Money,Savings Account,Travel,199689.0,5000000,2025-11
+FIN21649,2025-01-16,Finance,Port Harcourt,Expense,Mobile Money,Current Account,Consulting,555857.0,5800000,2025-01
+FIN21104,2025-11-29,Sales,Lagos,Expense,Card,Savings Account,Salary,185289.0,9000000,2025-11
+FIN21494,2025-10-24,Operations,Ibadan,Income,Mobile Money,Savings Account,Travel,1566516.0,8500000,2025-10
+FIN20501,2025-08-16,Finance,Ibadan,Expense,Mobile Money,Savings Account,Client Payment,437339.0,5800000,2025-08
+FIN20180,2025-08-14,Finance,Port Harcourt,Income,Mobile Money,Savings Account,Utilities,225016.0,5800000,2025-08
+FIN20910,2025-05-29,IT,Lagos,Income,Cash,Savings Account,Software Subscription,941069.0,7200000,2025-05
+FIN20865,2025-10-23,Finance,Abuja,Income,Direct Debit,Savings Account,Equipment,790644.0,5800000,2025-10
+FIN21655,2025-01-02,IT,Kano,Income,Direct Debit,Business Account,Travel,572402.0,7200000,2025-01
+FIN21658,2025-11-11,Marketing,Port Harcourt,Income,Card,Business Account,Utilities,340220.0,6500000,2025-11
+FIN20529,2025-05-26,IT,Lagos,Income,Cash,Business Account,Utilities,359215.0,7200000,2025-05
+FIN20347,2025-01-21,Marketing,Kano,Expense,Direct Debit,Current Account,Travel,644624.0,6500000,2025-01
+FIN21266,2025-05-31,IT,Port Harcourt,Income,Card,Current Account,Salary,257164.0,7200000,2025-05
+FIN21786,2025-10-12,Sales,Kano,Expense,Card,Savings Account,Salary,62674.0,9000000,2025-10
+FIN21777,2025-02-27,Operations,Abuja,Expense,Direct Debit,Business Account,Advertising,117628.0,8500000,2025-02
+FIN20947,2025-12-20,IT,Ibadan,Income,Bank Transfer,Current Account,Service Fee,1126161.0,7200000,2025-12
+FIN21226,2025-02-18,IT,Lagos,Expense,Card,Savings Account,Service Fee,637762.0,7200000,2025-02
+FIN20602,2025-06-30,Human Resources,Port Harcourt,Income,Bank Transfer,Current Account,Equipment,113866.0,5000000,2025-06
+FIN21782,2025-09-22,Marketing,Kano,Expense,Card,Business Account,Office Supplies,325273.0,6500000,2025-09
+FIN20244,2025-01-09,Sales,Ibadan,Income,Mobile Money,Business Account,Office Supplies,1186351.0,9000000,2025-01
+FIN20756,2025-03-14,Finance,Port Harcourt,Expense,Mobile Money,Savings Account,Utilities,505651.0,5800000,2025-03
+FIN21349,2025-12-19,Human Resources,Lagos,Expense,Mobile Money,Savings Account,Client Payment,608216.0,5000000,2025-12
+FIN20313,2025-08-20,IT,Port Harcourt,Income,Cash,Current Account,Equipment,910051.0,7200000,2025-08
+FIN20436,2025-01-14,IT,Port Harcourt,Expense,Mobile Money,Business Account,Advertising,353840.0,7200000,2025-01
+FIN21730,2025-03-26,Sales,Ibadan,Expense,Mobile Money,Business Account,Service Fee,111321.0,9000000,2025-03
+FIN21000,2025-02-08,Sales,Kano,Income,Card,Current Account,Consulting,587365.0,9000000,2025-02
+FIN20309,2025-01-30,Finance,Kano,Expense,Bank Transfer,Savings Account,Advertising,495430.0,5800000,2025-01
+FIN20431,2025-04-08,Marketing,Lagos,Income,Direct Debit,Business Account,Consulting,944690.0,6500000,2025-04
+FIN20371,2025-01-07,Operations,Port Harcourt,Income,Direct Debit,Business Account,Service Fee,575479.0,8500000,2025-01
+FIN20567,2025-01-31,Operations,Lagos,Income,Card,Savings Account,Advertising,1798972.0,8500000,2025-01
+FIN21113,2025-02-09,Sales,Port Harcourt,Income,Card,Savings Account,Utilities,1728885.0,9000000,2025-02
+FIN20182,2025-07-30,Human Resources,Ibadan,Income,Direct Debit,Business Account,Salary,1693236.0,5000000,2025-07
+FIN21205,2025-07-26,Sales,Lagos,Income,Card,Current Account,Client Payment,1558768.0,9000000,2025-07
+FIN20622,2025-12-27,Human Resources,Kano,Income,Direct Debit,Business Account,Advertising,1390875.0,5000000,2025-12
+FIN20694,2025-07-23,Sales,Lagos,Income,Mobile Money,Savings Account,Software Subscription,1404667.0,9000000,2025-07
+FIN21374,2025-02-11,IT,Kano,Income,Bank Transfer,Business Account,Software Subscription,365622.0,7200000,2025-02
+FIN20803,2025-07-08,Sales,Kano,Expense,Card,Savings Account,Service Fee,315599.0,9000000,2025-07
+FIN21681,2025-12-17,Operations,Ibadan,Income,Bank Transfer,Savings Account,Utilities,692181.0,8500000,2025-12
+FIN20297,2025-05-24,Human Resources,Ibadan,Expense,Direct Debit,Savings Account,Consulting,420826.0,5000000,2025-05
+FIN21054,2025-03-30,Human Resources,Kano,Expense,Card,Savings Account,Software Subscription,444724.0,5000000,2025-03
+FIN20462,2025-11-21,IT,Lagos,Expense,Cash,Savings Account,Salary,253192.0,7200000,2025-11
+FIN21190,2025-10-08,Finance,Kano,Expense,Cash,Business Account,Utilities,572165.0,5800000,2025-10
+FIN21002,2025-01-18,IT,Lagos,Expense,Card,Savings Account,Utilities,405946.0,7200000,2025-01
+FIN20378,2025-02-10,Human Resources,Port Harcourt,Income,Bank Transfer,Business Account,Client Payment,1651970.0,5000000,2025-02
+FIN21088,2025-03-18,Operations,Lagos,Income,Direct Debit,Business Account,Travel,774780.0,8500000,2025-03
+FIN20106,2025-08-20,Finance,Ibadan,Income,Direct Debit,Business Account,Equipment,1186581.0,5800000,2025-08
+FIN20127,2025-06-17,IT,Kano,Expense,Mobile Money,Business Account,Salary,504528.0,7200000,2025-06
+FIN21661,2025-06-30,Finance,Lagos,Expense,Mobile Money,Current Account,Equipment,83965.0,5800000,2025-06
+FIN21091,2025-10-09,Marketing,Ibadan,Expense,Bank Transfer,Savings Account,Advertising,607189.0,6500000,2025-10
+FIN20356,2025-04-22,Marketing,Kano,Expense,Mobile Money,Savings Account,Utilities,505687.0,6500000,2025-04
+FIN21482,2025-06-27,Sales,Abuja,Income,Direct Debit,Business Account,Salary,1352037.0,9000000,2025-06
+FIN20683,2025-08-14,IT,Kano,Income,Card,Current Account,Client Payment,619570.0,7200000,2025-08
+FIN21378,2025-11-25,Finance,Lagos,Income,Bank Transfer,Savings Account,Client Payment,1668236.0,5800000,2025-11
+FIN21425,2025-07-30,Human Resources,Kano,Expense,Bank Transfer,Business Account,Travel,461503.0,5000000,2025-07
+FIN20210,2025-11-25,Finance,Port Harcourt,Income,Direct Debit,Current Account,Utilities,1418486.0,5800000,2025-11
+FIN21360,2025-02-24,Marketing,Lagos,Expense,Mobile Money,Savings Account,Salary,64331.0,6500000,2025-02
+FIN20141,2025-03-31,Marketing,Abuja,Expense,Bank Transfer,Current Account,Advertising,409959.0,6500000,2025-03
+FIN21422,2025-07-07,IT,Kano,Income,Cash,Savings Account,Advertising,1256503.0,7200000,2025-07
+FIN21221,2025-12-10,Sales,Port Harcourt,Expense,Cash,Business Account,Consulting,446792.0,9000000,2025-12
+FIN21211,2025-03-10,Operations,Kano,Income,Cash,Savings Account,Service Fee,768152.0,8500000,2025-03
+FIN21443,2025-06-16,Operations,Lagos,Expense,Card,Business Account,Software Subscription,46270.0,8500000,2025-06
+FIN20987,2025-11-26,IT,Lagos,Expense,Bank Transfer,Savings Account,Advertising,504528.0,7200000,2025-11
+FIN20757,2025-01-14,Finance,Ibadan,Expense,Card,Business Account,Advertising,220753.0,5800000,2025-01
+FIN21158,2025-11-29,Finance,Lagos,Expense,Bank Transfer,Savings Account,Client Payment,633712.0,5800000,2025-11
+FIN20731,2025-05-10,Sales,Ibadan,Income,Mobile Money,Business Account,Software Subscription,993320.0,9000000,2025-05
+FIN20953,2025-11-25,IT,Lagos,Income,Mobile Money,Business Account,Advertising,959979.0,7200000,2025-11
+FIN20011,2025-12-11,Operations,Kano,Income,Direct Debit,Business Account,Advertising,1101318.0,8500000,2025-12
+FIN21555,2025-08-29,Finance,Ibadan,Income,Bank Transfer,Business Account,Consulting,1760912.0,5800000,2025-08
+FIN21505,2025-11-22,Sales,Abuja,Income,Direct Debit,Current Account,Advertising,907424.0,9000000,2025-11
+FIN20283,2025-08-08,Sales,Lagos,Income,Mobile Money,Business Account,Software Subscription,1222384.0,9000000,2025-08
+FIN20292,2025-07-11,Human Resources,Abuja,Income,Mobile Money,Business Account,Utilities,163369.0,5000000,2025-07
+FIN20627,2025-07-17,Operations,Abuja,Income,Direct Debit,Business Account,Salary,118547.0,8500000,2025-07
+FIN21633,2025-08-27,Marketing,Ibadan,Expense,Card,Savings Account,Consulting,115790.0,6500000,2025-08
+FIN20728,2025-08-04,Finance,Ibadan,Expense,Mobile Money,Current Account,Utilities,632439.0,5800000,2025-08
+FIN20130,2025-02-19,Human Resources,Port Harcourt,Income,Card,Business Account,Equipment,336695.0,5000000,2025-02
+FIN21081,2025-07-05,Marketing,Port Harcourt,Expense,Card,Savings Account,Client Payment,538895.0,6500000,2025-07
+FIN20324,2025-01-07,IT,Lagos,Income,Mobile Money,Savings Account,Consulting,1011479.0,7200000,2025-01
+FIN21780,2025-09-06,Sales,Port Harcourt,Expense,Cash,Current Account,Client Payment,501799.0,9000000,2025-09
+FIN20922,2025-04-29,Marketing,Lagos,Income,Mobile Money,Business Account,Equipment,966364.0,6500000,2025-04
+FIN20915,2025-04-29,IT,Abuja,Expense,Card,Business Account,Office Supplies,616595.0,7200000,2025-04
+FIN21703,2025-04-01,Finance,Ibadan,Income,Cash,Current Account,Advertising,947482.0,5800000,2025-04
+FIN21287,2025-11-21,Human Resources,Kano,Income,Direct Debit,Savings Account,Service Fee,534418.0,5000000,2025-11
+FIN21125,2025-05-31,Human Resources,Kano,Expense,Mobile Money,Savings Account,Salary,586510.0,5000000,2025-05
+FIN21346,2025-02-26,Sales,Port Harcourt,Income,Card,Business Account,Service Fee,1496842.0,9000000,2025-02
+FIN21487,2025-03-15,IT,Abuja,Income,Mobile Money,Savings Account,Advertising,779151.0,7200000,2025-03
+FIN20902,2025-06-30,IT,Port Harcourt,Income,Direct Debit,Current Account,Salary,413569.0,7200000,2025-06
+FIN20159,2025-09-06,Finance,Kano,Income,Mobile Money,Savings Account,Salary,769556.0,5800000,2025-09
+FIN21772,2025-07-19,Operations,Port Harcourt,Expense,Card,Savings Account,Utilities,486978.0,8500000,2025-07
+FIN20635,2025-01-27,Human Resources,Lagos,Income,Direct Debit,Savings Account,Software Subscription,929710.0,5000000,2025-01
+FIN20517,2025-07-08,Operations,Lagos,Income,Direct Debit,Savings Account,Consulting,1401836.0,8500000,2025-07
+FIN21304,2025-02-18,Finance,Port Harcourt,Expense,Cash,Current Account,Travel,596291.0,5800000,2025-02
+FIN20598,2025-06-20,Finance,Abuja,Income,Mobile Money,Business Account,Service Fee,1304744.0,5800000,2025-06
+FIN20196,2025-01-21,Finance,Ibadan,Income,Card,Business Account,Office Supplies,1760403.0,5800000,2025-01
+FIN21507,2025-12-23,IT,Lagos,Expense,Mobile Money,Current Account,Service Fee,593212.0,7200000,2025-12
+FIN21143,2025-03-31,Operations,Abuja,Expense,Mobile Money,Business Account,Travel,90021.0,8500000,2025-03
+FIN20411,2025-10-19,Marketing,Ibadan,Income,Card,Current Account,Client Payment,1435349.0,6500000,2025-10
+FIN20097,2025-01-16,IT,Lagos,Expense,Direct Debit,Current Account,Equipment,282318.0,7200000,2025-01
+FIN20870,2025-12-05,Finance,Abuja,Expense,Card,Business Account,Service Fee,227609.0,5800000,2025-12
+FIN20799,2025-09-20,Human Resources,Lagos,Expense,Direct Debit,Business Account,Office Supplies,423561.0,5000000,2025-09
+FIN20157,2025-05-14,Human Resources,Ibadan,Expense,Cash,Current Account,Client Payment,536612.0,5000000,2025-05
+FIN20420,2025-07-08,Finance,Port Harcourt,Expense,Cash,Business Account,Utilities,624489.0,5800000,2025-07
+FIN20937,2025-08-02,Sales,Ibadan,Income,Bank Transfer,Savings Account,Service Fee,1072382.0,9000000,2025-08
+FIN20478,2025-08-02,IT,Lagos,Expense,Direct Debit,Business Account,Office Supplies,359679.0,7200000,2025-08
+FIN20880,2025-06-29,Operations,Kano,Income,Cash,Savings Account,Consulting,1295468.0,8500000,2025-06
+FIN20669,2025-10-14,Operations,Kano,Income,Mobile Money,Business Account,Utilities,544894.0,8500000,2025-10
+FIN21755,2025-08-23,IT,Kano,Expense,Cash,Savings Account,Software Subscription,92095.0,7200000,2025-08
+FIN20927,2025-05-02,Operations,Port Harcourt,Income,Mobile Money,Current Account,Salary,889217.0,8500000,2025-05
+FIN21206,2025-01-28,Human Resources,Ibadan,Expense,Cash,Savings Account,Software Subscription,594887.0,5000000,2025-01
+FIN20448,2025-01-22,Operations,Port Harcourt,Expense,Card,Current Account,Salary,584430.0,8500000,2025-01
+FIN20893,2025-12-23,Sales,Kano,Expense,Direct Debit,Business Account,Utilities,111911.0,9000000,2025-12
+FIN20179,2025-12-11,Sales,Lagos,Expense,Direct Debit,Current Account,Software Subscription,142332.0,9000000,2025-12
+FIN20391,2025-06-24,Marketing,Lagos,Expense,Bank Transfer,Current Account,Consulting,187527.0,6500000,2025-06
+FIN20579,2025-10-18,IT,Abuja,Income,Direct Debit,Business Account,Advertising,1371627.0,7200000,2025-10
+FIN21641,2025-03-20,Finance,Ibadan,Expense,Bank Transfer,Current Account,Travel,456048.0,5800000,2025-03
+FIN21567,2025-04-17,IT,Abuja,Expense,Cash,Current Account,Service Fee,512443.0,7200000,2025-04
+FIN21508,2025-01-03,Sales,Ibadan,Expense,Mobile Money,Business Account,Salary,429925.0,9000000,2025-01
+FIN21299,2025-08-19,Human Resources,Abuja,Expense,Direct Debit,Savings Account,Software Subscription,459358.0,5000000,2025-08
+FIN20874,2025-05-14,Human Resources,Port Harcourt,Income,Card,Current Account,Advertising,510599.0,5000000,2025-05
+FIN20995,2025-07-19,Finance,Lagos,Income,Mobile Money,Savings Account,Software Subscription,1469959.0,5800000,2025-07
+FIN21455,2025-02-04,Sales,Abuja,Income,Card,Current Account,Software Subscription,142507.0,9000000,2025-02
+FIN20665,2025-03-12,Marketing,Lagos,Income,Mobile Money,Current Account,Equipment,1203143.0,6500000,2025-03
+FIN20143,2025-04-22,Marketing,Lagos,Income,Mobile Money,Savings Account,Service Fee,645609.0,6500000,2025-04
+FIN21388,2025-09-03,Human Resources,Kano,Income,Card,Business Account,Advertising,941789.0,5000000,2025-09
+FIN21305,2025-09-22,Marketing,Abuja,Expense,Cash,Current Account,Advertising,481595.0,6500000,2025-09
+FIN20422,2025-08-10,Operations,Port Harcourt,Expense,Direct Debit,Current Account,Utilities,504528.0,8500000,2025-08
+FIN20637,2025-04-07,Sales,Port Harcourt,Expense,Card,Current Account,Office Supplies,627466.0,9000000,2025-04
+FIN21616,2025-08-26,Marketing,Abuja,Expense,Mobile Money,Savings Account,Advertising,430520.0,6500000,2025-08
+FIN20944,2025-01-12,Human Resources,Kano,Expense,Bank Transfer,Savings Account,Equipment,304944.0,5000000,2025-01
+FIN20616,2025-05-05,Marketing,Kano,Expense,Direct Debit,Business Account,Consulting,342959.0,6500000,2025-05
+FIN20295,2025-11-11,Sales,Port Harcourt,Income,Direct Debit,Savings Account,Travel,504528.0,9000000,2025-11
+FIN21493,2025-11-14,Finance,Kano,Income,Card,Current Account,Utilities,767605.0,5800000,2025-11
+FIN21734,2025-08-06,Marketing,Abuja,Income,Direct Debit,Business Account,Client Payment,555828.0,6500000,2025-08
+FIN20089,2025-06-17,Human Resources,Ibadan,Expense,Card,Current Account,Utilities,565932.0,5000000,2025-06
+FIN20042,2025-10-07,Marketing,Kano,Income,Mobile Money,Savings Account,Salary,203257.0,6500000,2025-10
+FIN21647,2025-03-28,Finance,Kano,Income,Bank Transfer,Savings Account,Advertising,1487286.0,5800000,2025-03
+FIN21762,2025-11-14,Marketing,Port Harcourt,Expense,Cash,Savings Account,Equipment,143769.0,6500000,2025-11
+FIN20132,2025-12-13,Finance,Lagos,Income,Mobile Money,Savings Account,Consulting,875326.0,5800000,2025-12
+FIN20844,2025-04-08,Marketing,Ibadan,Expense,Bank Transfer,Current Account,Advertising,493573.0,6500000,2025-04
+FIN20833,2025-09-10,Finance,Port Harcourt,Income,Mobile Money,Business Account,Advertising,1245232.0,5800000,2025-09
+FIN20949,2025-05-05,Finance,Port Harcourt,Expense,Bank Transfer,Business Account,Software Subscription,482676.0,5800000,2025-05
+FIN21694,2025-04-07,Operations,Lagos,Income,Mobile Money,Current Account,Salary,759892.0,8500000,2025-04
+FIN20999,2025-02-26,Sales,Kano,Expense,Card,Business Account,Client Payment,155639.0,9000000,2025-02
+FIN20165,2025-09-16,Marketing,Port Harcourt,Income,Card,Current Account,Travel,1729729.0,6500000,2025-09
+FIN20725,2025-04-30,Human Resources,Kano,Expense,Mobile Money,Business Account,Advertising,537039.0,5000000,2025-04
+FIN20291,2025-12-06,Marketing,Abuja,Income,Mobile Money,Current Account,Advertising,1151860.0,6500000,2025-12
+FIN21728,2025-03-17,Marketing,Ibadan,Expense,Bank Transfer,Savings Account,Software Subscription,462065.0,6500000,2025-03
+FIN20858,2025-05-10,IT,Abuja,Income,Direct Debit,Current Account,Travel,788140.0,7200000,2025-05
+FIN20779,2025-12-04,IT,Ibadan,Expense,Cash,Current Account,Utilities,267908.0,7200000,2025-12
+FIN20349,2025-07-03,Finance,Kano,Income,Mobile Money,Savings Account,Consulting,569066.0,5800000,2025-07
+FIN20572,2025-09-30,Sales,Abuja,Expense,Direct Debit,Savings Account,Consulting,178598.0,9000000,2025-09
+FIN21721,2025-09-22,Operations,Abuja,Income,Bank Transfer,Savings Account,Consulting,1662035.0,8500000,2025-09
+FIN20991,2025-10-21,Finance,Port Harcourt,Expense,Direct Debit,Current Account,Advertising,500441.0,5800000,2025-10
+FIN21459,2025-01-04,IT,Kano,Income,Card,Business Account,Advertising,273069.0,7200000,2025-01
+FIN21201,2025-04-15,Sales,Kano,Expense,Cash,Business Account,Office Supplies,275927.0,9000000,2025-04
+FIN20863,2025-07-02,Human Resources,Kano,Expense,Mobile Money,Business Account,Travel,639696.0,5000000,2025-07
+FIN20459,2025-03-26,IT,Port Harcourt,Income,Bank Transfer,Business Account,Advertising,1749332.0,7200000,2025-03
+FIN20376,2025-06-21,Sales,Kano,Income,Mobile Money,Savings Account,Service Fee,331924.0,9000000,2025-06
+FIN20334,2025-12-03,IT,Ibadan,Income,Card,Current Account,Advertising,1032246.0,7200000,2025-12
+FIN21281,2025-01-07,Human Resources,Port Harcourt,Expense,Bank Transfer,Savings Account,Advertising,541144.0,5000000,2025-01
+FIN21610,2025-07-18,Finance,Abuja,Expense,Mobile Money,Savings Account,Client Payment,649974.0,5800000,2025-07
+FIN21332,2025-01-21,IT,Lagos,Expense,Cash,Business Account,Software Subscription,40323.0,7200000,2025-01
+FIN21608,2025-01-20,IT,Port Harcourt,Expense,Card,Business Account,Software Subscription,372621.0,7200000,2025-01
+FIN20846,2025-10-09,Sales,Ibadan,Income,Cash,Business Account,Software Subscription,115634.0,9000000,2025-10
+FIN21696,2025-07-22,Human Resources,Lagos,Income,Bank Transfer,Business Account,Unknown,1716091.0,5000000,2025-07
+FIN20820,2025-11-30,Sales,Port Harcourt,Income,Cash,Current Account,Utilities,1739580.0,9000000,2025-11
+FIN21758,2025-06-04,Marketing,Ibadan,Income,Mobile Money,Savings Account,Service Fee,1213276.0,6500000,2025-06
+FIN21034,2025-03-25,Operations,Ibadan,Income,Mobile Money,Current Account,Client Payment,1282821.0,8500000,2025-03
+FIN20329,2025-01-06,Finance,Kano,Income,Mobile Money,Business Account,Advertising,212503.0,5800000,2025-01
+FIN21218,2025-09-30,Operations,Ibadan,Expense,Bank Transfer,Savings Account,Office Supplies,565726.0,8500000,2025-09
+FIN20319,2025-03-24,Finance,Port Harcourt,Income,Bank Transfer,Business Account,Travel,87531.0,5800000,2025-03
+FIN21621,2025-12-06,Sales,Abuja,Income,Bank Transfer,Savings Account,Office Supplies,219883.0,9000000,2025-12
+FIN21588,2025-02-04,Marketing,Ibadan,Income,Cash,Current Account,Advertising,1498992.0,6500000,2025-02
+FIN20168,2025-06-01,Finance,Ibadan,Income,Cash,Savings Account,Travel,601608.0,5800000,2025-06
+FIN20013,2025-06-03,Finance,Lagos,Expense,Card,Savings Account,Utilities,457100.0,5800000,2025-06
+FIN20172,2025-12-10,IT,Abuja,Income,Mobile Money,Savings Account,Consulting,1761641.0,7200000,2025-12
+FIN20650,2025-03-28,Operations,Lagos,Income,Direct Debit,Savings Account,Salary,221521.0,8500000,2025-03
+FIN20261,2025-10-06,Operations,Kano,Expense,Bank Transfer,Savings Account,Consulting,279480.0,8500000,2025-10
+FIN21114,2025-12-21,Human Resources,Ibadan,Expense,Direct Debit,Business Account,Utilities,140592.0,5000000,2025-12
+FIN21286,2025-07-13,Operations,Abuja,Income,Card,Business Account,Software Subscription,1764532.0,8500000,2025-07
+FIN20673,2025-01-01,Finance,Abuja,Income,Cash,Savings Account,Service Fee,219544.0,5800000,2025-01
+FIN20259,2025-11-08,Human Resources,Lagos,Expense,Card,Business Account,Service Fee,420890.0,5000000,2025-11
+FIN21097,2025-07-07,IT,Lagos,Income,Card,Business Account,Advertising,164754.0,7200000,2025-07
+FIN20139,2025-10-14,Marketing,Abuja,Income,Cash,Business Account,Consulting,875928.0,6500000,2025-10
+FIN21679,2025-06-03,Operations,Abuja,Income,Card,Savings Account,Advertising,698071.0,8500000,2025-06
+FIN20550,2025-11-24,Finance,Lagos,Expense,Direct Debit,Current Account,Client Payment,551147.0,5800000,2025-11
+FIN20887,2025-01-19,Finance,Abuja,Expense,Mobile Money,Current Account,Travel,123751.0,5800000,2025-01
+FIN21605,2025-03-07,Operations,Ibadan,Income,Cash,Business Account,Travel,1324453.0,8500000,2025-03
+FIN21134,2025-07-08,Operations,Abuja,Income,Bank Transfer,Savings Account,Client Payment,1075909.0,8500000,2025-07
+FIN21785,2025-06-03,Marketing,Kano,Expense,Bank Transfer,Current Account,Utilities,370083.0,6500000,2025-06
+FIN20559,2025-04-09,IT,Kano,Expense,Card,Savings Account,Consulting,27485.0,7200000,2025-04
+FIN20140,2025-01-21,Operations,Kano,Expense,Cash,Current Account,Consulting,237060.0,8500000,2025-01
+FIN21590,2025-01-05,Operations,Ibadan,Expense,Bank Transfer,Savings Account,Utilities,492295.0,8500000,2025-01
+FIN20532,2025-10-23,IT,Lagos,Expense,Mobile Money,Savings Account,Advertising,128944.0,7200000,2025-10
+FIN20225,2025-09-04,Marketing,Kano,Income,Card,Savings Account,Consulting,1374929.0,6500000,2025-09
+FIN20724,2025-12-10,Marketing,Lagos,Expense,Cash,Savings Account,Office Supplies,467415.0,6500000,2025-12
+FIN20787,2025-07-03,IT,Port Harcourt,Expense,Cash,Business Account,Software Subscription,423551.0,7200000,2025-07
+FIN21272,2025-11-29,Operations,Ibadan,Expense,Direct Debit,Business Account,Consulting,386645.0,8500000,2025-11
+FIN20410,2025-02-19,IT,Port Harcourt,Income,Mobile Money,Savings Account,Travel,922150.0,7200000,2025-02
+FIN20326,2025-01-10,Marketing,Ibadan,Expense,Card,Business Account,Equipment,175489.0,6500000,2025-01
+FIN21710,2025-10-18,IT,Lagos,Expense,Cash,Savings Account,Travel,177195.0,7200000,2025-10
+FIN20300,2025-11-20,Operations,Abuja,Income,Mobile Money,Savings Account,Office Supplies,849097.0,8500000,2025-11
+FIN21582,2025-12-19,Marketing,Lagos,Income,Mobile Money,Current Account,Office Supplies,98990.0,6500000,2025-12
+FIN21048,2025-07-05,Operations,Ibadan,Income,Cash,Savings Account,Utilities,1763523.0,8500000,2025-07
+FIN20965,2025-10-19,Finance,Lagos,Income,Cash,Current Account,Service Fee,520991.0,5800000,2025-10
+FIN21697,2025-01-21,Marketing,Lagos,Income,Mobile Money,Business Account,Consulting,740327.0,6500000,2025-01
+FIN20715,2025-10-05,Marketing,Ibadan,Income,Mobile Money,Current Account,Service Fee,175028.0,6500000,2025-10
+FIN20194,2025-02-14,Operations,Lagos,Expense,Mobile Money,Business Account,Equipment,344264.0,8500000,2025-02
+FIN20441,2025-03-30,Human Resources,Port Harcourt,Income,Bank Transfer,Current Account,Office Supplies,150202.0,5000000,2025-03
+FIN20574,2025-07-26,Marketing,Lagos,Expense,Bank Transfer,Current Account,Advertising,512750.0,6500000,2025-07
+FIN20504,2025-11-14,Human Resources,Port Harcourt,Expense,Bank Transfer,Current Account,Travel,129162.0,5000000,2025-11
+FIN20606,2025-06-11,Finance,Lagos,Income,Mobile Money,Savings Account,Utilities,1472277.0,5800000,2025-06
+FIN21451,2025-07-20,Marketing,Port Harcourt,Income,Direct Debit,Savings Account,Office Supplies,870645.0,6500000,2025-07
+FIN21634,2025-05-13,Sales,Port Harcourt,Expense,Bank Transfer,Business Account,Salary,616543.0,9000000,2025-05
+FIN20847,2025-05-29,Sales,Ibadan,Income,Direct Debit,Savings Account,Office Supplies,456742.0,9000000,2025-05
+FIN20004,2025-01-01,Operations,Port Harcourt,Expense,Direct Debit,Business Account,Office Supplies,165342.0,8500000,2025-01
+FIN21484,2025-12-24,Marketing,Ibadan,Income,Direct Debit,Savings Account,Travel,1542099.0,6500000,2025-12
+FIN21222,2025-06-23,Sales,Ibadan,Income,Cash,Savings Account,Software Subscription,514376.0,9000000,2025-06
+FIN20468,2025-06-14,Finance,Abuja,Expense,Mobile Money,Savings Account,Travel,138696.0,5800000,2025-06
+FIN20322,2025-07-10,Sales,Unknown,Expense,Mobile Money,Current Account,Office Supplies,451722.0,9000000,2025-07
+FIN20006,2025-07-27,IT,Port Harcourt,Income,Direct Debit,Current Account,Unknown,719341.0,7200000,2025-07
+FIN20223,2025-11-04,Sales,Abuja,Income,Card,Business Account,Utilities,932129.0,9000000,2025-11
+FIN20548,2025-05-08,Human Resources,Ibadan,Expense,Direct Debit,Current Account,Service Fee,315866.0,5000000,2025-05
+FIN20229,2025-05-26,Marketing,Port Harcourt,Expense,Mobile Money,Savings Account,Service Fee,541658.0,6500000,2025-05
+FIN20040,2025-11-19,Sales,Lagos,Income,Bank Transfer,Business Account,Service Fee,1581352.0,9000000,2025-11
+FIN20543,2025-11-28,Finance,Abuja,Income,Direct Debit,Savings Account,Salary,1040374.0,5800000,2025-11
+FIN20243,2025-09-13,Human Resources,Lagos,Expense,Mobile Money,Current Account,Software Subscription,213984.0,5000000,2025-09
+FIN21041,2025-01-30,Operations,Port Harcourt,Expense,Mobile Money,Savings Account,Salary,131576.0,8500000,2025-01
+FIN20137,2025-04-19,Human Resources,Kano,Income,Bank Transfer,Business Account,Office Supplies,184555.0,5000000,2025-04
+FIN21183,2025-07-01,Finance,Kano,Expense,Card,Business Account,Unknown,493288.0,5800000,2025-07
+FIN21606,2025-03-11,Finance,Lagos,Income,Cash,Business Account,Client Payment,1475285.0,5800000,2025-03
+FIN21441,2025-08-08,IT,Kano,Expense,Mobile Money,Current Account,Software Subscription,164282.0,7200000,2025-08
+FIN21665,2025-10-07,Marketing,Abuja,Expense,Cash,Current Account,Client Payment,117799.0,6500000,2025-10
+FIN20830,2025-07-31,Sales,Abuja,Income,Mobile Money,Business Account,Travel,1111008.0,9000000,2025-07
+FIN20446,2025-03-26,Finance,Abuja,Expense,Mobile Money,Current Account,Travel,583370.0,5800000,2025-03
+FIN20843,2025-08-04,Sales,Lagos,Income,Card,Savings Account,Salary,1521296.0,9000000,2025-08
+FIN21235,2025-08-20,IT,Kano,Expense,Mobile Money,Savings Account,Advertising,76635.0,7200000,2025-08
+FIN21726,2025-01-10,Marketing,Kano,Income,Mobile Money,Business Account,Service Fee,1132272.0,6500000,2025-01
+FIN21062,2025-09-08,Finance,Abuja,Expense,Card,Current Account,Software Subscription,192502.0,5800000,2025-09
+FIN21668,2025-12-16,Human Resources,Kano,Expense,Bank Transfer,Business Account,Office Supplies,163314.0,5000000,2025-12
+FIN20582,2025-12-07,Finance,Lagos,Expense,Direct Debit,Current Account,Utilities,256094.0,5800000,2025-12
+FIN21614,2025-11-22,Operations,Ibadan,Income,Direct Debit,Business Account,Salary,1035357.0,8500000,2025-11
+FIN21795,2025-04-03,Operations,Abuja,Income,Cash,Savings Account,Client Payment,1603982.0,8500000,2025-04
+FIN20662,2025-06-18,Human Resources,Port Harcourt,Expense,Direct Debit,Business Account,Advertising,558314.0,5000000,2025-06
+FIN20437,2025-12-13,Marketing,Kano,Income,Cash,Savings Account,Salary,1579118.0,6500000,2025-12
+FIN21695,2025-12-24,Sales,Lagos,Income,Cash,Savings Account,Client Payment,1781591.0,9000000,2025-12
+FIN20377,2025-03-28,Marketing,Abuja,Expense,Cash,Business Account,Client Payment,542710.0,6500000,2025-03
+FIN21558,2025-09-15,Sales,Port Harcourt,Income,Direct Debit,Current Account,Equipment,218731.0,9000000,2025-09
+FIN21111,2025-05-07,Marketing,Ibadan,Expense,Card,Business Account,Consulting,67111.0,6500000,2025-05
+FIN20315,2025-03-13,Marketing,Port Harcourt,Expense,Mobile Money,Business Account,Software Subscription,105178.0,6500000,2025-03
+FIN20443,2025-04-04,IT,Lagos,Income,Bank Transfer,Business Account,Software Subscription,228066.0,7200000,2025-04
+FIN21053,2025-10-23,Finance,Port Harcourt,Expense,Card,Business Account,Client Payment,45901.0,5800000,2025-10
+FIN20320,2025-02-11,Sales,Ibadan,Income,Mobile Money,Business Account,Travel,510267.0,9000000,2025-02
+FIN20282,2025-12-25,Human Resources,Abuja,Income,Mobile Money,Business Account,Equipment,323306.0,5000000,2025-12
+FIN21317,2025-11-02,Marketing,Abuja,Expense,Card,Savings Account,Software Subscription,140243.0,6500000,2025-11
+FIN21223,2025-06-19,Operations,Lagos,Income,Direct Debit,Current Account,Travel,91390.0,8500000,2025-06
+FIN21375,2025-02-11,Operations,Port Harcourt,Income,Card,Current Account,Utilities,1476436.0,8500000,2025-02
+FIN20425,2025-01-01,IT,Ibadan,Income,Card,Business Account,Office Supplies,1240248.0,7200000,2025-01
+FIN20554,2025-01-24,Operations,Abuja,Expense,Mobile Money,Savings Account,Salary,473809.0,8500000,2025-01
+FIN20595,2025-04-10,Operations,Abuja,Expense,Direct Debit,Savings Account,Equipment,372156.0,8500000,2025-04
+FIN21789,2025-03-25,Marketing,Ibadan,Income,Cash,Savings Account,Equipment,271387.0,6500000,2025-03
+FIN20369,2025-08-25,Operations,Abuja,Income,Cash,Business Account,Travel,1074969.0,8500000,2025-08
+FIN21270,2025-05-25,Finance,Ibadan,Income,Mobile Money,Savings Account,Office Supplies,593313.0,5800000,2025-05
+FIN20938,2025-05-01,Operations,Ibadan,Expense,Bank Transfer,Business Account,Equipment,504672.0,8500000,2025-05
+FIN21076,2025-12-05,IT,Lagos,Income,Bank Transfer,Business Account,Client Payment,1772483.0,7200000,2025-12
+FIN21613,2025-02-14,Operations,Port Harcourt,Expense,Card,Savings Account,Equipment,322619.0,8500000,2025-02
+FIN21405,2025-02-26,Sales,Lagos,Expense,Direct Debit,Business Account,Client Payment,480829.0,9000000,2025-02
+FIN20228,2025-03-20,Finance,Ibadan,Income,Cash,Current Account,Office Supplies,1550523.0,5800000,2025-03
+FIN21741,2025-03-13,Operations,Port Harcourt,Expense,Card,Business Account,Consulting,337942.0,8500000,2025-03
+FIN21106,2025-06-30,Operations,Kano,Income,Cash,Savings Account,Equipment,984850.0,8500000,2025-06
+FIN21334,2025-05-07,Human Resources,Port Harcourt,Expense,Cash,Savings Account,Service Fee,298572.0,5000000,2025-05
+FIN20989,2025-02-20,Human Resources,Kano,Income,Card,Business Account,Service Fee,1009242.0,5000000,2025-02
+FIN20067,2025-08-04,Human Resources,Port Harcourt,Income,Cash,Current Account,Advertising,1304648.0,5000000,2025-08
+FIN20394,2025-09-27,Finance,Abuja,Expense,Cash,Business Account,Consulting,491797.0,5800000,2025-09
+FIN20580,2025-04-24,Finance,Abuja,Income,Cash,Business Account,Travel,1286123.0,5800000,2025-04
+FIN20025,2025-05-26,Operations,Abuja,Income,Mobile Money,Savings Account,Equipment,119279.0,8500000,2025-05
+FIN21407,2025-09-25,Finance,Kano,Expense,Mobile Money,Savings Account,Office Supplies,384315.0,5800000,2025-09
+FIN20145,2025-03-18,Finance,Ibadan,Income,Bank Transfer,Savings Account,Travel,1062599.0,5800000,2025-03
+FIN20537,2025-02-21,IT,Ibadan,Expense,Mobile Money,Business Account,Client Payment,632084.0,7200000,2025-02
+FIN20812,2025-07-19,Operations,Lagos,Expense,Bank Transfer,Business Account,Equipment,257068.0,8500000,2025-07
+FIN21028,2025-08-01,Human Resources,Kano,Expense,Cash,Current Account,Utilities,288449.0,5000000,2025-08
+FIN20951,2025-09-24,Sales,Lagos,Expense,Bank Transfer,Current Account,Travel,504528.0,9000000,2025-09
+FIN20086,2025-04-09,IT,Lagos,Income,Card,Business Account,Advertising,259830.0,7200000,2025-04
+FIN21648,2025-08-13,Human Resources,Ibadan,Expense,Cash,Savings Account,Software Subscription,500751.0,5000000,2025-08
+FIN20273,2025-10-14,Operations,Port Harcourt,Expense,Direct Debit,Current Account,Client Payment,241552.0,8500000,2025-10
+FIN21177,2025-06-20,Sales,Abuja,Expense,Bank Transfer,Business Account,Utilities,164771.0,9000000,2025-06
+FIN21086,2025-06-05,Human Resources,Lagos,Income,Mobile Money,Business Account,Client Payment,631050.0,5000000,2025-06
+FIN20950,2025-11-03,Sales,Kano,Expense,Cash,Current Account,Software Subscription,470983.0,9000000,2025-11
+FIN21650,2025-11-06,Human Resources,Abuja,Expense,Mobile Money,Savings Account,Equipment,426245.0,5000000,2025-11
+FIN20631,2025-10-06,IT,Lagos,Expense,Bank Transfer,Current Account,Consulting,446903.0,7200000,2025-10
+FIN21253,2025-05-04,Operations,Abuja,Income,Cash,Current Account,Service Fee,1150607.0,8500000,2025-05
+FIN21708,2025-07-12,Sales,Ibadan,Income,Card,Current Account,Travel,148323.0,9000000,2025-07
+FIN20941,2025-07-16,Sales,Ibadan,Income,Bank Transfer,Savings Account,Equipment,1441303.0,9000000,2025-07
+FIN21252,2025-08-30,IT,Ibadan,Income,Direct Debit,Savings Account,Service Fee,1333733.0,7200000,2025-08
+FIN21632,2025-04-24,Operations,Lagos,Income,Cash,Current Account,Equipment,108328.0,8500000,2025-04
+FIN20506,2025-03-28,IT,Lagos,Income,Mobile Money,Business Account,Salary,1428711.0,7200000,2025-03
+FIN20274,2025-10-03,Marketing,Kano,Expense,Direct Debit,Current Account,Software Subscription,63764.0,6500000,2025-10
+FIN20508,2025-02-25,Finance,Ibadan,Expense,Direct Debit,Current Account,Service Fee,613130.0,5800000,2025-02
+FIN21202,2025-09-17,IT,Abuja,Income,Cash,Savings Account,Equipment,1206418.0,7200000,2025-09
+FIN20363,2025-07-10,Operations,Lagos,Income,Direct Debit,Savings Account,Client Payment,331351.0,8500000,2025-07
+FIN21477,2025-12-17,Sales,Abuja,Expense,Mobile Money,Business Account,Advertising,526554.0,9000000,2025-12
+FIN21644,2025-06-25,IT,Port Harcourt,Expense,Card,Business Account,Equipment,442217.0,7200000,2025-06
+FIN20623,2025-12-06,Human Resources,Port Harcourt,Income,Cash,Savings Account,Software Subscription,203950.0,5000000,2025-12
+FIN20003,2025-04-23,Operations,Abuja,Expense,Cash,Current Account,Salary,589383.0,8500000,2025-04
+FIN20007,2025-04-20,Human Resources,Kano,Income,Direct Debit,Business Account,Client Payment,1701219.0,5000000,2025-04
+FIN21118,2025-08-16,Operations,Kano,Expense,Bank Transfer,Current Account,Travel,528069.0,8500000,2025-08
+FIN20312,2025-04-21,Marketing,Ibadan,Income,Direct Debit,Current Account,Office Supplies,148920.0,6500000,2025-04
+FIN21236,2025-09-04,Marketing,Ibadan,Income,Cash,Current Account,Service Fee,1774979.0,6500000,2025-09
+FIN21593,2025-11-23,Marketing,Abuja,Income,Cash,Savings Account,Equipment,639351.0,6500000,2025-11
+FIN20666,2025-01-03,Human Resources,Kano,Income,Bank Transfer,Savings Account,Service Fee,206498.0,5000000,2025-01
+FIN20365,2025-11-08,Human Resources,Abuja,Expense,Direct Debit,Current Account,Service Fee,444032.0,5000000,2025-11
+FIN21798,2025-06-15,Human Resources,Port Harcourt,Income,Cash,Savings Account,Client Payment,258048.0,5000000,2025-06
+FIN20216,2025-04-19,IT,Ibadan,Income,Direct Debit,Savings Account,Travel,653156.0,7200000,2025-04
+FIN20983,2025-07-08,Operations,Lagos,Income,Bank Transfer,Current Account,Salary,1431099.0,8500000,2025-07
+FIN20028,2025-04-02,IT,Kano,Income,Card,Current Account,Client Payment,1189639.0,7200000,2025-04
+FIN21311,2025-11-04,Operations,Ibadan,Income,Cash,Savings Account,Office Supplies,1474947.0,8500000,2025-11
+FIN20526,2025-11-19,Sales,Abuja,Income,Mobile Money,Current Account,Utilities,855158.0,9000000,2025-11
+FIN21676,2025-08-14,Sales,Lagos,Income,Direct Debit,Savings Account,Client Payment,504528.0,9000000,2025-08
+FIN21139,2025-06-08,IT,Ibadan,Income,Bank Transfer,Current Account,Service Fee,677093.0,7200000,2025-06
+FIN20639,2025-04-19,Human Resources,Lagos,Income,Cash,Business Account,Salary,707220.0,5000000,2025-04
+FIN20303,2025-02-04,Sales,Ibadan,Expense,Bank Transfer,Savings Account,Travel,495738.0,9000000,2025-02
+FIN20719,2025-04-11,Operations,Lagos,Income,Bank Transfer,Savings Account,Utilities,1221069.0,8500000,2025-04
+FIN20692,2025-06-19,IT,Abuja,Income,Cash,Current Account,Advertising,521416.0,7200000,2025-06
+FIN21612,2025-05-25,Finance,Lagos,Expense,Bank Transfer,Current Account,Utilities,498705.0,5800000,2025-05
+FIN21669,2025-11-10,Operations,Port Harcourt,Income,Direct Debit,Savings Account,Travel,1529991.0,8500000,2025-11
+FIN20625,2025-08-27,Operations,Kano,Expense,Cash,Savings Account,Equipment,165406.0,8500000,2025-08
+FIN20008,2025-07-19,Marketing,Port Harcourt,Expense,Card,Savings Account,Consulting,491017.0,6500000,2025-07
+FIN20257,2025-05-10,Marketing,Kano,Expense,Bank Transfer,Savings Account,Travel,622801.0,6500000,2025-05
+FIN20804,2025-11-06,Operations,Lagos,Expense,Cash,Current Account,Utilities,528433.0,8500000,2025-11
+FIN20026,2025-11-11,Operations,Lagos,Expense,Bank Transfer,Business Account,Utilities,634741.0,8500000,2025-11
+FIN20337,2025-11-27,IT,Abuja,Expense,Mobile Money,Savings Account,Salary,176470.0,7200000,2025-11
+FIN20573,2025-10-21,Human Resources,Port Harcourt,Income,Card,Business Account,Utilities,1784581.0,5000000,2025-10
+FIN20048,2025-04-28,Sales,Kano,Expense,Mobile Money,Savings Account,Advertising,156213.0,9000000,2025-04
+FIN21352,2025-10-04,Sales,Ibadan,Expense,Bank Transfer,Savings Account,Service Fee,103793.0,9000000,2025-10
+FIN20107,2025-03-26,Finance,Ibadan,Income,Mobile Money,Business Account,Advertising,1345898.0,5800000,2025-03
+FIN20350,2025-12-25,Operations,Ibadan,Expense,Bank Transfer,Savings Account,Software Subscription,477666.0,8500000,2025-12
+FIN20056,2025-04-24,Operations,Abuja,Expense,Card,Current Account,Utilities,384986.0,8500000,2025-04
+FIN20239,2025-04-15,Human Resources,Kano,Expense,Direct Debit,Business Account,Equipment,416210.0,5000000,2025-04
+FIN20214,2025-06-17,Operations,Unknown,Income,Card,Business Account,Travel,1092237.0,8500000,2025-06
+FIN20121,2025-11-09,Marketing,Ibadan,Expense,Card,Business Account,Advertising,496128.0,6500000,2025-11
+FIN21560,2025-03-18,Marketing,Kano,Expense,Mobile Money,Business Account,Consulting,129767.0,6500000,2025-03
+FIN21478,2025-05-20,IT,Abuja,Expense,Direct Debit,Savings Account,Utilities,620724.0,7200000,2025-05
+FIN20794,2025-12-21,Human Resources,Ibadan,Expense,Bank Transfer,Business Account,Service Fee,498454.0,5000000,2025-12
+FIN20073,2025-10-02,Finance,Port Harcourt,Income,Card,Savings Account,Service Fee,959381.0,5800000,2025-10
+FIN20923,2025-08-26,Operations,Port Harcourt,Expense,Direct Debit,Savings Account,Client Payment,597952.0,8500000,2025-08
+FIN20813,2025-06-06,IT,Kano,Income,Card,Current Account,Salary,1433324.0,7200000,2025-06
+FIN21631,2025-10-05,Human Resources,Abuja,Expense,Bank Transfer,Business Account,Consulting,152018.0,5000000,2025-10
+FIN20078,2025-07-06,Sales,Abuja,Income,Direct Debit,Savings Account,Equipment,965421.0,9000000,2025-07
+FIN20945,2025-03-22,Operations,Port Harcourt,Income,Cash,Savings Account,Equipment,552501.0,8500000,2025-03
+FIN21031,2025-06-24,IT,Kano,Income,Mobile Money,Savings Account,Advertising,88036.0,7200000,2025-06
+FIN20046,2025-01-25,Marketing,Lagos,Expense,Cash,Savings Account,Office Supplies,146479.0,6500000,2025-01
+FIN21597,2025-04-26,Finance,Kano,Income,Card,Savings Account,Consulting,1566561.0,5800000,2025-04
+FIN20524,2025-11-10,Marketing,Lagos,Expense,Card,Business Account,Travel,503007.0,6500000,2025-11
+FIN20233,2025-01-13,Human Resources,Ibadan,Expense,Cash,Business Account,Client Payment,300833.0,5000000,2025-01
+FIN20645,2025-11-13,Marketing,Unknown,Income,Mobile Money,Savings Account,Office Supplies,555595.0,6500000,2025-11
+FIN21343,2025-10-04,IT,Port Harcourt,Expense,Mobile Money,Current Account,Office Supplies,196968.0,7200000,2025-10
+FIN21379,2025-01-17,Human Resources,Ibadan,Income,Mobile Money,Business Account,Office Supplies,896228.0,5000000,2025-01
+FIN21095,2025-05-31,Finance,Ibadan,Income,Mobile Money,Business Account,Advertising,255767.0,5800000,2025-05
+FIN20534,2025-07-12,Marketing,Kano,Expense,Cash,Current Account,Office Supplies,363615.0,6500000,2025-07
+FIN21169,2025-03-12,Finance,Ibadan,Income,Mobile Money,Business Account,Service Fee,504528.0,5800000,2025-03
+FIN21380,2025-10-10,Marketing,Ibadan,Expense,Direct Debit,Business Account,Equipment,576119.0,6500000,2025-10
+FIN20604,2025-04-18,IT,Kano,Income,Mobile Money,Current Account,Client Payment,1467695.0,7200000,2025-04
+FIN20466,2025-11-03,IT,Port Harcourt,Income,Mobile Money,Current Account,Service Fee,622777.0,7200000,2025-11
+FIN21551,2025-06-04,Sales,Ibadan,Expense,Cash,Business Account,Client Payment,520364.0,9000000,2025-06
+FIN20789,2025-05-11,Human Resources,Lagos,Income,Card,Business Account,Travel,1084949.0,5000000,2025-05
+FIN21552,2025-09-19,Finance,Kano,Expense,Mobile Money,Savings Account,Utilities,525740.0,5800000,2025-09
+FIN21548,2025-10-29,Sales,Ibadan,Expense,Cash,Current Account,Service Fee,125573.0,9000000,2025-10
+FIN21191,2025-08-03,Sales,Lagos,Income,Cash,Savings Account,Client Payment,757673.0,9000000,2025-08
+FIN20061,2025-02-04,Operations,Lagos,Income,Mobile Money,Business Account,Travel,793226.0,8500000,2025-02
+FIN21193,2025-04-11,Finance,Kano,Income,Mobile Money,Current Account,Advertising,420093.0,5800000,2025-04
+FIN21517,2025-05-25,Marketing,Abuja,Expense,Card,Business Account,Software Subscription,298104.0,6500000,2025-05
+FIN20093,2025-05-06,Marketing,Unknown,Expense,Cash,Current Account,Office Supplies,448276.0,6500000,2025-05
+FIN20667,2025-11-10,Human Resources,Kano,Income,Mobile Money,Current Account,Client Payment,782098.0,5000000,2025-11
+FIN21011,2025-04-20,Marketing,Abuja,Income,Direct Debit,Savings Account,Salary,281260.0,6500000,2025-04
+FIN21547,2025-11-20,Operations,Kano,Expense,Bank Transfer,Savings Account,Salary,257330.0,8500000,2025-11
+FIN20195,2025-05-14,Finance,Port Harcourt,Income,Mobile Money,Current Account,Utilities,1363203.0,5800000,2025-05
+FIN20281,2025-05-02,Marketing,Lagos,Expense,Mobile Money,Savings Account,Utilities,253540.0,6500000,2025-05
+FIN20696,2025-07-27,Operations,Lagos,Expense,Card,Current Account,Equipment,263877.0,8500000,2025-07
+FIN21109,2025-12-28,Human Resources,Kano,Expense,Mobile Money,Business Account,Advertising,258245.0,5000000,2025-12
+FIN20360,2025-11-23,Finance,Abuja,Expense,Mobile Money,Savings Account,Salary,373827.0,5800000,2025-11
+FIN21037,2025-04-20,Sales,Ibadan,Income,Cash,Business Account,Client Payment,623088.0,9000000,2025-04
+FIN20520,2025-07-01,Human Resources,Abuja,Income,Bank Transfer,Business Account,Service Fee,290545.0,5000000,2025-07
+FIN21313,2025-06-15,Marketing,Abuja,Expense,Mobile Money,Business Account,Equipment,465563.0,6500000,2025-06
+FIN21108,2025-05-23,Human Resources,Kano,Expense,Mobile Money,Business Account,Advertising,122421.0,5000000,2025-05
+FIN21145,2025-09-13,Sales,Kano,Income,Direct Debit,Current Account,Advertising,1310746.0,9000000,2025-09
+FIN21075,2025-01-13,Human Resources,Kano,Expense,Mobile Money,Current Account,Client Payment,263767.0,5000000,2025-01
+FIN20848,2025-10-31,Operations,Abuja,Expense,Mobile Money,Business Account,Consulting,357629.0,8500000,2025-10
+FIN20183,2025-01-25,Operations,Lagos,Expense,Cash,Business Account,Client Payment,271671.0,8500000,2025-01
+FIN21300,2025-03-19,IT,Abuja,Expense,Bank Transfer,Business Account,Advertising,40855.0,7200000,2025-03
+FIN21601,2025-01-31,Marketing,Port Harcourt,Income,Card,Business Account,Software Subscription,1543417.0,6500000,2025-01
+FIN20111,2025-04-25,Finance,Port Harcourt,Income,Mobile Money,Current Account,Equipment,960412.0,5800000,2025-04
+FIN20043,2025-04-04,Marketing,Unknown,Income,Bank Transfer,Current Account,Advertising,1059062.0,6500000,2025-04
+FIN20126,2025-10-30,Sales,Abuja,Income,Card,Current Account,Software Subscription,1132330.0,9000000,2025-10
+FIN20205,2025-01-30,Operations,Lagos,Expense,Direct Debit,Business Account,Salary,386081.0,8500000,2025-01
+FIN20053,2025-06-24,Operations,Abuja,Expense,Mobile Money,Business Account,Utilities,392282.0,8500000,2025-06
+FIN20546,2025-06-28,Human Resources,Lagos,Income,Card,Current Account,Service Fee,1771916.0,5000000,2025-06
+FIN20069,2025-07-12,Human Resources,Kano,Income,Card,Business Account,Advertising,150119.0,5000000,2025-07
+FIN21044,2025-12-09,Finance,Port Harcourt,Expense,Bank Transfer,Current Account,Utilities,97525.0,5800000,2025-12
+FIN21489,2025-05-02,Marketing,Abuja,Income,Bank Transfer,Savings Account,Consulting,1368295.0,6500000,2025-05
+FIN20184,2025-01-16,Marketing,Lagos,Expense,Mobile Money,Savings Account,Software Subscription,493918.0,6500000,2025-01
+FIN20138,2025-11-09,Marketing,Abuja,Expense,Direct Debit,Business Account,Service Fee,430482.0,6500000,2025-11
+FIN20900,2025-03-10,Finance,Lagos,Income,Direct Debit,Current Account,Service Fee,1536168.0,5800000,2025-03
+FIN20797,2025-12-22,Finance,Lagos,Expense,Direct Debit,Business Account,Advertising,516440.0,5800000,2025-12
+FIN20133,2025-05-14,Finance,Kano,Income,Cash,Business Account,Utilities,426130.0,5800000,2025-05
+FIN20081,2025-06-29,IT,Lagos,Expense,Cash,Savings Account,Consulting,557977.0,7200000,2025-06
+FIN21595,2025-07-03,Operations,Kano,Expense,Direct Debit,Current Account,Consulting,433962.0,8500000,2025-07
+FIN20542,2025-09-08,Human Resources,Abuja,Expense,Card,Savings Account,Travel,583466.0,5000000,2025-09
+FIN21462,2025-07-13,Human Resources,Kano,Expense,Bank Transfer,Business Account,Salary,623555.0,5000000,2025-07
+FIN20984,2025-02-13,Marketing,Abuja,Income,Mobile Money,Current Account,Salary,97297.0,6500000,2025-02
+FIN20166,2025-12-21,Marketing,Ibadan,Expense,Card,Business Account,Software Subscription,237813.0,6500000,2025-12
+FIN20249,2025-06-13,Operations,Ibadan,Expense,Mobile Money,Business Account,Consulting,490435.0,8500000,2025-06
+FIN20447,2025-09-02,Human Resources,Port Harcourt,Expense,Card,Business Account,Software Subscription,595228.0,5000000,2025-09
+FIN21056,2025-02-11,Sales,Lagos,Income,Mobile Money,Business Account,Salary,866261.0,9000000,2025-02
+FIN20859,2025-03-25,Sales,Lagos,Expense,Bank Transfer,Current Account,Utilities,504895.0,9000000,2025-03
+FIN21112,2025-09-20,IT,Ibadan,Income,Bank Transfer,Business Account,Advertising,1541387.0,7200000,2025-09
+FIN20098,2025-01-28,IT,Kano,Income,Cash,Savings Account,Client Payment,702893.0,7200000,2025-01
+FIN21799,2025-06-08,Human Resources,Kano,Income,Cash,Current Account,Software Subscription,1078082.0,5000000,2025-06
+FIN20738,2025-04-27,IT,Ibadan,Expense,Mobile Money,Savings Account,Client Payment,51085.0,7200000,2025-04
+FIN21386,2025-01-17,Marketing,Abuja,Income,Card,Business Account,Utilities,1763886.0,6500000,2025-01
+FIN20103,2025-08-02,Human Resources,Port Harcourt,Income,Mobile Money,Business Account,Office Supplies,864586.0,5000000,2025-08
+FIN20435,2025-02-07,IT,Kano,Income,Cash,Savings Account,Utilities,338635.0,7200000,2025-02
+FIN20075,2025-03-17,IT,Lagos,Expense,Mobile Money,Current Account,Travel,105774.0,7200000,2025-03
+FIN20385,2025-07-06,Operations,Port Harcourt,Expense,Mobile Money,Savings Account,Office Supplies,457805.0,8500000,2025-07
+FIN21103,2025-11-04,Operations,Ibadan,Expense,Card,Business Account,Utilities,354517.0,8500000,2025-11
+FIN20919,2025-05-20,Marketing,Kano,Expense,Bank Transfer,Savings Account,Office Supplies,514955.0,6500000,2025-05
+FIN21675,2025-02-07,Marketing,Port Harcourt,Expense,Card,Savings Account,Software Subscription,298266.0,6500000,2025-02
+FIN21533,2025-10-04,Operations,Abuja,Expense,Direct Debit,Business Account,Consulting,114913.0,8500000,2025-10
+FIN21672,2025-02-16,Operations,Kano,Expense,Mobile Money,Business Account,Client Payment,480188.0,8500000,2025-02
+FIN20763,2025-04-17,IT,Kano,Income,Direct Debit,Savings Account,Advertising,392023.0,7200000,2025-04
+FIN20990,2025-08-30,Sales,Lagos,Expense,Card,Savings Account,Office Supplies,222834.0,9000000,2025-08
+FIN20389,2025-08-12,Sales,Ibadan,Expense,Bank Transfer,Current Account,Equipment,533942.0,9000000,2025-08
+FIN20236,2025-11-26,Operations,Port Harcourt,Expense,Direct Debit,Savings Account,Software Subscription,546930.0,8500000,2025-11
+FIN20268,2025-07-25,Operations,Ibadan,Expense,Cash,Current Account,Service Fee,64816.0,8500000,2025-07
+FIN21090,2025-05-07,Operations,Abuja,Income,Direct Debit,Business Account,Travel,951522.0,8500000,2025-05
+FIN20118,2025-05-26,Finance,Kano,Income,Card,Business Account,Utilities,1308337.0,5800000,2025-05
+FIN21472,2025-03-29,Marketing,Ibadan,Expense,Mobile Money,Current Account,Software Subscription,571852.0,6500000,2025-03
+FIN20674,2025-03-02,IT,Abuja,Expense,Direct Debit,Business Account,Advertising,628713.0,7200000,2025-03
+FIN20250,2025-05-21,Sales,Lagos,Expense,Direct Debit,Current Account,Equipment,621160.0,9000000,2025-05
+FIN21327,2025-04-05,Human Resources,Lagos,Income,Cash,Business Account,Equipment,978488.0,5000000,2025-04
+FIN20095,2025-11-06,Marketing,Lagos,Expense,Cash,Current Account,Consulting,323664.0,6500000,2025-11
+FIN20034,2025-05-17,Sales,Port Harcourt,Expense,Direct Debit,Savings Account,Equipment,113526.0,9000000,2025-05
+FIN21792,2025-12-08,Marketing,Lagos,Expense,Mobile Money,Savings Account,Utilities,465935.0,6500000,2025-12
+FIN21531,2025-07-24,Human Resources,Abuja,Income,Mobile Money,Savings Account,Client Payment,829468.0,5000000,2025-07
+FIN20449,2025-10-18,IT,Lagos,Income,Direct Debit,Savings Account,Utilities,1454598.0,7200000,2025-10
+FIN20717,2025-03-15,Sales,Abuja,Expense,Direct Debit,Current Account,Utilities,45517.0,9000000,2025-03
+FIN21524,2025-03-29,Finance,Port Harcourt,Income,Mobile Money,Business Account,Client Payment,521048.0,5800000,2025-03
+FIN21474,2025-01-01,Sales,Abuja,Income,Bank Transfer,Savings Account,Client Payment,396275.0,9000000,2025-01
+FIN20001,2025-08-14,Human Resources,Abuja,Income,Mobile Money,Current Account,Advertising,1276179.0,5000000,2025-08
+FIN21625,2025-12-15,Operations,Abuja,Income,Direct Debit,Savings Account,Service Fee,1593802.0,8500000,2025-12
+FIN20083,2025-05-06,Marketing,Abuja,Income,Card,Business Account,Office Supplies,372985.0,6500000,2025-05
+FIN21178,2025-05-23,Human Resources,Abuja,Income,Cash,Business Account,Client Payment,628333.0,5000000,2025-05
+FIN20677,2025-08-12,Marketing,Abuja,Income,Mobile Money,Business Account,Service Fee,543001.0,6500000,2025-08
+FIN21326,2025-09-23,Sales,Unknown,Income,Card,Business Account,Consulting,956110.0,9000000,2025-09
+FIN21047,2025-07-13,Operations,Ibadan,Income,Bank Transfer,Current Account,Travel,515477.0,8500000,2025-07
+FIN20771,2025-01-19,Marketing,Ibadan,Income,Direct Debit,Current Account,Software Subscription,217653.0,6500000,2025-01
+FIN21394,2025-06-07,Human Resources,Ibadan,Income,Cash,Current Account,Consulting,1516457.0,5000000,2025-06
+FIN21171,2025-04-15,Finance,Ibadan,Expense,Bank Transfer,Current Account,Office Supplies,120260.0,5800000,2025-04
+FIN21449,2025-11-23,Operations,Kano,Expense,Bank Transfer,Business Account,Service Fee,131462.0,8500000,2025-11
+FIN21361,2025-06-21,Finance,Port Harcourt,Expense,Cash,Savings Account,Consulting,620198.0,5800000,2025-06
+FIN20405,2025-12-01,Marketing,Kano,Income,Card,Current Account,Equipment,1267169.0,6500000,2025-12
+FIN21584,2025-02-09,Finance,Lagos,Income,Cash,Business Account,Client Payment,946792.0,5800000,2025-02
+FIN21186,2025-01-04,Marketing,Abuja,Expense,Bank Transfer,Business Account,Advertising,78219.0,6500000,2025-01
+FIN20105,2025-10-09,Operations,Port Harcourt,Expense,Mobile Money,Savings Account,Salary,316063.0,8500000,2025-10
+FIN20689,2025-03-15,Human Resources,Kano,Expense,Card,Current Account,Salary,234127.0,5000000,2025-03
+FIN21646,2025-03-23,Marketing,Lagos,Expense,Cash,Savings Account,Office Supplies,103384.0,6500000,2025-03
+FIN20827,2025-01-26,Marketing,Kano,Income,Card,Current Account,Travel,510634.0,6500000,2025-01
+FIN20063,2025-01-26,Sales,Abuja,Expense,Mobile Money,Current Account,Service Fee,612656.0,9000000,2025-01
+FIN20853,2025-07-24,IT,Abuja,Income,Mobile Money,Savings Account,Service Fee,553866.0,7200000,2025-07
+FIN21234,2025-02-18,Operations,Kano,Income,Card,Business Account,Equipment,342093.0,8500000,2025-02
+FIN20224,2025-03-10,Human Resources,Port Harcourt,Income,Cash,Savings Account,Equipment,1144605.0,5000000,2025-03
+FIN20146,2025-06-26,Finance,Lagos,Income,Bank Transfer,Savings Account,Equipment,495872.0,5800000,2025-06
+FIN21089,2025-09-15,Finance,Kano,Expense,Card,Current Account,Utilities,509415.0,5800000,2025-09
+FIN20374,2025-08-07,Marketing,Lagos,Expense,Direct Debit,Savings Account,Consulting,446070.0,6500000,2025-08
+FIN21335,2025-03-21,Marketing,Kano,Expense,Card,Savings Account,Office Supplies,578866.0,6500000,2025-03
+FIN21670,2025-05-08,Finance,Abuja,Expense,Mobile Money,Savings Account,Equipment,275821.0,5800000,2025-05
+FIN21382,2025-03-04,Operations,Lagos,Income,Cash,Savings Account,Software Subscription,1349611.0,8500000,2025-03
+FIN21467,2025-10-06,Marketing,Lagos,Expense,Mobile Money,Business Account,Office Supplies,151004.0,6500000,2025-10
+FIN21162,2025-02-27,Operations,Abuja,Income,Bank Transfer,Business Account,Travel,1701320.0,8500000,2025-02
+FIN20010,2025-01-12,IT,Ibadan,Expense,Direct Debit,Savings Account,Office Supplies,167745.0,7200000,2025-01
+FIN20450,2025-09-29,Finance,Abuja,Income,Bank Transfer,Business Account,Equipment,360852.0,5800000,2025-09
+FIN20709,2025-04-24,IT,Lagos,Income,Card,Savings Account,Advertising,926143.0,7200000,2025-04
+FIN20256,2025-07-18,IT,Ibadan,Expense,Mobile Money,Business Account,Salary,102289.0,7200000,2025-07
+FIN20883,2025-08-10,Marketing,Lagos,Income,Card,Savings Account,Consulting,147411.0,6500000,2025-08
+FIN20390,2025-01-03,Marketing,Port Harcourt,Expense,Mobile Money,Savings Account,Office Supplies,25520.0,6500000,2025-01
+FIN20909,2025-11-24,IT,Ibadan,Income,Card,Business Account,Equipment,1650057.0,7200000,2025-11
+FIN20925,2025-06-18,Sales,Ibadan,Income,Direct Debit,Current Account,Client Payment,304605.0,9000000,2025-06
+FIN21564,2025-12-14,Operations,Lagos,Income,Card,Savings Account,Travel,388617.0,8500000,2025-12
+FIN20668,2025-02-01,Sales,Lagos,Income,Mobile Money,Current Account,Software Subscription,1101469.0,9000000,2025-02
+FIN20461,2025-03-22,Finance,Abuja,Income,Card,Savings Account,Travel,605069.0,5800000,2025-03
+FIN21161,2025-12-31,Operations,Kano,Expense,Card,Business Account,Client Payment,562307.0,8500000,2025-12
+FIN20959,2025-11-05,Operations,Abuja,Income,Cash,Savings Account,Utilities,396456.0,8500000,2025-11
+FIN20502,2025-07-07,Finance,Ibadan,Expense,Bank Transfer,Business Account,Salary,370067.0,5800000,2025-07
+FIN20740,2025-04-04,IT,Ibadan,Income,Bank Transfer,Savings Account,Service Fee,655919.0,7200000,2025-04
+FIN21690,2025-01-03,Finance,Port Harcourt,Expense,Mobile Money,Savings Account,Client Payment,395897.0,5800000,2025-01
+FIN20869,2025-09-29,Marketing,Lagos,Expense,Mobile Money,Current Account,Utilities,254196.0,6500000,2025-09
+FIN20732,2025-12-18,Marketing,Port Harcourt,Expense,Cash,Current Account,Client Payment,328974.0,6500000,2025-12
+FIN20540,2025-11-30,Human Resources,Abuja,Income,Direct Debit,Savings Account,Client Payment,658688.0,5000000,2025-11
+FIN20698,2025-02-01,Sales,Ibadan,Expense,Direct Debit,Current Account,Software Subscription,518843.0,9000000,2025-02
+FIN21271,2025-02-06,IT,Lagos,Expense,Bank Transfer,Savings Account,Advertising,198296.0,7200000,2025-02
+FIN21256,2025-11-07,Finance,Port Harcourt,Income,Direct Debit,Current Account,Client Payment,675600.0,5800000,2025-11
+FIN21032,2025-08-17,Operations,Unknown,Expense,Mobile Money,Current Account,Software Subscription,622251.0,8500000,2025-08
+FIN20373,2025-01-01,Marketing,Unknown,Income,Mobile Money,Savings Account,Office Supplies,1592760.0,6500000,2025-01
+FIN21450,2025-02-07,Marketing,Kano,Expense,Mobile Money,Savings Account,Utilities,167735.0,6500000,2025-02
+FIN20358,2025-08-02,Human Resources,Ibadan,Expense,Card,Current Account,Client Payment,146270.0,5000000,2025-08
+FIN20968,2025-01-14,Finance,Abuja,Income,Bank Transfer,Business Account,Advertising,163555.0,5800000,2025-01
+FIN20784,2025-09-30,Human Resources,Abuja,Income,Cash,Current Account,Equipment,753590.0,5000000,2025-09
+FIN20736,2025-12-03,Human Resources,Abuja,Expense,Mobile Money,Current Account,Salary,160148.0,5000000,2025-12
+FIN21036,2025-09-03,Operations,Lagos,Expense,Direct Debit,Business Account,Equipment,520981.0,8500000,2025-09
+FIN20971,2025-12-08,Finance,Lagos,Expense,Mobile Money,Savings Account,Utilities,601904.0,5800000,2025-12
+FIN21396,2025-07-15,Human Resources,Port Harcourt,Expense,Card,Savings Account,Service Fee,61777.0,5000000,2025-07
+FIN21359,2025-08-25,Marketing,Ibadan,Income,Bank Transfer,Savings Account,Office Supplies,171218.0,6500000,2025-08
+FIN21363,2025-12-20,Operations,Lagos,Expense,Card,Savings Account,Salary,520201.0,8500000,2025-12
+FIN21554,2025-08-20,IT,Ibadan,Expense,Bank Transfer,Business Account,Advertising,524917.0,7200000,2025-08
+FIN21575,2025-01-13,Finance,Lagos,Income,Card,Savings Account,Software Subscription,678506.0,5800000,2025-01
+FIN20886,2025-02-17,Marketing,Kano,Income,Bank Transfer,Current Account,Client Payment,1067073.0,6500000,2025-02
+FIN20080,2025-01-28,Marketing,Abuja,Income,Cash,Savings Account,Software Subscription,1381367.0,6500000,2025-01
+FIN20815,2025-05-14,Operations,Abuja,Expense,Cash,Business Account,Consulting,575667.0,8500000,2025-05
+FIN21217,2025-08-06,Marketing,Lagos,Income,Cash,Business Account,Office Supplies,122727.0,6500000,2025-08
+FIN20672,2025-04-15,Sales,Port Harcourt,Expense,Mobile Money,Savings Account,Consulting,511006.0,9000000,2025-04
+FIN21403,2025-11-21,Operations,Lagos,Income,Bank Transfer,Savings Account,Office Supplies,853422.0,8500000,2025-11
+FIN20058,2025-09-06,Finance,Ibadan,Income,Card,Current Account,Consulting,1320351.0,5800000,2025-09
+FIN20134,2025-12-13,Finance,Kano,Income,Direct Debit,Business Account,Office Supplies,948374.0,5800000,2025-12
+FIN21141,2025-12-28,Marketing,Port Harcourt,Expense,Cash,Business Account,Consulting,168441.0,6500000,2025-12
+FIN20934,2025-12-20,Finance,Ibadan,Expense,Card,Savings Account,Equipment,109037.0,5800000,2025-12
+FIN21545,2025-04-18,Finance,Lagos,Expense,Mobile Money,Business Account,Salary,623814.0,5800000,2025-04
+FIN20824,2025-11-30,Finance,Lagos,Income,Card,Savings Account,Advertising,855024.0,5800000,2025-11
+FIN20505,2025-10-17,Operations,Abuja,Expense,Card,Current Account,Salary,403071.0,8500000,2025-10
+FIN21624,2025-09-09,Human Resources,Abuja,Expense,Cash,Current Account,Equipment,171899.0,5000000,2025-09
+FIN20348,2025-02-23,Human Resources,Ibadan,Income,Mobile Money,Business Account,Equipment,347491.0,5000000,2025-02
+FIN20387,2025-08-15,Sales,Kano,Income,Mobile Money,Savings Account,Office Supplies,1190868.0,9000000,2025-08
+FIN21025,2025-03-05,Human Resources,Port Harcourt,Expense,Mobile Money,Current Account,Consulting,212971.0,5000000,2025-03
+FIN20895,2025-05-15,Marketing,Abuja,Expense,Bank Transfer,Business Account,Service Fee,467244.0,6500000,2025-05
+FIN20829,2025-10-28,Operations,Lagos,Expense,Bank Transfer,Current Account,Consulting,484310.0,8500000,2025-10
+FIN20476,2025-12-08,Marketing,Kano,Expense,Card,Savings Account,Equipment,536479.0,6500000,2025-12
+FIN21345,2025-07-17,Marketing,Kano,Expense,Mobile Money,Business Account,Consulting,248338.0,6500000,2025-07
+FIN21275,2025-03-03,Human Resources,Kano,Income,Direct Debit,Business Account,Advertising,1443837.0,5000000,2025-03
+FIN20653,2025-07-27,Sales,Abuja,Expense,Direct Debit,Business Account,Utilities,404708.0,9000000,2025-07
+FIN20173,2025-08-25,IT,Lagos,Income,Mobile Money,Business Account,Consulting,1147609.0,7200000,2025-08
+FIN21150,2025-11-21,IT,Ibadan,Expense,Mobile Money,Savings Account,Service Fee,411180.0,7200000,2025-11
+FIN20039,2025-09-06,Marketing,Abuja,Expense,Mobile Money,Savings Account,Software Subscription,574394.0,6500000,2025-09
+FIN20714,2025-08-03,Finance,Port Harcourt,Income,Direct Debit,Business Account,Unknown,994634.0,5800000,2025-08
+FIN20091,2025-10-21,IT,Port Harcourt,Income,Card,Current Account,Office Supplies,1316497.0,7200000,2025-10
+FIN21765,2025-08-05,Sales,Kano,Income,Card,Current Account,Salary,495842.0,9000000,2025-08
+FIN20876,2025-12-22,IT,Lagos,Income,Mobile Money,Current Account,Travel,814042.0,7200000,2025-12
+FIN21232,2025-07-18,Finance,Kano,Income,Mobile Money,Business Account,Utilities,101281.0,5800000,2025-07
+FIN21094,2025-01-16,Marketing,Port Harcourt,Income,Card,Current Account,Travel,257912.0,6500000,2025-01
+FIN21156,2025-07-16,Finance,Lagos,Expense,Mobile Money,Business Account,Travel,44042.0,5800000,2025-07
+FIN21243,2025-08-04,IT,Lagos,Expense,Mobile Money,Current Account,Office Supplies,152886.0,7200000,2025-08
+FIN21784,2025-04-04,IT,Kano,Expense,Cash,Business Account,Travel,319182.0,7200000,2025-04
+FIN20500,2025-04-15,Sales,Port Harcourt,Expense,Direct Debit,Current Account,Client Payment,566298.0,9000000,2025-04
+FIN20339,2025-04-25,IT,Abuja,Income,Cash,Business Account,Salary,566799.0,7200000,2025-04
+FIN21189,2025-10-19,Human Resources,Kano,Income,Cash,Current Account,Equipment,722613.0,5000000,2025-10
+FIN20029,2025-06-28,Operations,Port Harcourt,Expense,Cash,Business Account,Salary,131435.0,8500000,2025-06
+FIN21574,2025-02-08,Marketing,Kano,Expense,Direct Debit,Savings Account,Advertising,583634.0,6500000,2025-02
+FIN21664,2025-05-28,Human Resources,Abuja,Income,Card,Business Account,Consulting,1184321.0,5000000,2025-05
+FIN20946,2025-11-26,Marketing,Port Harcourt,Income,Mobile Money,Savings Account,Utilities,1277162.0,6500000,2025-11
+FIN20170,2025-05-26,IT,Kano,Expense,Cash,Current Account,Utilities,421062.0,7200000,2025-05
+FIN21282,2025-09-06,Human Resources,Abuja,Expense,Direct Debit,Savings Account,Software Subscription,99211.0,5000000,2025-09
+FIN20913,2025-04-16,Marketing,Port Harcourt,Expense,Cash,Savings Account,Service Fee,518512.0,6500000,2025-04
+FIN20492,2025-03-23,Sales,Lagos,Expense,Cash,Business Account,Office Supplies,504528.0,9000000,2025-03
+FIN20954,2025-01-02,Finance,Port Harcourt,Expense,Cash,Business Account,Equipment,503236.0,5800000,2025-01
+FIN21098,2025-11-25,Operations,Lagos,Income,Direct Debit,Savings Account,Consulting,682276.0,8500000,2025-11
+FIN21033,2025-08-14,Human Resources,Lagos,Income,Bank Transfer,Business Account,Client Payment,1025238.0,5000000,2025-08
+FIN20588,2025-01-16,Finance,Ibadan,Income,Mobile Money,Savings Account,Advertising,509332.0,5800000,2025-01
+FIN20751,2025-07-31,IT,Abuja,Income,Mobile Money,Savings Account,Office Supplies,1449363.0,7200000,2025-07
+FIN20658,2025-03-08,Operations,Ibadan,Income,Bank Transfer,Business Account,Advertising,556513.0,8500000,2025-03
+FIN20235,2025-04-19,Sales,Abuja,Income,Bank Transfer,Savings Account,Office Supplies,1170668.0,9000000,2025-04
+FIN20733,2025-11-14,Sales,Kano,Expense,Direct Debit,Business Account,Service Fee,72446.0,9000000,2025-11
+FIN21604,2025-11-23,Operations,Kano,Income,Bank Transfer,Current Account,Travel,1381893.0,8500000,2025-11
+FIN21157,2025-08-14,Marketing,Abuja,Income,Cash,Savings Account,Equipment,1659006.0,6500000,2025-08
+FIN21344,2025-01-18,Finance,Ibadan,Expense,Direct Debit,Business Account,Client Payment,77062.0,5800000,2025-01
+FIN21492,2025-11-23,Finance,Lagos,Income,Card,Current Account,Office Supplies,346010.0,5800000,2025-11
+FIN20935,2025-04-16,Human Resources,Abuja,Income,Direct Debit,Savings Account,Salary,1291353.0,5000000,2025-04
+FIN21210,2025-04-26,Sales,Kano,Expense,Direct Debit,Business Account,Utilities,520741.0,9000000,2025-04
+FIN21066,2025-05-20,Sales,Kano,Expense,Bank Transfer,Current Account,Equipment,469777.0,9000000,2025-05
+FIN20109,2025-05-14,Human Resources,Ibadan,Income,Mobile Money,Current Account,Consulting,1696405.0,5000000,2025-05
+FIN21742,2025-09-18,Finance,Lagos,Expense,Cash,Current Account,Salary,357462.0,5800000,2025-09
+FIN20569,2025-04-22,IT,Lagos,Expense,Direct Debit,Current Account,Office Supplies,281497.0,7200000,2025-04
+FIN21168,2025-02-02,Marketing,Unknown,Income,Bank Transfer,Savings Account,Software Subscription,488288.0,6500000,2025-02
+FIN21175,2025-11-03,Sales,Lagos,Expense,Card,Current Account,Travel,460015.0,9000000,2025-11
+FIN20891,2025-02-22,Human Resources,Port Harcourt,Expense,Cash,Savings Account,Travel,387894.0,5000000,2025-02
+FIN20948,2025-09-19,Marketing,Lagos,Expense,Bank Transfer,Savings Account,Equipment,226548.0,6500000,2025-09
+FIN21049,2025-08-06,Operations,Kano,Expense,Direct Debit,Current Account,Equipment,637614.0,8500000,2025-08
+FIN21233,2025-08-03,Sales,Ibadan,Income,Direct Debit,Current Account,Software Subscription,134189.0,9000000,2025-08
+FIN21506,2025-06-27,IT,Kano,Income,Mobile Money,Business Account,Equipment,1183926.0,7200000,2025-06
+FIN21321,2025-04-07,Operations,Lagos,Income,Bank Transfer,Business Account,Travel,259838.0,8500000,2025-04
+FIN20885,2025-03-12,Human Resources,Lagos,Expense,Bank Transfer,Savings Account,Client Payment,36279.0,5000000,2025-03
+FIN21550,2025-05-21,Operations,Port Harcourt,Expense,Direct Debit,Business Account,Salary,339658.0,8500000,2025-05
+FIN20851,2025-03-28,Finance,Lagos,Income,Card,Business Account,Office Supplies,1722892.0,5800000,2025-03
+FIN20735,2025-11-20,Sales,Ibadan,Income,Card,Current Account,Utilities,1608502.0,9000000,2025-11
+FIN20718,2025-01-25,IT,Lagos,Expense,Bank Transfer,Current Account,Utilities,504528.0,7200000,2025-01
+FIN20455,2025-09-30,Operations,Lagos,Income,Direct Debit,Current Account,Consulting,1552725.0,8500000,2025-09
+FIN20265,2025-12-07,IT,Abuja,Expense,Cash,Current Account,Service Fee,274024.0,7200000,2025-12
+FIN20076,2025-08-08,Operations,Port Harcourt,Expense,Direct Debit,Savings Account,Advertising,408518.0,8500000,2025-08
+FIN20445,2025-12-06,Sales,Lagos,Expense,Card,Business Account,Salary,163888.0,9000000,2025-12
+FIN20396,2025-11-13,Operations,Port Harcourt,Expense,Card,Savings Account,Client Payment,84925.0,8500000,2025-11
+FIN20177,2025-06-02,Finance,Lagos,Expense,Direct Debit,Current Account,Equipment,539570.0,5800000,2025-06
+FIN21043,2025-11-05,IT,Kano,Income,Mobile Money,Current Account,Advertising,835600.0,7200000,2025-11
+FIN21774,2025-09-05,Finance,Abuja,Expense,Bank Transfer,Business Account,Software Subscription,418731.0,5800000,2025-09
+FIN21279,2025-12-31,Operations,Lagos,Income,Bank Transfer,Savings Account,Utilities,967516.0,8500000,2025-12
+FIN21259,2025-12-17,Sales,Lagos,Income,Cash,Current Account,Advertising,431977.0,9000000,2025-12
+FIN20596,2025-03-15,Sales,Ibadan,Income,Card,Business Account,Advertising,1670963.0,9000000,2025-03
+FIN20062,2025-11-05,IT,Lagos,Income,Mobile Money,Business Account,Advertising,1276553.0,7200000,2025-11
+FIN20873,2025-08-26,Human Resources,Ibadan,Expense,Direct Debit,Current Account,Client Payment,293022.0,5000000,2025-08
+FIN21362,2025-04-19,IT,Kano,Income,Cash,Savings Account,Office Supplies,1647343.0,7200000,2025-04
+FIN21715,2025-03-25,Marketing,Lagos,Income,Cash,Current Account,Unknown,278784.0,6500000,2025-03
+FIN20037,2025-03-09,Sales,Port Harcourt,Income,Bank Transfer,Savings Account,Office Supplies,262051.0,9000000,2025-03
+FIN21387,2025-11-21,Sales,Port Harcourt,Expense,Direct Debit,Current Account,Service Fee,31984.0,9000000,2025-11
+FIN20663,2025-06-18,IT,Kano,Expense,Card,Current Account,Utilities,313052.0,7200000,2025-06
+FIN21651,2025-12-24,Operations,Lagos,Income,Card,Business Account,Advertising,1028377.0,8500000,2025-12
+FIN21319,2025-05-21,Human Resources,Lagos,Income,Mobile Money,Savings Account,Consulting,284535.0,5000000,2025-05
+FIN20978,2025-12-09,Operations,Kano,Income,Mobile Money,Business Account,Salary,504528.0,8500000,2025-12
+FIN21579,2025-09-25,Finance,Unknown,Expense,Card,Business Account,Service Fee,358585.0,5800000,2025-09
+FIN20739,2025-11-02,IT,Abuja,Income,Mobile Money,Business Account,Salary,701424.0,7200000,2025-11
+FIN20192,2025-02-03,Operations,Ibadan,Expense,Cash,Savings Account,Advertising,115556.0,8500000,2025-02
+FIN20920,2025-10-21,Operations,Kano,Income,Mobile Money,Savings Account,Office Supplies,1190644.0,8500000,2025-10
+FIN20457,2025-05-10,Human Resources,Port Harcourt,Income,Mobile Money,Savings Account,Salary,1331703.0,5000000,2025-05
+FIN20676,2025-06-29,Human Resources,Port Harcourt,Expense,Card,Current Account,Equipment,59104.0,5000000,2025-06
+FIN20761,2025-12-04,IT,Kano,Income,Bank Transfer,Business Account,Service Fee,875600.0,7200000,2025-12
+FIN21652,2025-06-12,Human Resources,Ibadan,Income,Card,Savings Account,Consulting,208389.0,5000000,2025-06
+FIN20729,2025-08-17,IT,Abuja,Income,Mobile Money,Current Account,Advertising,1496828.0,7200000,2025-08
+FIN20413,2025-09-21,Human Resources,Kano,Expense,Mobile Money,Savings Account,Utilities,647099.0,5000000,2025-09
+FIN21099,2025-02-01,Finance,Port Harcourt,Expense,Card,Savings Account,Utilities,262934.0,5800000,2025-02
+FIN20826,2025-06-10,Marketing,Port Harcourt,Expense,Card,Savings Account,Travel,344934.0,6500000,2025-06
+FIN21705,2025-04-21,Finance,Abuja,Income,Mobile Money,Business Account,Travel,559083.0,5800000,2025-04
+FIN20617,2025-03-22,Human Resources,Abuja,Income,Cash,Current Account,Salary,1782159.0,5000000,2025-03
+FIN20115,2025-12-18,IT,Ibadan,Expense,Direct Debit,Business Account,Utilities,492963.0,7200000,2025-12
+FIN20418,2025-12-20,IT,Port Harcourt,Income,Card,Current Account,Utilities,1106657.0,7200000,2025-12
+FIN21740,2025-01-26,Human Resources,Port Harcourt,Income,Direct Debit,Savings Account,Travel,1716096.0,5000000,2025-01
+FIN20970,2025-08-30,Sales,Abuja,Income,Direct Debit,Savings Account,Travel,256806.0,9000000,2025-08
+FIN20605,2025-12-01,Marketing,Abuja,Income,Direct Debit,Business Account,Travel,515071.0,6500000,2025-12
+FIN21747,2025-09-14,Marketing,Kano,Income,Direct Debit,Business Account,Software Subscription,722762.0,6500000,2025-09
+FIN20090,2025-03-21,Marketing,Port Harcourt,Income,Cash,Business Account,Travel,386094.0,6500000,2025-03
+FIN20849,2025-03-07,Marketing,Kano,Income,Direct Debit,Business Account,Office Supplies,935080.0,6500000,2025-03
+FIN21752,2025-01-13,Marketing,Abuja,Income,Card,Business Account,Utilities,1219904.0,6500000,2025-01
+FIN21746,2025-05-24,Operations,Abuja,Income,Card,Current Account,Software Subscription,503177.0,8500000,2025-05
+FIN20754,2025-03-23,Marketing,Kano,Income,Card,Business Account,Advertising,481067.0,6500000,2025-03
+FIN20499,2025-04-16,IT,Lagos,Expense,Mobile Money,Current Account,Advertising,412118.0,7200000,2025-04
+FIN21277,2025-11-04,Sales,Port Harcourt,Income,Direct Debit,Current Account,Software Subscription,1580186.0,9000000,2025-11
+FIN20012,2025-07-07,IT,Abuja,Expense,Bank Transfer,Savings Account,Advertising,27415.0,7200000,2025-07
+FIN20397,2025-04-05,Sales,Ibadan,Expense,Direct Debit,Current Account,Equipment,389360.0,9000000,2025-04
+FIN20285,2025-03-11,Marketing,Abuja,Expense,Direct Debit,Business Account,Salary,554730.0,6500000,2025-03
+FIN21067,2025-10-07,IT,Port Harcourt,Income,Cash,Business Account,Client Payment,210544.0,7200000,2025-10
+FIN21192,2025-04-08,IT,Kano,Expense,Direct Debit,Business Account,Client Payment,379281.0,7200000,2025-04
+FIN20691,2025-07-10,Sales,Abuja,Income,Mobile Money,Savings Account,Service Fee,545982.0,9000000,2025-07
+FIN21495,2025-09-09,Human Resources,Port Harcourt,Expense,Direct Debit,Savings Account,Salary,392818.0,5000000,2025-09
+FIN21712,2025-04-13,Marketing,Port Harcourt,Income,Card,Business Account,Office Supplies,498458.0,6500000,2025-04
+FIN20690,2025-04-25,Human Resources,Abuja,Income,Cash,Savings Account,Advertising,1156941.0,5000000,2025-04
+FIN20852,2025-03-20,Operations,Kano,Expense,Direct Debit,Business Account,Consulting,137473.0,8500000,2025-03
+FIN20160,2025-02-07,Sales,Lagos,Expense,Direct Debit,Savings Account,Service Fee,174692.0,9000000,2025-02
+FIN20896,2025-03-10,Marketing,Kano,Income,Mobile Money,Business Account,Advertising,968544.0,6500000,2025-03
+FIN21510,2025-12-08,IT,Abuja,Expense,Bank Transfer,Business Account,Client Payment,211896.0,7200000,2025-12
+FIN20258,2025-09-03,Operations,Ibadan,Expense,Bank Transfer,Current Account,Office Supplies,433090.0,8500000,2025-09
+FIN20336,2025-06-01,Operations,Ibadan,Income,Direct Debit,Current Account,Software Subscription,153997.0,8500000,2025-06
+FIN21716,2025-07-10,Marketing,Lagos,Expense,Mobile Money,Business Account,Advertising,430869.0,6500000,2025-07
+FIN21040,2025-03-13,Operations,Kano,Income,Card,Savings Account,Consulting,930350.0,8500000,2025-03
+FIN20516,2025-10-22,Human Resources,Kano,Income,Direct Debit,Savings Account,Software Subscription,1135106.0,5000000,2025-10
+FIN21016,2025-01-25,Finance,Kano,Expense,Cash,Business Account,Client Payment,412551.0,5800000,2025-01
+FIN20769,2025-09-28,IT,Abuja,Income,Card,Current Account,Salary,835111.0,7200000,2025-09
+FIN21600,2025-07-19,Sales,Kano,Expense,Card,Current Account,Travel,641195.0,9000000,2025-07
+FIN20762,2025-02-16,Marketing,Port Harcourt,Income,Bank Transfer,Current Account,Equipment,1084001.0,6500000,2025-02
+FIN21247,2025-01-27,Finance,Abuja,Income,Direct Debit,Savings Account,Travel,298401.0,5800000,2025-01
+FIN21204,2025-09-12,IT,Ibadan,Income,Direct Debit,Savings Account,Equipment,164761.0,7200000,2025-09
+FIN21342,2025-04-30,Marketing,Port Harcourt,Income,Mobile Money,Current Account,Software Subscription,859128.0,6500000,2025-04
+FIN20522,2025-09-07,IT,Abuja,Income,Direct Debit,Savings Account,Advertising,608423.0,7200000,2025-09
+FIN20023,2025-11-30,Sales,Kano,Income,Direct Debit,Savings Account,Service Fee,501486.0,9000000,2025-11
+FIN20357,2025-08-12,Finance,Kano,Income,Bank Transfer,Current Account,Client Payment,1683546.0,5800000,2025-08
+FIN21278,2025-01-19,Operations,Kano,Expense,Mobile Money,Business Account,Software Subscription,397844.0,8500000,2025-01
+FIN21544,2025-02-25,Sales,Lagos,Income,Bank Transfer,Savings Account,Utilities,1240793.0,9000000,2025-02
+FIN20341,2025-03-16,IT,Kano,Income,Mobile Money,Current Account,Software Subscription,835678.0,7200000,2025-03
+FIN20432,2025-03-23,IT,Ibadan,Expense,Cash,Business Account,Travel,113500.0,7200000,2025-03
+FIN20474,2025-12-29,IT,Port Harcourt,Expense,Cash,Current Account,Service Fee,324359.0,7200000,2025-12
+FIN20218,2025-06-03,IT,Port Harcourt,Expense,Bank Transfer,Current Account,Office Supplies,81842.0,7200000,2025-06
+FIN20912,2025-11-24,Sales,Ibadan,Income,Direct Debit,Current Account,Equipment,936626.0,9000000,2025-11
+FIN21228,2025-05-30,Finance,Lagos,Income,Direct Debit,Business Account,Software Subscription,1798974.0,5800000,2025-05
+FIN21576,2025-10-24,Human Resources,Abuja,Income,Mobile Money,Current Account,Consulting,1324992.0,5000000,2025-10
+FIN21012,2025-06-29,Finance,Abuja,Expense,Cash,Business Account,Advertising,504528.0,5800000,2025-06
+FIN21776,2025-09-21,Marketing,Lagos,Income,Bank Transfer,Business Account,Client Payment,475395.0,6500000,2025-09
+FIN20094,2025-12-09,Operations,Unknown,Expense,Bank Transfer,Savings Account,Utilities,414754.0,8500000,2025-12
+FIN21009,2025-10-10,IT,Lagos,Income,Card,Business Account,Office Supplies,829122.0,7200000,2025-10
+FIN21071,2025-02-26,Human Resources,Abuja,Income,Direct Debit,Current Account,Travel,1059947.0,5000000,2025-02
+FIN21093,2025-07-23,Human Resources,Port Harcourt,Expense,Card,Current Account,Office Supplies,192646.0,5000000,2025-07
+FIN21454,2025-06-28,Finance,Unknown,Expense,Direct Debit,Savings Account,Office Supplies,371889.0,5800000,2025-06
+FIN21309,2025-07-04,Human Resources,Lagos,Income,Direct Debit,Business Account,Utilities,1371293.0,5000000,2025-07
+FIN20697,2025-02-10,Human Resources,Kano,Income,Direct Debit,Savings Account,Salary,1469330.0,5000000,2025-02
+FIN21640,2025-05-18,Sales,Lagos,Expense,Card,Current Account,Client Payment,379701.0,9000000,2025-05
+FIN20997,2025-03-11,Sales,Port Harcourt,Expense,Direct Debit,Business Account,Software Subscription,556785.0,9000000,2025-03
+FIN20154,2025-01-25,Operations,Port Harcourt,Income,Bank Transfer,Savings Account,Travel,626015.0,8500000,2025-01
+FIN21100,2025-09-28,Marketing,Port Harcourt,Income,Card,Savings Account,Utilities,587732.0,6500000,2025-09
+FIN21660,2025-04-02,Operations,Kano,Income,Bank Transfer,Business Account,Equipment,376208.0,8500000,2025-04
+FIN21501,2025-06-28,Operations,Abuja,Income,Bank Transfer,Savings Account,Travel,503332.0,8500000,2025-06
+FIN20790,2025-12-29,Marketing,Kano,Expense,Mobile Money,Savings Account,Software Subscription,611271.0,6500000,2025-12
+FIN20581,2025-11-04,Human Resources,Lagos,Income,Bank Transfer,Savings Account,Equipment,492104.0,5000000,2025-11
+FIN20704,2025-11-16,Sales,Abuja,Income,Mobile Money,Business Account,Consulting,815036.0,9000000,2025-11
+FIN21213,2025-08-22,Sales,Port Harcourt,Income,Cash,Current Account,Service Fee,1118336.0,9000000,2025-08
+FIN21296,2025-06-28,Finance,Port Harcourt,Income,Mobile Money,Business Account,Salary,1512649.0,5800000,2025-06
+FIN21771,2025-01-21,Human Resources,Kano,Income,Direct Debit,Current Account,Office Supplies,300462.0,5000000,2025-01
+FIN21261,2025-07-05,Human Resources,Abuja,Income,Bank Transfer,Savings Account,Equipment,317199.0,5000000,2025-07
+FIN20488,2025-08-04,Sales,Kano,Income,Mobile Money,Business Account,Equipment,742212.0,9000000,2025-08
+FIN20560,2025-03-03,Operations,Lagos,Expense,Direct Debit,Savings Account,Office Supplies,444671.0,8500000,2025-03
+FIN21142,2025-10-27,Human Resources,Lagos,Income,Bank Transfer,Current Account,Equipment,421207.0,5000000,2025-10
+FIN21120,2025-07-17,IT,Abuja,Income,Mobile Money,Current Account,Utilities,474423.0,7200000,2025-07
+FIN20802,2025-12-22,Finance,Lagos,Income,Direct Debit,Business Account,Software Subscription,237584.0,5800000,2025-12
+FIN20513,2025-04-23,Sales,Abuja,Expense,Direct Debit,Savings Account,Client Payment,240283.0,9000000,2025-04
+FIN20634,2025-02-13,Sales,Ibadan,Expense,Mobile Money,Savings Account,Consulting,527235.0,9000000,2025-02
+FIN21351,2025-08-25,Finance,Kano,Expense,Bank Transfer,Current Account,Utilities,547409.0,5800000,2025-08
+FIN21635,2025-10-01,Sales,Lagos,Expense,Cash,Current Account,Client Payment,192275.0,9000000,2025-10
+FIN21151,2025-09-01,Sales,Ibadan,Expense,Direct Debit,Business Account,Advertising,473510.0,9000000,2025-09
+FIN20791,2025-02-18,IT,Unknown,Income,Bank Transfer,Business Account,Equipment,1636396.0,7200000,2025-02
+FIN20117,2025-03-18,Sales,Port Harcourt,Expense,Bank Transfer,Business Account,Service Fee,179034.0,9000000,2025-03
+FIN20741,2025-06-17,Operations,Kano,Income,Bank Transfer,Current Account,Travel,89885.0,8500000,2025-06
+FIN21082,2025-09-07,Operations,Kano,Income,Direct Debit,Savings Account,Service Fee,922210.0,8500000,2025-09
+FIN20831,2025-03-04,Finance,Lagos,Income,Direct Debit,Savings Account,Client Payment,1538516.0,5800000,2025-03
+FIN20120,2025-08-13,Operations,Lagos,Expense,Bank Transfer,Savings Account,Utilities,207256.0,8500000,2025-08
+FIN20657,2025-03-20,Finance,Abuja,Income,Direct Debit,Current Account,Travel,722650.0,5800000,2025-03
+FIN21737,2025-08-18,Operations,Kano,Income,Card,Savings Account,Office Supplies,1716675.0,8500000,2025-08
+FIN20636,2025-10-09,Finance,Kano,Income,Cash,Current Account,Consulting,659365.0,5800000,2025-10
+FIN20370,2025-04-14,IT,Abuja,Income,Direct Debit,Savings Account,Utilities,1524331.0,7200000,2025-04
+FIN20269,2025-06-28,IT,Lagos,Income,Cash,Business Account,Utilities,721147.0,7200000,2025-06
+FIN20656,2025-02-04,Marketing,Abuja,Income,Cash,Savings Account,Advertising,663098.0,6500000,2025-02
+FIN20936,2025-03-26,IT,Port Harcourt,Income,Mobile Money,Savings Account,Salary,288944.0,7200000,2025-03
+FIN20823,2025-03-31,Finance,Abuja,Income,Bank Transfer,Savings Account,Salary,1539501.0,5800000,2025-03
+FIN20867,2025-04-10,Marketing,Abuja,Income,Direct Debit,Business Account,Travel,1331772.0,6500000,2025-04
+FIN20047,2025-05-28,Finance,Ibadan,Income,Cash,Business Account,Software Subscription,1083171.0,5800000,2025-05
+FIN21568,2025-11-19,IT,Abuja,Income,Mobile Money,Business Account,Office Supplies,973388.0,7200000,2025-11
+FIN20992,2025-02-20,Marketing,Ibadan,Expense,Bank Transfer,Savings Account,Service Fee,247579.0,6500000,2025-02
+FIN20877,2025-10-05,Finance,Abuja,Expense,Card,Current Account,Service Fee,301075.0,5800000,2025-10
+FIN20774,2025-08-05,Sales,Port Harcourt,Income,Cash,Current Account,Consulting,1440398.0,9000000,2025-08
+FIN21220,2025-12-13,Sales,Port Harcourt,Income,Card,Savings Account,Advertising,721211.0,9000000,2025-12
+FIN21689,2025-09-17,IT,Port Harcourt,Expense,Bank Transfer,Savings Account,Advertising,115761.0,7200000,2025-09
+FIN20005,2025-09-23,Operations,Unknown,Income,Direct Debit,Current Account,Utilities,221214.0,8500000,2025-09
+FIN21004,2025-11-09,Operations,Port Harcourt,Expense,Mobile Money,Business Account,Software Subscription,23358.0,8500000,2025-11
+FIN21581,2025-04-30,IT,Kano,Income,Direct Debit,Savings Account,Client Payment,1105592.0,7200000,2025-04
+FIN20264,2025-11-16,Sales,Lagos,Income,Bank Transfer,Savings Account,Salary,110447.0,9000000,2025-11
+FIN21800,2025-01-14,Finance,Kano,Income,Bank Transfer,Business Account,Equipment,1482222.0,5800000,2025-01
+FIN21673,2025-02-22,Human Resources,Abuja,Expense,Bank Transfer,Current Account,Client Payment,31618.0,5000000,2025-02
+FIN20444,2025-04-03,Operations,Lagos,Income,Cash,Savings Account,Software Subscription,933695.0,8500000,2025-04
+FIN21003,2025-08-08,IT,Port Harcourt,Expense,Bank Transfer,Business Account,Advertising,343720.0,7200000,2025-08
+FIN21078,2025-09-16,IT,Port Harcourt,Expense,Cash,Savings Account,Office Supplies,524677.0,7200000,2025-09
+FIN20838,2025-05-20,IT,Ibadan,Income,Mobile Money,Savings Account,Consulting,262024.0,7200000,2025-05
+FIN21638,2025-08-31,Operations,Kano,Income,Direct Debit,Business Account,Client Payment,1355711.0,8500000,2025-08
+FIN20305,2025-09-27,Finance,Lagos,Expense,Card,Savings Account,Utilities,102409.0,5800000,2025-09
+FIN21366,2025-03-28,Human Resources,Port Harcourt,Income,Direct Debit,Business Account,Client Payment,1368592.0,5000000,2025-03
+FIN21426,2025-12-31,Marketing,Ibadan,Expense,Card,Current Account,Equipment,74745.0,6500000,2025-12
+FIN20314,2025-06-28,Marketing,Kano,Expense,Card,Savings Account,Advertising,163927.0,6500000,2025-06
+FIN20150,2025-09-03,Human Resources,Abuja,Income,Mobile Money,Savings Account,Equipment,555584.0,5000000,2025-09
+FIN21149,2025-01-12,Operations,Port Harcourt,Expense,Bank Transfer,Business Account,Travel,603117.0,8500000,2025-01
+FIN21214,2025-01-01,Finance,Port Harcourt,Expense,Direct Debit,Current Account,Software Subscription,131426.0,5800000,2025-01
+FIN20575,2025-04-20,Sales,Port Harcourt,Expense,Card,Savings Account,Utilities,437247.0,9000000,2025-04
+FIN20051,2025-03-07,Finance,Kano,Expense,Card,Current Account,Salary,559376.0,5800000,2025-03
+FIN21421,2025-09-28,Operations,Ibadan,Income,Cash,Business Account,Utilities,198581.0,8500000,2025-09
+FIN20727,2025-05-25,Operations,Kano,Income,Cash,Current Account,Utilities,1405569.0,8500000,2025-05
+FIN20834,2025-01-02,Sales,Kano,Income,Cash,Current Account,Advertising,1145663.0,9000000,2025-01
+FIN21116,2025-05-23,Finance,Lagos,Expense,Card,Current Account,Software Subscription,342137.0,5800000,2025-05
+FIN21167,2025-06-30,Sales,Ibadan,Expense,Mobile Money,Savings Account,Salary,120706.0,9000000,2025-06
+FIN20471,2025-07-04,IT,Kano,Income,Cash,Business Account,Travel,1228993.0,7200000,2025-07
+FIN20972,2025-05-29,Human Resources,Port Harcourt,Expense,Card,Savings Account,Client Payment,291365.0,5000000,2025-05
+FIN20654,2025-11-30,IT,Lagos,Expense,Cash,Savings Account,Equipment,88798.0,7200000,2025-11
+FIN20400,2025-04-26,Sales,Ibadan,Expense,Cash,Savings Account,Travel,371181.0,9000000,2025-04
+FIN20512,2025-07-01,Marketing,Port Harcourt,Income,Cash,Savings Account,Office Supplies,504528.0,6500000,2025-07
+FIN20321,2025-09-30,Finance,Lagos,Expense,Direct Debit,Savings Account,Travel,507025.0,5800000,2025-09
+FIN20020,2025-07-09,Operations,Abuja,Income,Direct Debit,Savings Account,Consulting,992735.0,8500000,2025-07
+FIN20685,2025-08-16,Operations,Lagos,Expense,Mobile Money,Current Account,Software Subscription,237741.0,8500000,2025-08
+FIN20036,2025-08-08,IT,Lagos,Expense,Cash,Business Account,Equipment,212029.0,7200000,2025-08
+FIN20903,2025-10-20,Finance,Ibadan,Income,Mobile Money,Business Account,Advertising,576574.0,5800000,2025-10
+FIN20828,2025-05-01,Human Resources,Kano,Income,Bank Transfer,Savings Account,Software Subscription,829971.0,5000000,2025-05
+FIN21643,2025-05-03,Marketing,Kano,Expense,Cash,Current Account,Equipment,299720.0,6500000,2025-05
+FIN20408,2025-01-27,Sales,Port Harcourt,Income,Mobile Money,Business Account,Software Subscription,360618.0,9000000,2025-01
+FIN20921,2025-12-30,Human Resources,Lagos,Expense,Cash,Savings Account,Client Payment,491604.0,5000000,2025-12
+FIN20538,2025-12-29,Marketing,Abuja,Income,Card,Business Account,Client Payment,1501174.0,6500000,2025-12
+FIN20759,2025-08-11,Marketing,Port Harcourt,Expense,Bank Transfer,Savings Account,Travel,22775.0,6500000,2025-08
+FIN21063,2025-11-06,IT,Kano,Expense,Mobile Money,Business Account,Service Fee,527994.0,7200000,2025-11
+FIN21200,2025-08-14,Sales,Kano,Income,Cash,Business Account,Travel,398766.0,9000000,2025-08
+FIN20246,2025-09-24,Human Resources,Lagos,Expense,Direct Debit,Current Account,Unknown,273091.0,5000000,2025-09
+FIN21128,2025-08-25,Sales,Port Harcourt,Income,Direct Debit,Current Account,Service Fee,1253650.0,9000000,2025-08
+FIN20785,2025-03-17,Sales,Lagos,Income,Card,Current Account,Software Subscription,753222.0,9000000,2025-03
+FIN21596,2025-12-28,Sales,Ibadan,Expense,Direct Debit,Business Account,Client Payment,108422.0,9000000,2025-12
+FIN20490,2025-09-17,Marketing,Abuja,Expense,Cash,Business Account,Salary,546670.0,6500000,2025-09
+FIN20155,2025-02-27,Sales,Kano,Expense,Direct Debit,Business Account,Client Payment,167595.0,9000000,2025-02
+FIN20962,2025-07-31,Operations,Lagos,Expense,Direct Debit,Current Account,Client Payment,174455.0,8500000,2025-07
+FIN20854,2025-10-06,Finance,Abuja,Expense,Bank Transfer,Current Account,Software Subscription,290741.0,5800000,2025-10
+FIN21312,2025-10-23,IT,Abuja,Expense,Direct Debit,Business Account,Software Subscription,142035.0,7200000,2025-10
+FIN20626,2025-02-27,Operations,Kano,Income,Card,Savings Account,Utilities,1233224.0,8500000,2025-02
+FIN20686,2025-05-06,Marketing,Port Harcourt,Expense,Mobile Money,Savings Account,Travel,269265.0,6500000,2025-05
+FIN21430,2025-08-01,Sales,Abuja,Expense,Direct Debit,Current Account,Client Payment,259455.0,9000000,2025-08
+FIN20570,2025-09-04,IT,Lagos,Income,Card,Business Account,Software Subscription,1007091.0,7200000,2025-09
+FIN21738,2025-09-12,Human Resources,Kano,Income,Card,Business Account,Travel,525376.0,5000000,2025-09
+FIN20018,2025-01-25,Marketing,Lagos,Expense,Card,Business Account,Salary,285976.0,6500000,2025-01
+FIN20128,2025-06-19,Human Resources,Ibadan,Expense,Bank Transfer,Business Account,Advertising,340146.0,5000000,2025-06
+FIN21347,2025-04-03,Operations,Ibadan,Income,Cash,Current Account,Salary,314104.0,8500000,2025-04
+FIN21280,2025-10-27,Finance,Lagos,Income,Card,Savings Account,Client Payment,1152358.0,5800000,2025-10
+FIN21794,2025-08-20,Finance,Abuja,Expense,Cash,Current Account,Client Payment,223085.0,5800000,2025-08
+FIN20928,2025-05-25,IT,Kano,Expense,Mobile Money,Business Account,Consulting,317698.0,7200000,2025-05
+FIN20981,2025-10-21,Operations,Abuja,Income,Mobile Money,Current Account,Equipment,325404.0,8500000,2025-10
+FIN21790,2025-12-31,Marketing,Abuja,Income,Mobile Money,Savings Account,Travel,1369709.0,6500000,2025-12
+FIN20191,2025-12-26,Marketing,Kano,Income,Direct Debit,Business Account,Salary,949049.0,6500000,2025-12
+FIN21140,2025-11-05,Finance,Ibadan,Expense,Cash,Current Account,Client Payment,64036.0,5800000,2025-11
+FIN20993,2025-09-23,Operations,Kano,Income,Cash,Business Account,Advertising,1638309.0,8500000,2025-09
+FIN21520,2025-11-18,Marketing,Lagos,Expense,Cash,Current Account,Unknown,346571.0,6500000,2025-11
+FIN20607,2025-10-29,Operations,Lagos,Income,Bank Transfer,Savings Account,Equipment,1266064.0,8500000,2025-10
+FIN20181,2025-08-09,IT,Abuja,Income,Bank Transfer,Savings Account,Consulting,362017.0,7200000,2025-08
+FIN20302,2025-08-05,Human Resources,Lagos,Expense,Cash,Business Account,Client Payment,554391.0,5000000,2025-08
+FIN20497,2025-06-10,IT,Ibadan,Expense,Cash,Savings Account,Office Supplies,65095.0,7200000,2025-06
+FIN21556,2025-12-21,Human Resources,Ibadan,Income,Mobile Money,Business Account,Software Subscription,1298106.0,5000000,2025-12
+FIN21569,2025-08-15,Human Resources,Port Harcourt,Expense,Card,Savings Account,Service Fee,426547.0,5000000,2025-08
+FIN21525,2025-01-17,Marketing,Abuja,Income,Cash,Savings Account,Office Supplies,632439.0,6500000,2025-01
+FIN21502,2025-02-13,Marketing,Abuja,Income,Bank Transfer,Current Account,Travel,372575.0,6500000,2025-02
+FIN20518,2025-03-20,Human Resources,Lagos,Expense,Card,Current Account,Software Subscription,215784.0,5000000,2025-03
+FIN20131,2025-12-06,Human Resources,Port Harcourt,Income,Direct Debit,Business Account,Client Payment,612994.0,5000000,2025-12
+FIN21070,2025-01-18,Sales,Abuja,Income,Cash,Savings Account,Software Subscription,686590.0,9000000,2025-01
+FIN20477,2025-11-16,Sales,Lagos,Income,Direct Debit,Business Account,Salary,523945.0,9000000,2025-11
+FIN20158,2025-11-27,Marketing,Port Harcourt,Expense,Bank Transfer,Business Account,Software Subscription,161880.0,6500000,2025-11
+FIN21244,2025-06-26,Sales,Lagos,Expense,Bank Transfer,Business Account,Equipment,98537.0,9000000,2025-06
+FIN21196,2025-11-05,Marketing,Abuja,Expense,Bank Transfer,Current Account,Consulting,57034.0,6500000,2025-11
+FIN20017,2025-05-14,Marketing,Abuja,Income,Cash,Savings Account,Utilities,1158532.0,6500000,2025-05
+FIN21073,2025-01-05,Operations,Kano,Income,Mobile Money,Savings Account,Advertising,547243.0,8500000,2025-01
+FIN21797,2025-04-12,Marketing,Kano,Expense,Direct Debit,Savings Account,Travel,496152.0,6500000,2025-04
+FIN20547,2025-07-17,Finance,Kano,Income,Cash,Savings Account,Software Subscription,1185057.0,5800000,2025-07
+FIN20659,2025-12-09,Finance,Lagos,Expense,Mobile Money,Business Account,Unknown,72691.0,5800000,2025-12
+FIN21490,2025-01-17,Marketing,Lagos,Income,Bank Transfer,Savings Account,Software Subscription,812763.0,6500000,2025-01
+FIN21020,2025-02-26,Operations,Kano,Income,Cash,Business Account,Advertising,1601466.0,8500000,2025-02
+FIN21526,2025-02-21,IT,Abuja,Income,Bank Transfer,Current Account,Software Subscription,353452.0,7200000,2025-02
+FIN20960,2025-08-16,Marketing,Kano,Expense,Cash,Savings Account,Software Subscription,557970.0,6500000,2025-08
+FIN21718,2025-07-29,Marketing,Port Harcourt,Expense,Cash,Current Account,Utilities,283328.0,6500000,2025-07
+FIN20284,2025-04-16,Human Resources,Abuja,Income,Mobile Money,Savings Account,Advertising,1630173.0,5000000,2025-04
+FIN20798,2025-04-28,Marketing,Lagos,Expense,Card,Business Account,Service Fee,443350.0,6500000,2025-04
+FIN21491,2025-07-15,IT,Ibadan,Income,Card,Business Account,Client Payment,921675.0,7200000,2025-07
+FIN20226,2025-09-18,Marketing,Lagos,Income,Direct Debit,Current Account,Office Supplies,487442.0,6500000,2025-09
+FIN20027,2025-11-15,Human Resources,Port Harcourt,Income,Direct Debit,Current Account,Salary,228702.0,5000000,2025-11
+FIN21620,2025-08-02,Operations,Ibadan,Expense,Direct Debit,Current Account,Office Supplies,178477.0,8500000,2025-08
+FIN20438,2025-11-06,Operations,Ibadan,Expense,Cash,Current Account,Salary,78692.0,8500000,2025-11
+FIN21775,2025-10-03,Sales,Port Harcourt,Expense,Direct Debit,Current Account,Unknown,399502.0,9000000,2025-10
+FIN21389,2025-09-08,Finance,Unknown,Expense,Mobile Money,Savings Account,Equipment,212458.0,5800000,2025-09
+FIN20230,2025-04-21,Operations,Port Harcourt,Expense,Mobile Money,Business Account,Salary,450179.0,8500000,2025-04
+FIN20038,2025-10-29,Human Resources,Abuja,Income,Bank Transfer,Business Account,Client Payment,1226237.0,5000000,2025-10
+FIN20750,2025-02-11,Marketing,Abuja,Expense,Card,Current Account,Salary,532493.0,6500000,2025-02
+FIN21046,2025-05-19,Operations,Lagos,Expense,Direct Debit,Current Account,Office Supplies,288733.0,8500000,2025-05
+FIN21399,2025-07-15,Finance,Kano,Expense,Bank Transfer,Current Account,Office Supplies,495147.0,5800000,2025-07
+FIN20470,2025-07-16,Operations,Lagos,Expense,Direct Debit,Current Account,Utilities,89300.0,8500000,2025-07
+FIN21553,2025-09-30,Human Resources,Lagos,Expense,Card,Business Account,Office Supplies,255707.0,5000000,2025-09
+FIN21793,2025-11-23,Marketing,Abuja,Income,Card,Savings Account,Office Supplies,766915.0,6500000,2025-11
+FIN20688,2025-04-07,Finance,Abuja,Income,Mobile Money,Savings Account,Office Supplies,532891.0,5800000,2025-04
+FIN21684,2025-12-15,Operations,Ibadan,Expense,Direct Debit,Business Account,Software Subscription,486589.0,8500000,2025-12
+FIN20640,2025-02-24,Human Resources,Kano,Income,Direct Debit,Savings Account,Utilities,1091316.0,5000000,2025-02
+FIN21572,2025-03-25,Marketing,Abuja,Income,Direct Debit,Current Account,Client Payment,1397726.0,6500000,2025-03
+FIN21219,2025-09-08,Sales,Abuja,Expense,Bank Transfer,Business Account,Office Supplies,603107.0,9000000,2025-09
+FIN21159,2025-04-13,Finance,Ibadan,Expense,Bank Transfer,Savings Account,Equipment,202690.0,5800000,2025-04
+FIN21416,2025-05-09,Finance,Port Harcourt,Expense,Cash,Current Account,Office Supplies,573380.0,5800000,2025-05
+FIN21519,2025-09-26,Marketing,Abuja,Income,Card,Business Account,Service Fee,756296.0,6500000,2025-09
+FIN21301,2025-03-26,Marketing,Kano,Income,Direct Debit,Business Account,Software Subscription,1796081.0,6500000,2025-03
+FIN21666,2025-07-08,Operations,Kano,Expense,Mobile Money,Current Account,Unknown,113948.0,8500000,2025-07
+FIN20801,2025-10-29,Finance,Ibadan,Expense,Direct Debit,Savings Account,Utilities,244021.0,5800000,2025-10
+FIN20161,2025-03-16,Sales,Port Harcourt,Income,Bank Transfer,Current Account,Service Fee,840109.0,9000000,2025-03
+FIN20957,2025-05-19,Sales,Lagos,Income,Cash,Savings Account,Office Supplies,787755.0,9000000,2025-05
+FIN21187,2025-12-17,Operations,Port Harcourt,Expense,Mobile Money,Current Account,Advertising,256495.0,8500000,2025-12
+FIN20822,2025-06-03,Finance,Ibadan,Income,Direct Debit,Business Account,Office Supplies,647344.0,5800000,2025-06
+FIN21543,2025-10-18,Finance,Port Harcourt,Expense,Direct Debit,Savings Account,Salary,591603.0,5800000,2025-10
+FIN20878,2025-01-18,Human Resources,Port Harcourt,Expense,Card,Savings Account,Utilities,112876.0,5000000,2025-01
+FIN20914,2025-02-04,Marketing,Port Harcourt,Income,Direct Debit,Savings Account,Consulting,144200.0,6500000,2025-02
+FIN20153,2025-01-28,IT,Ibadan,Income,Direct Debit,Current Account,Consulting,536162.0,7200000,2025-01
+FIN21678,2025-08-12,Finance,Port Harcourt,Income,Direct Debit,Current Account,Consulting,968403.0,5800000,2025-08
+FIN21626,2025-03-13,IT,Port Harcourt,Expense,Card,Current Account,Salary,360687.0,7200000,2025-03
+FIN20510,2025-01-13,Finance,Port Harcourt,Expense,Direct Debit,Current Account,Consulting,291421.0,5800000,2025-01
+FIN21136,2025-03-09,Finance,Lagos,Income,Cash,Savings Account,Equipment,944950.0,5800000,2025-03
+FIN21251,2025-04-24,Sales,Port Harcourt,Expense,Card,Current Account,Service Fee,183052.0,9000000,2025-04
+FIN21527,2025-05-14,Marketing,Port Harcourt,Income,Direct Debit,Business Account,Equipment,320853.0,6500000,2025-05
+FIN20104,2025-03-26,Marketing,Kano,Income,Cash,Current Account,Office Supplies,1091967.0,6500000,2025-03
+FIN21446,2025-11-06,Finance,Lagos,Income,Card,Savings Account,Consulting,1369467.0,5800000,2025-11
+FIN21444,2025-03-23,Human Resources,Lagos,Income,Mobile Money,Business Account,Equipment,416227.0,5000000,2025-03
+FIN20587,2025-10-04,Finance,Unknown,Income,Direct Debit,Savings Account,Consulting,504528.0,5800000,2025-10
+FIN21618,2025-06-15,Marketing,Lagos,Expense,Mobile Money,Business Account,Utilities,289152.0,6500000,2025-06
+FIN21144,2025-12-23,IT,Abuja,Expense,Mobile Money,Current Account,Office Supplies,389349.0,7200000,2025-12
+FIN20054,2025-11-15,Operations,Port Harcourt,Expense,Direct Debit,Business Account,Service Fee,292158.0,8500000,2025-11
+FIN20152,2025-04-02,Finance,Port Harcourt,Income,Card,Current Account,Client Payment,324839.0,5800000,2025-04
+FIN20404,2025-07-25,Sales,Ibadan,Expense,Direct Debit,Current Account,Client Payment,503442.0,9000000,2025-07
+FIN21770,2025-11-16,Marketing,Abuja,Income,Cash,Savings Account,Advertising,179003.0,6500000,2025-11
+FIN20208,2025-03-29,Human Resources,Lagos,Expense,Direct Debit,Business Account,Travel,96361.0,5000000,2025-03
+FIN21727,2025-04-24,Operations,Abuja,Income,Cash,Current Account,Service Fee,206310.0,8500000,2025-04
+FIN21123,2025-04-18,Sales,Abuja,Expense,Mobile Money,Current Account,Utilities,223117.0,9000000,2025-04
+FIN21603,2025-08-25,Operations,Abuja,Income,Cash,Business Account,Service Fee,369220.0,8500000,2025-08
+FIN20009,2025-11-02,Human Resources,Ibadan,Expense,Card,Savings Account,Office Supplies,367139.0,5000000,2025-11
+FIN21015,2025-10-09,Sales,Unknown,Expense,Bank Transfer,Current Account,Office Supplies,258483.0,9000000,2025-10
+FIN21642,2025-06-19,Finance,Lagos,Expense,Card,Current Account,Client Payment,576016.0,5800000,2025-06
+FIN21061,2025-10-06,Sales,Abuja,Expense,Direct Debit,Business Account,Advertising,406350.0,9000000,2025-10
+FIN20453,2025-05-08,Finance,Port Harcourt,Income,Bank Transfer,Savings Account,Utilities,613571.0,5800000,2025-05
+FIN20254,2025-03-14,Finance,Ibadan,Income,Bank Transfer,Business Account,Client Payment,498267.0,5800000,2025-03
+FIN21328,2025-09-19,Human Resources,Ibadan,Expense,Card,Savings Account,Consulting,55733.0,5000000,2025-09
+FIN20897,2025-01-11,Finance,Lagos,Income,Direct Debit,Current Account,Equipment,517625.0,5800000,2025-01
+FIN21589,2025-09-16,IT,Lagos,Income,Bank Transfer,Business Account,Equipment,204932.0,7200000,2025-09
+FIN20881,2025-05-03,Marketing,Port Harcourt,Income,Bank Transfer,Savings Account,Client Payment,214832.0,6500000,2025-05
+FIN21722,2025-09-15,Finance,Ibadan,Income,Card,Savings Account,Equipment,1753619.0,5800000,2025-09
+FIN20624,2025-05-09,Sales,Kano,Income,Mobile Money,Savings Account,Advertising,409638.0,9000000,2025-05
+FIN20346,2025-06-25,Marketing,Port Harcourt,Expense,Cash,Business Account,Consulting,307644.0,6500000,2025-06
+FIN21563,2025-11-04,Operations,Port Harcourt,Expense,Direct Debit,Business Account,Utilities,597263.0,8500000,2025-11
+FIN20263,2025-10-23,Marketing,Port Harcourt,Income,Mobile Money,Savings Account,Software Subscription,391955.0,6500000,2025-10
+FIN21322,2025-08-09,Human Resources,Abuja,Income,Cash,Savings Account,Consulting,650442.0,5000000,2025-08
+FIN21439,2025-05-26,Finance,Abuja,Income,Mobile Money,Current Account,Client Payment,558356.0,5800000,2025-05
+FIN20151,2025-04-27,Operations,Lagos,Expense,Direct Debit,Current Account,Software Subscription,170653.0,8500000,2025-04
+FIN20473,2025-09-22,Operations,Ibadan,Income,Bank Transfer,Current Account,Travel,355709.0,8500000,2025-09
+FIN20641,2025-07-11,Marketing,Port Harcourt,Income,Bank Transfer,Current Account,Office Supplies,523316.0,6500000,2025-07
+FIN21719,2025-05-06,Operations,Kano,Expense,Card,Savings Account,Advertising,447709.0,8500000,2025-05
+FIN20551,2025-03-06,Marketing,Lagos,Expense,Cash,Current Account,Office Supplies,303983.0,6500000,2025-03
+FIN20929,2025-08-11,IT,Lagos,Expense,Bank Transfer,Savings Account,Utilities,329066.0,7200000,2025-08
+FIN20489,2025-05-12,Marketing,Lagos,Expense,Cash,Savings Account,Equipment,464972.0,6500000,2025-05
+FIN21656,2025-12-16,Marketing,Ibadan,Expense,Mobile Money,Current Account,Advertising,21539.0,6500000,2025-12
+FIN21172,2025-07-19,IT,Lagos,Expense,Direct Debit,Current Account,Client Payment,190863.0,7200000,2025-07
+FIN20147,2025-12-09,Human Resources,Lagos,Expense,Bank Transfer,Savings Account,Salary,293586.0,5000000,2025-12
+FIN21565,2025-06-20,IT,Lagos,Expense,Mobile Money,Savings Account,Travel,511818.0,7200000,2025-06
+FIN21757,2025-11-18,Operations,Ibadan,Expense,Direct Debit,Current Account,Utilities,640740.0,8500000,2025-11
+FIN20403,2025-02-19,Sales,Abuja,Income,Bank Transfer,Current Account,Software Subscription,177852.0,9000000,2025-02
+FIN20955,2025-01-08,Human Resources,Lagos,Income,Cash,Current Account,Utilities,753218.0,5000000,2025-01
+FIN21714,2025-02-12,Human Resources,Kano,Income,Mobile Money,Savings Account,Office Supplies,470642.0,5000000,2025-02
+FIN20660,2025-02-03,Marketing,Ibadan,Expense,Direct Debit,Business Account,Salary,624056.0,6500000,2025-02
+FIN21373,2025-07-10,Sales,Abuja,Expense,Card,Current Account,Salary,372215.0,9000000,2025-07
+FIN20464,2025-05-28,Sales,Port Harcourt,Expense,Card,Savings Account,Advertising,545005.0,9000000,2025-05
+FIN21350,2025-07-12,Human Resources,Ibadan,Income,Cash,Business Account,Equipment,1685266.0,5000000,2025-07
+FIN20187,2025-05-09,IT,Unknown,Expense,Direct Debit,Business Account,Salary,45991.0,7200000,2025-05
+FIN21148,2025-01-09,Finance,Port Harcourt,Expense,Cash,Current Account,Equipment,549656.0,5800000,2025-01
+FIN21225,2025-03-31,IT,Ibadan,Income,Cash,Business Account,Software Subscription,1017635.0,7200000,2025-03
+FIN20609,2025-03-19,Sales,Lagos,Income,Bank Transfer,Business Account,Service Fee,266987.0,9000000,2025-03
+FIN20144,2025-10-28,Human Resources,Kano,Income,Cash,Business Account,Advertising,313103.0,5000000,2025-10
+FIN20752,2025-04-11,Marketing,Lagos,Expense,Cash,Current Account,Consulting,461441.0,6500000,2025-04
+FIN21535,2025-01-04,Operations,Ibadan,Income,Mobile Money,Business Account,Travel,1215841.0,8500000,2025-01
+FIN20982,2025-09-03,Sales,Kano,Expense,Card,Current Account,Utilities,543562.0,9000000,2025-09
+FIN20198,2025-03-11,Operations,Lagos,Expense,Mobile Money,Current Account,Equipment,427472.0,8500000,2025-03
+FIN20884,2025-02-20,Operations,Abuja,Income,Mobile Money,Business Account,Service Fee,365521.0,8500000,2025-02
+FIN20280,2025-01-13,Marketing,Abuja,Expense,Card,Business Account,Consulting,239128.0,6500000,2025-01
+FIN20294,2025-08-02,Sales,Abuja,Income,Card,Business Account,Service Fee,817266.0,9000000,2025-08
+FIN21667,2025-12-13,Marketing,Abuja,Income,Direct Debit,Business Account,Client Payment,296204.0,6500000,2025-12
+FIN20401,2025-05-31,Sales,Abuja,Income,Bank Transfer,Current Account,Utilities,868768.0,9000000,2025-05
+FIN20123,2025-12-13,Operations,Lagos,Income,Direct Debit,Savings Account,Client Payment,502955.0,8500000,2025-12
+FIN21208,2025-12-02,Marketing,Port Harcourt,Income,Bank Transfer,Savings Account,Advertising,746246.0,6500000,2025-12
+FIN20203,2025-10-14,Marketing,Lagos,Income,Mobile Money,Business Account,Travel,1319444.0,6500000,2025-10
+FIN21463,2025-08-23,Human Resources,Ibadan,Income,Bank Transfer,Savings Account,Salary,1302613.0,5000000,2025-08
+FIN20836,2025-10-13,Sales,Kano,Income,Bank Transfer,Current Account,Service Fee,216554.0,9000000,2025-10
+FIN20247,2025-04-09,Operations,Abuja,Income,Bank Transfer,Savings Account,Software Subscription,741616.0,8500000,2025-04
+FIN21440,2025-01-27,Human Resources,Port Harcourt,Expense,Mobile Money,Business Account,Software Subscription,392119.0,5000000,2025-01
+FIN21733,2025-06-26,Human Resources,Kano,Expense,Bank Transfer,Current Account,Service Fee,491761.0,5000000,2025-06
+FIN21717,2025-02-20,Marketing,Port Harcourt,Income,Card,Savings Account,Consulting,1221340.0,6500000,2025-02
+FIN21154,2025-11-08,Human Resources,Port Harcourt,Expense,Card,Savings Account,Travel,32306.0,5000000,2025-11
+FIN21427,2025-03-17,Human Resources,Kano,Income,Bank Transfer,Business Account,Travel,1498412.0,5000000,2025-03
+FIN21609,2025-08-14,Finance,Abuja,Income,Card,Savings Account,Travel,897865.0,5800000,2025-08
+FIN20855,2025-12-03,Finance,Abuja,Income,Card,Savings Account,Equipment,687564.0,5800000,2025-12
+FIN20220,2025-09-29,Marketing,Abuja,Expense,Mobile Money,Current Account,Advertising,252930.0,6500000,2025-09
+FIN20642,2025-08-07,Sales,Port Harcourt,Income,Direct Debit,Business Account,Client Payment,1500589.0,9000000,2025-08
+FIN20002,2025-10-05,Operations,Kano,Expense,Cash,Business Account,Client Payment,391994.0,8500000,2025-10
+FIN20113,2025-12-09,Operations,Ibadan,Expense,Card,Savings Account,Service Fee,90305.0,8500000,2025-12
+FIN20699,2025-01-15,Human Resources,Kano,Income,Card,Current Account,Service Fee,660595.0,5000000,2025-01
+FIN21744,2025-09-28,IT,Kano,Income,Mobile Money,Current Account,Equipment,1115891.0,7200000,2025-09
+FIN20952,2025-05-20,IT,Lagos,Expense,Bank Transfer,Savings Account,Service Fee,516005.0,7200000,2025-05
+FIN21602,2025-03-16,Sales,Ibadan,Income,Direct Debit,Business Account,Software Subscription,1781421.0,9000000,2025-03
+FIN21411,2025-12-10,Operations,Kano,Income,Mobile Money,Business Account,Utilities,380486.0,8500000,2025-12
+FIN21410,2025-10-13,IT,Port Harcourt,Expense,Mobile Money,Savings Account,Consulting,402688.0,7200000,2025-10
+FIN21534,2025-01-24,Marketing,Port Harcourt,Income,Cash,Business Account,Client Payment,172769.0,6500000,2025-01
+FIN21292,2025-08-19,Operations,Lagos,Income,Bank Transfer,Business Account,Equipment,358710.0,8500000,2025-08
+FIN21653,2025-04-08,Marketing,Abuja,Income,Direct Debit,Savings Account,Client Payment,793987.0,6500000,2025-04
+FIN20442,2025-02-25,IT,Abuja,Expense,Bank Transfer,Savings Account,Consulting,544480.0,7200000,2025-02
+FIN21521,2025-01-04,Finance,Kano,Income,Direct Debit,Current Account,Service Fee,608714.0,5800000,2025-01
+FIN21137,2025-04-14,Sales,Port Harcourt,Expense,Mobile Money,Business Account,Travel,355064.0,9000000,2025-04
+FIN21257,2025-11-08,Human Resources,Port Harcourt,Income,Mobile Money,Current Account,Software Subscription,664054.0,5000000,2025-11
+FIN21702,2025-03-07,Marketing,Lagos,Income,Bank Transfer,Business Account,Software Subscription,872154.0,6500000,2025-03
+FIN21398,2025-10-12,Marketing,Kano,Income,Direct Debit,Business Account,Software Subscription,1183151.0,6500000,2025-10
+FIN20664,2025-05-31,IT,Abuja,Income,Cash,Savings Account,Equipment,1215092.0,7200000,2025-05
+FIN21677,2025-02-22,Operations,Port Harcourt,Income,Cash,Business Account,Consulting,518458.0,8500000,2025-02
+FIN21258,2025-07-15,Operations,Abuja,Income,Cash,Current Account,Advertising,1272097.0,8500000,2025-07
+FIN21623,2025-12-01,Sales,Kano,Expense,Mobile Money,Current Account,Travel,635197.0,9000000,2025-12
+FIN20318,2025-03-21,Finance,Lagos,Income,Mobile Money,Business Account,Service Fee,1634235.0,5800000,2025-03
+FIN20649,2025-12-02,Sales,Abuja,Expense,Card,Business Account,Office Supplies,516915.0,9000000,2025-12
+FIN21435,2025-11-11,IT,Port Harcourt,Income,Direct Debit,Current Account,Travel,1438097.0,7200000,2025-11
+FIN21480,2025-05-13,Operations,Kano,Income,Direct Debit,Current Account,Consulting,736761.0,8500000,2025-05
+FIN20710,2025-07-18,Human Resources,Ibadan,Expense,Direct Debit,Business Account,Consulting,541244.0,5000000,2025-07
+FIN21383,2025-03-03,Sales,Ibadan,Expense,Card,Savings Account,Travel,184726.0,9000000,2025-03
+FIN21283,2025-04-27,Finance,Kano,Expense,Mobile Money,Current Account,Travel,176078.0,5800000,2025-04
+FIN20973,2025-08-24,IT,Kano,Expense,Direct Debit,Business Account,Salary,162482.0,7200000,2025-08
+FIN20628,2025-07-30,Human Resources,Ibadan,Expense,Bank Transfer,Current Account,Client Payment,383298.0,5000000,2025-07
+FIN20633,2025-12-01,Marketing,Ibadan,Income,Mobile Money,Business Account,Advertising,1380995.0,6500000,2025-12
+FIN21307,2025-03-10,Human Resources,Unknown,Expense,Card,Savings Account,Consulting,243068.0,5000000,2025-03
+FIN21401,2025-06-01,Sales,Lagos,Income,Cash,Current Account,Office Supplies,560808.0,9000000,2025-06
+FIN21409,2025-01-17,Finance,Abuja,Expense,Card,Savings Account,Travel,344703.0,5800000,2025-01
+FIN21249,2025-08-02,IT,Lagos,Expense,Mobile Money,Business Account,Software Subscription,317883.0,7200000,2025-08
+FIN21779,2025-01-31,Operations,Port Harcourt,Income,Mobile Money,Current Account,Consulting,390001.0,8500000,2025-01
+FIN21255,2025-03-17,Marketing,Kano,Expense,Bank Transfer,Current Account,Consulting,498697.0,6500000,2025-03
+FIN21497,2025-06-11,Operations,Abuja,Expense,Direct Debit,Business Account,Advertising,267997.0,8500000,2025-06
+FIN21372,2025-04-28,Operations,Kano,Income,Direct Debit,Current Account,Utilities,124760.0,8500000,2025-04
+FIN21530,2025-08-07,Marketing,Lagos,Expense,Direct Debit,Current Account,Travel,633812.0,6500000,2025-08
+FIN21355,2025-02-09,Operations,Lagos,Income,Cash,Current Account,Travel,1618659.0,8500000,2025-02
+FIN21754,2025-11-07,Human Resources,Ibadan,Income,Direct Debit,Savings Account,Software Subscription,385505.0,5000000,2025-11
+FIN21732,2025-11-22,Marketing,Abuja,Expense,Mobile Money,Current Account,Travel,494718.0,6500000,2025-11
+FIN20796,2025-11-04,Finance,Port Harcourt,Expense,Bank Transfer,Savings Account,Consulting,307710.0,5800000,2025-11
+FIN20646,2025-05-10,Operations,Port Harcourt,Expense,Cash,Savings Account,Utilities,542313.0,8500000,2025-05
+FIN21013,2025-02-01,Operations,Kano,Expense,Bank Transfer,Savings Account,Equipment,182421.0,8500000,2025-02
+FIN21680,2025-02-17,IT,Kano,Expense,Card,Business Account,Utilities,48633.0,7200000,2025-02
+FIN20557,2025-07-04,Operations,Ibadan,Income,Cash,Current Account,Service Fee,319968.0,8500000,2025-07
+FIN20682,2025-03-31,Sales,Ibadan,Income,Direct Debit,Current Account,Consulting,595693.0,9000000,2025-03
+FIN20578,2025-02-26,Sales,Kano,Expense,Direct Debit,Business Account,Utilities,45939.0,9000000,2025-02
+FIN21110,2025-09-05,Human Resources,Port Harcourt,Income,Card,Current Account,Advertising,1260788.0,5000000,2025-09
+FIN21267,2025-06-05,IT,Kano,Income,Card,Current Account,Office Supplies,1585463.0,7200000,2025-06
+FIN21184,2025-11-03,Sales,Lagos,Expense,Direct Debit,Savings Account,Service Fee,285702.0,9000000,2025-11
+FIN20525,2025-07-15,Operations,Ibadan,Expense,Card,Savings Account,Utilities,454219.0,8500000,2025-07
+FIN21060,2025-10-02,Human Resources,Kano,Expense,Mobile Money,Savings Account,Software Subscription,600971.0,5000000,2025-10
+FIN20541,2025-01-09,Marketing,Ibadan,Expense,Card,Savings Account,Service Fee,400172.0,6500000,2025-01
+FIN21195,2025-03-02,Operations,Port Harcourt,Income,Bank Transfer,Business Account,Client Payment,1102145.0,8500000,2025-03
+FIN20749,2025-10-01,Human Resources,Abuja,Expense,Direct Debit,Current Account,Travel,632242.0,5000000,2025-10
+FIN21692,2025-01-29,Human Resources,Port Harcourt,Income,Bank Transfer,Current Account,Service Fee,361854.0,5000000,2025-01
+FIN21431,2025-04-19,IT,Port Harcourt,Income,Mobile Money,Current Account,Utilities,1670999.0,7200000,2025-04
+FIN20485,2025-11-23,Operations,Kano,Expense,Card,Current Account,Client Payment,555352.0,8500000,2025-11
+FIN20096,2025-05-30,Marketing,Port Harcourt,Income,Card,Current Account,Office Supplies,1668861.0,6500000,2025-05
+FIN21021,2025-06-29,Finance,Port Harcourt,Expense,Card,Current Account,Client Payment,238306.0,5800000,2025-06
+FIN20564,2025-05-06,Human Resources,Lagos,Income,Card,Business Account,Travel,599165.0,5000000,2025-05
+FIN21265,2025-07-26,Human Resources,Port Harcourt,Income,Mobile Money,Savings Account,Consulting,720473.0,5000000,2025-07
+FIN20743,2025-12-07,Sales,Port Harcourt,Expense,Mobile Money,Savings Account,Travel,25750.0,9000000,2025-12
+FIN20864,2025-09-25,Marketing,Abuja,Income,Mobile Money,Current Account,Client Payment,271420.0,6500000,2025-09
+FIN21599,2025-03-08,Operations,Port Harcourt,Income,Mobile Money,Business Account,Advertising,1213279.0,8500000,2025-03
+FIN21485,2025-12-25,Finance,Ibadan,Income,Card,Savings Account,Travel,1493238.0,5800000,2025-12
+FIN20892,2025-04-17,Marketing,Lagos,Expense,Bank Transfer,Business Account,Service Fee,356199.0,6500000,2025-04
+FIN21578,2025-06-30,IT,Ibadan,Expense,Bank Transfer,Business Account,Software Subscription,441837.0,7200000,2025-06
+FIN21039,2025-03-29,Operations,Abuja,Income,Direct Debit,Business Account,Consulting,1452236.0,8500000,2025-03
+FIN20207,2025-10-01,Marketing,Port Harcourt,Income,Bank Transfer,Business Account,Utilities,796987.0,6500000,2025-10
+FIN20393,2025-04-26,Operations,Kano,Income,Cash,Business Account,Software Subscription,348448.0,8500000,2025-04
+FIN20795,2025-07-19,Finance,Kano,Income,Bank Transfer,Savings Account,Consulting,442455.0,5800000,2025-07
+FIN20871,2025-06-11,Marketing,Lagos,Income,Mobile Money,Savings Account,Utilities,799449.0,6500000,2025-06
+FIN20398,2025-09-30,Human Resources,Lagos,Income,Mobile Money,Savings Account,Software Subscription,209350.0,5000000,2025-09
+FIN20767,2025-03-20,IT,Kano,Expense,Bank Transfer,Business Account,Client Payment,226903.0,7200000,2025-03
+FIN21682,2025-05-27,Sales,Port Harcourt,Expense,Mobile Money,Business Account,Equipment,318627.0,9000000,2025-05
+FIN21242,2025-04-08,IT,Abuja,Expense,Mobile Money,Current Account,Salary,438632.0,7200000,2025-04
+FIN21029,2025-09-15,Marketing,Lagos,Income,Bank Transfer,Savings Account,Client Payment,1593641.0,6500000,2025-09
+FIN20643,2025-07-04,Sales,Port Harcourt,Income,Direct Debit,Business Account,Travel,1439501.0,9000000,2025-07
+FIN21724,2025-08-18,Human Resources,Lagos,Income,Direct Debit,Savings Account,Office Supplies,1760989.0,5000000,2025-08
+FIN20613,2025-05-27,Operations,Port Harcourt,Expense,Bank Transfer,Business Account,Service Fee,197826.0,8500000,2025-05
+FIN20961,2025-01-10,Human Resources,Port Harcourt,Income,Cash,Savings Account,Office Supplies,1114262.0,5000000,2025-01
+FIN21571,2025-03-10,Operations,Lagos,Expense,Mobile Money,Business Account,Utilities,630514.0,8500000,2025-03
+FIN20726,2025-04-07,Marketing,Port Harcourt,Expense,Card,Business Account,Office Supplies,541396.0,6500000,2025-04
+FIN20684,2025-06-07,Finance,Port Harcourt,Expense,Mobile Money,Business Account,Advertising,79821.0,5800000,2025-06
+FIN20099,2025-06-22,Finance,Ibadan,Income,Direct Debit,Business Account,Service Fee,921965.0,5800000,2025-06
+FIN20805,2025-11-14,Operations,Ibadan,Income,Direct Debit,Savings Account,Client Payment,371077.0,8500000,2025-11
+FIN21598,2025-06-11,IT,Abuja,Income,Direct Debit,Savings Account,Client Payment,504528.0,7200000,2025-06
+FIN20407,2025-03-11,IT,Lagos,Income,Card,Current Account,Travel,758841.0,7200000,2025-03
+FIN20503,2025-03-11,Finance,Lagos,Income,Bank Transfer,Current Account,Service Fee,494600.0,5800000,2025-03
+FIN21072,2025-04-22,IT,Lagos,Income,Card,Current Account,Client Payment,827028.0,7200000,2025-04
+FIN21057,2025-07-29,Operations,Lagos,Expense,Bank Transfer,Current Account,Office Supplies,298404.0,8500000,2025-07
+FIN20930,2025-09-14,Marketing,Kano,Income,Mobile Money,Savings Account,Client Payment,1223051.0,6500000,2025-09
+FIN20780,2025-06-30,IT,Kano,Expense,Mobile Money,Current Account,Utilities,212003.0,7200000,2025-06
+FIN20201,2025-02-17,Human Resources,Abuja,Expense,Direct Debit,Savings Account,Advertising,518682.0,5000000,2025-02
+FIN20135,2025-05-17,Finance,Abuja,Expense,Bank Transfer,Savings Account,Client Payment,635937.0,5800000,2025-05
+FIN21052,2025-01-13,Sales,Lagos,Expense,Cash,Business Account,Salary,598483.0,9000000,2025-01
+FIN20041,2025-01-06,Human Resources,Ibadan,Income,Card,Savings Account,Service Fee,1599832.0,5000000,2025-01
+FIN21018,2025-10-06,Human Resources,Abuja,Expense,Mobile Money,Business Account,Consulting,290146.0,5000000,2025-10
+FIN20231,2025-09-15,Operations,Ibadan,Expense,Bank Transfer,Business Account,Client Payment,504528.0,8500000,2025-09
+FIN21514,2025-11-28,Marketing,Kano,Income,Cash,Current Account,Salary,261196.0,6500000,2025-11
+FIN20379,2025-05-03,Operations,Port Harcourt,Expense,Mobile Money,Savings Account,Utilities,26968.0,8500000,2025-05
+FIN20289,2025-03-23,IT,Kano,Income,Cash,Current Account,Advertising,1736684.0,7200000,2025-03
+FIN20419,2025-12-18,Operations,Kano,Expense,Cash,Savings Account,Service Fee,120546.0,8500000,2025-12
+FIN20392,2025-04-09,IT,Ibadan,Income,Direct Debit,Current Account,Software Subscription,1481256.0,7200000,2025-04
+FIN20593,2025-12-02,Human Resources,Port Harcourt,Income,Card,Current Account,Equipment,1486368.0,5000000,2025-12
+FIN21523,2025-08-19,Marketing,Kano,Income,Bank Transfer,Business Account,Software Subscription,894038.0,6500000,2025-08
+FIN21163,2025-03-19,Marketing,Abuja,Income,Card,Current Account,Travel,1753031.0,6500000,2025-03
+FIN21087,2025-03-23,Finance,Ibadan,Expense,Direct Debit,Savings Account,Client Payment,286150.0,5800000,2025-03
+FIN21496,2025-04-29,Marketing,Ibadan,Expense,Bank Transfer,Savings Account,Office Supplies,123533.0,6500000,2025-04
+FIN20648,2025-04-07,Human Resources,Kano,Expense,Cash,Business Account,Travel,321994.0,5000000,2025-04
+FIN21153,2025-10-11,Human Resources,Abuja,Expense,Mobile Money,Savings Account,Travel,420782.0,5000000,2025-10
+FIN21368,2025-12-03,Operations,Lagos,Expense,Card,Savings Account,Consulting,308350.0,8500000,2025-12
+FIN20521,2025-10-13,IT,Port Harcourt,Expense,Mobile Money,Business Account,Client Payment,472413.0,7200000,2025-10
+FIN20065,2025-01-14,Sales,Port Harcourt,Income,Direct Debit,Savings Account,Service Fee,1742353.0,9000000,2025-01
+FIN20015,2025-10-06,Human Resources,Abuja,Income,Bank Transfer,Savings Account,Travel,1287786.0,5000000,2025-10
+FIN21181,2025-08-09,Sales,Port Harcourt,Expense,Cash,Business Account,Salary,196298.0,9000000,2025-08
+FIN21065,2025-11-17,Finance,Kano,Income,Cash,Savings Account,Utilities,206060.0,5800000,2025-11
+FIN20493,2025-10-10,Human Resources,Abuja,Income,Card,Business Account,Utilities,1713865.0,5000000,2025-10
+FIN20380,2025-11-27,Marketing,Lagos,Income,Card,Current Account,Office Supplies,1556313.0,6500000,2025-11
+FIN20188,2025-02-11,Operations,Kano,Expense,Cash,Business Account,Service Fee,534265.0,8500000,2025-02
+FIN20764,2025-04-18,IT,Lagos,Expense,Mobile Money,Business Account,Utilities,85149.0,7200000,2025-04
+FIN20217,2025-05-17,Sales,Kano,Income,Cash,Business Account,Software Subscription,1771983.0,9000000,2025-05
+FIN20792,2025-02-24,IT,Port Harcourt,Expense,Mobile Money,Current Account,Equipment,197597.0,7200000,2025-02
+FIN21077,2025-10-12,Finance,Port Harcourt,Income,Mobile Money,Savings Account,Advertising,548466.0,5800000,2025-10
+FIN20879,2025-01-12,Operations,Abuja,Income,Direct Debit,Savings Account,Travel,1312541.0,8500000,2025-01
+FIN20338,2025-01-26,Human Resources,Lagos,Expense,Mobile Money,Savings Account,Travel,317986.0,5000000,2025-01
+FIN20720,2025-06-25,IT,Abuja,Expense,Direct Debit,Current Account,Salary,235558.0,7200000,2025-06
+FIN20296,2025-11-14,IT,Lagos,Expense,Direct Debit,Current Account,Consulting,418499.0,7200000,2025-11
+FIN21017,2025-11-27,Sales,Lagos,Income,Mobile Money,Business Account,Client Payment,456794.0,9000000,2025-11
+FIN21276,2025-12-22,Marketing,Lagos,Income,Mobile Money,Current Account,Salary,315062.0,6500000,2025-12
+FIN21486,2025-05-26,Sales,Kano,Income,Bank Transfer,Business Account,Service Fee,361755.0,9000000,2025-05
+FIN20456,2025-12-02,Marketing,Kano,Income,Bank Transfer,Current Account,Client Payment,1658638.0,6500000,2025-12
+FIN20816,2025-05-28,IT,Abuja,Income,Direct Debit,Business Account,Office Supplies,153869.0,7200000,2025-05
+FIN20270,2025-07-16,Human Resources,Lagos,Income,Bank Transfer,Savings Account,Service Fee,268490.0,5000000,2025-07
+FIN20996,2025-09-05,Sales,Kano,Income,Direct Debit,Savings Account,Software Subscription,1522721.0,9000000,2025-09
+FIN20202,2025-02-08,Human Resources,Lagos,Income,Mobile Money,Savings Account,Software Subscription,723942.0,5000000,2025-02
+FIN20162,2025-05-22,IT,Lagos,Expense,Card,Savings Account,Advertising,313946.0,7200000,2025-05
+FIN21580,2025-01-13,Marketing,Abuja,Expense,Card,Savings Account,Software Subscription,66121.0,6500000,2025-01
+FIN20730,2025-11-09,Finance,Port Harcourt,Income,Bank Transfer,Business Account,Utilities,397013.0,5800000,2025-11
+FIN20402,2025-12-04,Sales,Abuja,Expense,Direct Debit,Current Account,Utilities,525838.0,9000000,2025-12
+FIN20703,2025-07-28,Operations,Port Harcourt,Income,Card,Business Account,Salary,638516.0,8500000,2025-07
+FIN21130,2025-08-07,Finance,Ibadan,Income,Card,Business Account,Service Fee,210351.0,5800000,2025-08
+FIN20566,2025-04-08,Finance,Kano,Expense,Direct Debit,Current Account,Equipment,637693.0,5800000,2025-04
+FIN21414,2025-10-06,Marketing,Port Harcourt,Income,Cash,Savings Account,Unknown,1240291.0,6500000,2025-10
+FIN21022,2025-08-20,Operations,Abuja,Income,Direct Debit,Current Account,Travel,195598.0,8500000,2025-08
+FIN21026,2025-08-20,Marketing,Abuja,Income,Mobile Money,Current Account,Salary,856676.0,6500000,2025-08
+FIN21412,2025-07-22,IT,Abuja,Income,Mobile Money,Business Account,Client Payment,82257.0,7200000,2025-07
+FIN21586,2025-05-08,Sales,Lagos,Income,Bank Transfer,Business Account,Client Payment,902513.0,9000000,2025-05
+FIN21105,2025-06-18,IT,Ibadan,Expense,Mobile Money,Business Account,Travel,303028.0,7200000,2025-06
+FIN20206,2025-09-01,Sales,Port Harcourt,Income,Cash,Business Account,Office Supplies,184195.0,9000000,2025-09
+FIN20035,2025-08-20,Human Resources,Abuja,Expense,Card,Savings Account,Advertising,71001.0,5000000,2025-08
+FIN20776,2025-06-03,Marketing,Port Harcourt,Income,Mobile Money,Savings Account,Client Payment,1256371.0,6500000,2025-06
+FIN20509,2025-04-23,IT,Abuja,Expense,Card,Business Account,Travel,504528.0,7200000,2025-04
+FIN21452,2025-07-19,Marketing,Port Harcourt,Expense,Cash,Savings Account,Salary,301197.0,6500000,2025-07
+FIN21479,2025-04-16,Marketing,Port Harcourt,Expense,Bank Transfer,Current Account,Utilities,402706.0,6500000,2025-04
+FIN21796,2025-12-02,Human Resources,Kano,Income,Direct Debit,Savings Account,Salary,518242.0,5000000,2025-12
+FIN21391,2025-02-08,Sales,Ibadan,Income,Card,Business Account,Client Payment,447570.0,9000000,2025-02
+FIN20092,2025-11-29,Marketing,Ibadan,Expense,Direct Debit,Business Account,Software Subscription,62291.0,6500000,2025-11
+FIN21364,2025-07-03,Operations,Ibadan,Expense,Bank Transfer,Current Account,Client Payment,504528.0,8500000,2025-07
+FIN20898,2025-05-23,Operations,Lagos,Expense,Bank Transfer,Savings Account,Salary,257723.0,8500000,2025-05
+FIN20565,2025-02-11,IT,Ibadan,Income,Bank Transfer,Savings Account,Advertising,299780.0,7200000,2025-02
+FIN21370,2025-10-02,IT,Lagos,Income,Direct Debit,Business Account,Utilities,835612.0,7200000,2025-10
+FIN20777,2025-06-23,IT,Kano,Income,Mobile Money,Business Account,Utilities,168668.0,7200000,2025-06
+FIN20242,2025-07-10,Finance,Ibadan,Expense,Cash,Business Account,Advertising,104381.0,5800000,2025-07
+FIN20014,2025-11-30,Finance,Abuja,Income,Bank Transfer,Business Account,Office Supplies,1579698.0,5800000,2025-11
+FIN20316,2025-07-29,Marketing,Port Harcourt,Expense,Cash,Business Account,Utilities,536540.0,6500000,2025-07
+FIN20601,2025-01-23,Marketing,Lagos,Income,Cash,Savings Account,Travel,1330617.0,6500000,2025-01
+FIN20388,2025-02-17,Marketing,Lagos,Income,Direct Debit,Current Account,Software Subscription,633343.0,6500000,2025-02
+FIN21298,2025-04-02,Operations,Kano,Income,Direct Debit,Business Account,Equipment,1248839.0,8500000,2025-04
+FIN20167,2025-08-13,IT,Abuja,Income,Cash,Current Account,Salary,511116.0,7200000,2025-08
+FIN20841,2025-09-26,Marketing,Lagos,Income,Cash,Savings Account,Travel,1723312.0,6500000,2025-09
+FIN20021,2025-05-21,IT,Ibadan,Expense,Cash,Savings Account,Service Fee,516965.0,7200000,2025-05
+FIN20647,2025-02-24,Operations,Ibadan,Expense,Bank Transfer,Current Account,Equipment,53340.0,8500000,2025-02
+FIN21509,2025-08-02,IT,Port Harcourt,Expense,Mobile Money,Current Account,Travel,29726.0,7200000,2025-08
+FIN21155,2025-04-09,Operations,Abuja,Expense,Cash,Savings Account,Consulting,598110.0,8500000,2025-04
+FIN21529,2025-11-21,Sales,Lagos,Expense,Direct Debit,Business Account,Client Payment,177753.0,9000000,2025-11
+FIN20832,2025-03-09,Sales,Kano,Income,Bank Transfer,Business Account,Software Subscription,345972.0,9000000,2025-03
+FIN21268,2025-01-16,Sales,Ibadan,Income,Card,Savings Account,Software Subscription,1663214.0,9000000,2025-01
+FIN21591,2025-08-06,Human Resources,Port Harcourt,Expense,Cash,Savings Account,Software Subscription,425831.0,5000000,2025-08
+FIN20563,2025-07-31,Human Resources,Lagos,Income,Mobile Money,Savings Account,Client Payment,1390077.0,5000000,2025-07
+FIN21778,2025-10-29,IT,Port Harcourt,Income,Direct Debit,Business Account,Salary,1005779.0,7200000,2025-10
+FIN20687,2025-07-28,Operations,Kano,Expense,Cash,Current Account,Advertising,457651.0,8500000,2025-07
+FIN20958,2025-05-04,Marketing,Kano,Income,Card,Savings Account,Advertising,644046.0,6500000,2025-05
+FIN20190,2025-08-24,Human Resources,Lagos,Income,Cash,Savings Account,Advertising,1113316.0,5000000,2025-08
+FIN20976,2025-01-20,IT,Lagos,Income,Cash,Business Account,Office Supplies,1561124.0,7200000,2025-01
+FIN20700,2025-03-03,Marketing,Port Harcourt,Income,Direct Debit,Current Account,Equipment,1264141.0,6500000,2025-03
+FIN21500,2025-11-10,Human Resources,Kano,Expense,Direct Debit,Savings Account,Software Subscription,348615.0,5000000,2025-11
+FIN21706,2025-12-04,Finance,Abuja,Income,Cash,Savings Account,Client Payment,1474316.0,5800000,2025-12
+FIN20511,2025-01-18,Finance,Kano,Expense,Mobile Money,Business Account,Advertising,193311.0,5800000,2025-01
+FIN21083,2025-09-12,Operations,Abuja,Income,Bank Transfer,Current Account,Salary,642060.0,8500000,2025-09
+FIN20475,2025-04-10,Marketing,Port Harcourt,Expense,Cash,Current Account,Travel,567473.0,6500000,2025-04
+FIN21585,2025-12-02,Marketing,Ibadan,Expense,Cash,Current Account,Utilities,455647.0,6500000,2025-12
+FIN20857,2025-10-31,Marketing,Ibadan,Income,Direct Debit,Savings Account,Consulting,1443501.0,6500000,2025-10
+FIN20748,2025-12-31,Human Resources,Port Harcourt,Expense,Card,Savings Account,Consulting,635324.0,5000000,2025-12
+FIN20253,2025-03-15,Marketing,Port Harcourt,Expense,Card,Savings Account,Consulting,437567.0,6500000,2025-03
+FIN20022,2025-02-12,Marketing,Kano,Income,Card,Business Account,Advertising,1789375.0,6500000,2025-02
+FIN21338,2025-07-01,Sales,Abuja,Expense,Cash,Current Account,Equipment,346284.0,9000000,2025-07
+FIN20460,2025-12-16,Sales,Abuja,Income,Card,Business Account,Salary,884565.0,9000000,2025-12
+FIN21185,2025-01-10,IT,Lagos,Income,Cash,Current Account,Equipment,329877.0,7200000,2025-01
+FIN20277,2025-07-28,Operations,Port Harcourt,Expense,Mobile Money,Savings Account,Salary,336462.0,8500000,2025-07
+FIN20956,2025-09-07,IT,Ibadan,Income,Bank Transfer,Business Account,Utilities,683291.0,7200000,2025-09
+FIN21216,2025-12-18,Marketing,Ibadan,Income,Direct Debit,Current Account,Utilities,1345804.0,6500000,2025-12
+FIN20386,2025-07-28,Sales,Kano,Expense,Bank Transfer,Current Account,Consulting,183187.0,9000000,2025-07
+FIN20806,2025-05-09,IT,Port Harcourt,Expense,Direct Debit,Savings Account,Travel,617904.0,7200000,2025-05
+FIN21438,2025-12-08,Finance,Port Harcourt,Expense,Card,Business Account,Office Supplies,232603.0,5800000,2025-12
+FIN21516,2025-06-25,Operations,Ibadan,Income,Bank Transfer,Business Account,Equipment,1578339.0,8500000,2025-06
+FIN20344,2025-03-19,Sales,Port Harcourt,Income,Card,Business Account,Salary,1554764.0,9000000,2025-03
+FIN20770,2025-09-04,Human Resources,Abuja,Expense,Card,Current Account,Equipment,307623.0,5000000,2025-09
+FIN21333,2025-04-02,Sales,Ibadan,Income,Bank Transfer,Current Account,Client Payment,1328351.0,9000000,2025-04
+FIN21686,2025-05-05,Human Resources,Abuja,Expense,Cash,Savings Account,Office Supplies,158442.0,5000000,2025-05
+FIN21688,2025-02-08,Operations,Ibadan,Income,Card,Current Account,Advertising,491236.0,8500000,2025-02
+FIN20872,2025-02-13,Sales,Port Harcourt,Income,Mobile Money,Savings Account,Salary,1787257.0,9000000,2025-02
+FIN21124,2025-01-26,Human Resources,Abuja,Expense,Card,Savings Account,Service Fee,257069.0,5000000,2025-01
+FIN21397,2025-08-04,Operations,Kano,Income,Mobile Money,Current Account,Consulting,233077.0,8500000,2025-08
+FIN20088,2025-05-07,IT,Port Harcourt,Expense,Card,Current Account,Equipment,366184.0,7200000,2025-05
+FIN21483,2025-10-25,Finance,Lagos,Expense,Mobile Money,Savings Account,Service Fee,209327.0,5800000,2025-10
+FIN20331,2025-05-14,Marketing,Lagos,Income,Mobile Money,Current Account,Travel,744917.0,6500000,2025-05
+FIN21239,2025-02-17,Marketing,Ibadan,Expense,Card,Business Account,Travel,132752.0,6500000,2025-02
+FIN20467,2025-04-15,Sales,Ibadan,Income,Mobile Money,Current Account,Client Payment,1116059.0,9000000,2025-04
+FIN20122,2025-04-13,IT,Ibadan,Expense,Cash,Business Account,Advertising,392047.0,7200000,2025-04
+FIN21639,2025-11-16,Marketing,Port Harcourt,Expense,Card,Savings Account,Travel,121894.0,6500000,2025-11
+FIN21045,2025-06-26,Marketing,Lagos,Expense,Direct Debit,Savings Account,Consulting,33780.0,6500000,2025-06
+FIN21725,2025-07-08,Finance,Kano,Expense,Card,Current Account,Client Payment,431906.0,5800000,2025-07
+FIN21096,2025-09-11,Finance,Port Harcourt,Income,Cash,Current Account,Office Supplies,316281.0,5800000,2025-09
+FIN21131,2025-05-31,IT,Port Harcourt,Expense,Bank Transfer,Current Account,Utilities,619792.0,7200000,2025-05
+FIN21295,2025-05-08,Finance,Ibadan,Expense,Mobile Money,Savings Account,Client Payment,431659.0,5800000,2025-05
+FIN20861,2025-07-06,IT,Ibadan,Expense,Mobile Money,Savings Account,Salary,463066.0,7200000,2025-07
+FIN21460,2025-06-16,Marketing,Kano,Expense,Direct Debit,Current Account,Service Fee,156645.0,6500000,2025-06
+FIN21127,2025-12-07,Sales,Kano,Income,Bank Transfer,Savings Account,Salary,1719282.0,9000000,2025-12
